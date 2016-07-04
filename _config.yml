@@ -58,3 +58,10 @@ t:
       name: "Evènement"
       url: "/events-fr.html"
 
+home:
+  en:
+    home:    
+      url: "/index.html"
+  fr:
+    home:
+      url: "index-fr.html"
