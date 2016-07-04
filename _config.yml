@@ -52,10 +52,10 @@ t:
       name: "Audio"
       url: "/audio-fr.html"
     video:
-      name: "Vidéo"
+      name: "Vidéos"
       url: "/video-fr.html"
     events:
-      name: "Evènement"
+      name: "Evénements"
       url: "/events-fr.html"
 
 home:

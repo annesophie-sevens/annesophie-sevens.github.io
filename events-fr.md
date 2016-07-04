@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: Evénements
 menuorder: 6
 ref: events
 lang: fr

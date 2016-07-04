@@ -1,11 +1,9 @@
 <header class="site-header">
 
-  <div class="wrapper">
+  <div class="wrapper">  
     {% for index in site.home[page.lang] %}
-      <a class="site-title" href="{{ index[1].url }}">{{ site.title }}</a>
+      <h1> <a class="site-title" href="{{ index[1].url }}">{{ site.title }}</a></h2>
     {% endfor %}
-
-    
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -24,17 +22,27 @@
           {% endif %}
         {% endfor %} -->
 
-	{% for menu in site.t[page.lang] %}
-          <a class="page-link" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
-        {% endfor %}
 
 	{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-	{% for page in pages %}
-	  <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+	{% for lang in pages %}
+
+	  {% if page.lang == lang.lang %}
+	    <a href="{{ lang.url }}" style="font-weight: bold" class="{{ lang.lang }}">{{ lang.lang }}</a>
+          {% else %}
+            <a href="{{ lang.url }}" class="{{ lang.lang }}">{{ lang.lang }}</a>
+          {% endif %}
 	{% endfor %}
+        <br>
+	{% for menu in site.t[page.lang] %}
+	  {% if page.url == menu[1].url %}
+
+            <a class="page-link" style="font-weight: bold" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
+          {% else %}
+            <a class="page-link" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
+          {%endif%}
+        {% endfor %}
       </div>
     </nav>
-
   </div>
 
 </header>
