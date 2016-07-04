@@ -1,7 +1,8 @@
 ---
 layout: page
 menuorder: 1
-lang: en
+ref: home
+lang: fr
 ---
 
 

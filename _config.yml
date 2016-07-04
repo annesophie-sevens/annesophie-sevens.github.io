@@ -17,3 +17,44 @@ url: "http://www.annesophiesevens.com" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
+
+t:
+  en:
+    biography:
+      name: "Biography"
+      url: "/biography-en.html"
+    repertoire:
+      name: "Repertoire"
+      url: "/repertoire-en.html"
+    pictures:
+      name: "Pictures"
+      url: "/pictures-en.html"
+    audio:
+      name: "Audio"
+      url: "/audio-en.html"
+    video:
+      name: "Video"
+      url: "/video-en.html"
+    events:
+      name: "Events"
+      url: "/events-en.html"
+  fr:
+    biography:
+      name: "Biographie"
+      url: "/biography-fr.html"
+    repertoire:
+      name: "Répertoire"
+      url: "/repertoire-fr.html"
+    pictures:
+      name: "Photos"
+      url: "/pictures-fr.html"
+    audio:
+      name: "Audio"
+      url: "/audio-fr.html"
+    video:
+      name: "Vidéo"
+      url: "/video-fr.html"
+    events:
+      name: "Evènement"
+      url: "/events-fr.html"
+

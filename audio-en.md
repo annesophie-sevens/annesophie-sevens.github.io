@@ -2,6 +2,8 @@
 layout: page
 title: Audio
 menuorder: 4
+ref: audio
+lang: en
 ---
 
 G. Verdi, La Forza del Destino, Leonora – Pace, pace (Biel, 6-6-2016)

@@ -2,6 +2,8 @@
 layout: page
 title: Video
 menuorder: 5
+lang: en
+ref: video
 ---
 
 **W.A. Mozart, Elektra** – Tutte nel cor vi sento   (Theater Biel, 8-6-2016)

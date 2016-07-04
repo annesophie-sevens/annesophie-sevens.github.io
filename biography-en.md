@@ -2,6 +2,9 @@
 layout: page
 title: Biography
 menuorder: 2
+lang: en
+ref: biography
+
 ---
 
 
