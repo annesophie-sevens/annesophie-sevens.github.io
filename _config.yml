@@ -55,7 +55,7 @@ t:
       name: "Vidéos"
       url: "/video-fr.html"
     events:
-      name: "Evénementsss"
+      name: "Evénements"
       url: "/events-fr.html"
 
 home:
