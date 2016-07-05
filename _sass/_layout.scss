@@ -17,10 +17,10 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    color: $brand-color;
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $brand-color;
     }
 }
 

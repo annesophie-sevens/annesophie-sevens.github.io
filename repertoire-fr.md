@@ -16,5 +16,5 @@ ref: repertoire
 | W.A. Mozart | Idomeneo | Elektra |
 | G. Puccini | Gianni Schicchi | Lauretta, Nella |
 | B. Smetana | Die verkaufte Braut | Marie |
-| G. Verdi | Otello | Desemona |
+| G. Verdi | Otello | Desdemona |
 | C.M. v.Wieber | Der Freischütz | Agathe |
