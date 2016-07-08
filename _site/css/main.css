@@ -66,10 +66,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2ae27a;
+  color: #721e37;
   text-decoration: none; }
   a:visited {
-    color: #17a956; }
+    color: #350e1a; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -160,9 +160,9 @@ pre {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: #2ae27a; }
+  color: #721e37; }
   .site-title, .site-title:visited {
-    color: #2ae27a; }
+    color: #721e37; }
 
 .site-nav {
   text-align: right;
