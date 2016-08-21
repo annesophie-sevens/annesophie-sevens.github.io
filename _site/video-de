@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Audio</title>
+  <title>Video</title>
   <meta name="description" content="Created by Benoît Sevens
 ">
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://www.annesophiesevens.com/audio-fr.html">
+  <link rel="canonical" href="http://www.annesophiesevens.com/video-de">
   <link rel="alternate" type="application/rss+xml" title="Anne-Sophie Sevens" href="http://www.annesophiesevens.com/feed.xml">
 </head>
 
@@ -24,7 +24,7 @@
 
   <div class="wrapper">  
     
-      <h1> <a class="site-title" href="index-fr.html">Anne-Sophie Sevens</a></h2>
+      <h1> <a class="site-title" href="/index.html">Anne-Sophie Sevens</a></h2>
     
 
     <nav class="site-nav">
@@ -86,6 +86,10 @@
           
         
           
+          <a class="page-link" href="/video-de">Video</a>
+          
+        
+          
           <a class="page-link" href="/video-de.html">Video</a>
           
         
@@ -127,44 +131,48 @@
 	
 
 	  
-            <a href="/audio-de.html" class="de">de</a>
+	    <a href="/video-de" style="font-weight: bold" class="en">en</a>
           
 	
 
 	  
-            <a href="/audio-en.html" class="en">en</a>
+	    <a href="/video-de.html" style="font-weight: bold" class="en">en</a>
           
 	
 
 	  
-	    <a href="/audio-fr.html" style="font-weight: bold" class="fr">fr</a>
+	    <a href="/video-en.html" style="font-weight: bold" class="en">en</a>
+          
+	
+
+	  
+            <a href="/video-fr.html" class="fr">fr</a>
           
 	
         <br>
 	
 	  
-            <a class="page-link" href="/biography-fr.html">Biographie</a>
+            <a class="page-link" href="/biography-en.html">Biography</a>
           
         
 	  
-            <a class="page-link" href="/repertoire-fr.html">Répertoire</a>
+            <a class="page-link" href="/repertoire-en.html">Repertoire</a>
           
         
 	  
-            <a class="page-link" href="/pictures-fr.html">Photos</a>
+            <a class="page-link" href="/pictures-en.html">Pictures</a>
           
         
 	  
-
-            <a class="page-link" style="font-weight: bold" href="/audio-fr.html">Audio</a>
+            <a class="page-link" href="/audio-en.html">Audio</a>
           
         
 	  
-            <a class="page-link" href="/video-fr.html">Vidéos</a>
+            <a class="page-link" href="/video-en.html">Video</a>
           
         
 	  
-            <a class="page-link" href="/agenda-fr.html">Agenda</a>
+            <a class="page-link" href="/agenda-en.html">Agenda</a>
           
         
       </div>
@@ -179,22 +187,15 @@
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Audio</h1>
+    <h1 class="post-title">Video</h1>
   </header>
 
   <div class="post-content">
-    <p>G. Verdi, La Forza del Destino, Leonora – Pace, pace (Biel, 6-6-2016)</p>
+    **W.A. Mozart, Elektra** – Tutte nel cor vi sento   (Theater Biel, 8-6-2016)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HLRQldUrmfg" frameborder="0" allowfullscreen></iframe>
 
-<audio controls=""><source type="audio/mpeg" src="/assets/tapp.mp3" />Hello</audio>
-
-<p>G. Puccini, La Bohème, Mimì – Donde lieta (Belgium, 19-11-2014)</p>
-
-<audio controls=""><source type="audio/mpeg" src="/assets/tapp.mp3" />Hello</audio>
-
-<p>R. Wagner, Wesendonck-Lieder, Träume   (Brussels, 25-4-2014)</p>
-
-<audio controls=""><source type="audio/mpeg" src="/assets/tapp.mp3" />Hello</audio>
-
+**G. Puccini, Lauretta** – O mio babbino caro   (Bilthoven, 13-7-2015)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grMCLi_pzxI" frameborder="0" allowfullscreen></iframe>
 
   </div>
 

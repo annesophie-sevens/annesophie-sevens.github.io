@@ -35,9 +35,9 @@ t:
     video:
       name: "Video"
       url: "/video-en.html"
-    events:
-      name: "Events"
-      url: "/events-en.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-en.html"
   fr:
     biography:
       name: "Biographie"
@@ -54,9 +54,29 @@ t:
     video:
       name: "Vidéos"
       url: "/video-fr.html"
-    events:
-      name: "Evénements"
-      url: "/events-fr.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-fr.html"
+  de:
+    biography:
+      name: "Biography"
+      url: "/biography-de.html"
+    repertoire:
+      name: "Repertoire"
+      url: "/repertoire-de.html"
+    pictures:
+      name: "Pictures"
+      url: "/pictures-de.html"
+    audio:
+      name: "Audio"
+      url: "/audio-de.html"
+    video:
+      name: "Video"
+      url: "/video-de.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-de.html"
+
 
 home:
   en:
@@ -65,3 +85,6 @@ home:
   fr:
     home:
       url: "index-fr.html"
+  de:
+    home:
+      url: "index-de.html"
