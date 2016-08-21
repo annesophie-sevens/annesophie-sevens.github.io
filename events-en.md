@@ -6,5 +6,5 @@ ref: events
 lang: en
 ---
 
-More information coming soon.
+<img align="left" src="/assets/picture1.jpg"/>
 
