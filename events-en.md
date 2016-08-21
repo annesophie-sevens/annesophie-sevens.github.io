@@ -6,5 +6,5 @@ ref: events
 lang: en
 ---
 
-<img align="left" src="/assets/picture1.jpg"/>
+<img align="left" src="/assets/picture1-thumbnail.jpg"/>
 
