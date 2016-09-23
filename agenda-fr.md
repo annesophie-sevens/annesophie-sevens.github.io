@@ -87,7 +87,7 @@ Akademiekonzert
 
 ##### 23.08.2016 | 18:00
 
-##### With Edda Moser, Internationales Sommerakademie der Universität Mozarteum
+##### With Edda Moser & Yoshiko Hashimoto (Pianist), Internationales Sommerakademie der Universität Mozarteum
 
 ##### _Wiener Saal \| Schwarzstraße 26, 5020 Salzburg_
 
