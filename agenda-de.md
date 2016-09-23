@@ -76,7 +76,6 @@ Singing and acting Mozart in front of the camera
 
 &nbsp;
 
-&nbsp;
 
 
 <img style="float: left; padding: 20px" src="/assets/event1.jpg">  
