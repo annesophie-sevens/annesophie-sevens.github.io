@@ -81,7 +81,7 @@ NINO ROTA / GIACOMO PUCCINI
 
 MASTERCLASS TERRENCE MCNALLY 
 
-##### In the role of Dramatic Soprano with Nella dì della Vittoria, aria of Lady Macbeth 
+##### In the role of Dramatic Soprano with Nel dì della Vittoria, aria of Lady Macbeth 
 
 ##### 19.02.2017 - 21.05.2017
 
