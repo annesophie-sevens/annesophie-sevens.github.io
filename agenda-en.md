@@ -46,22 +46,6 @@ MASTERCLASS TERRENCE MCNALLY
 
 ### Past events
 
-<img style="float: left; padding: 20px" src="/assets/event3.jpg">  
-
-International Voice Competition 2016 - Accademia Belcanto
-
-##### 04.09 - 08.09.2016
-
-##### Headed by Natela Nicoli
-
-##### _Graz, Austria_
-
-###### <a href="http://www.accademia-belcanto.com/english/international-voice-competition-2016/" target="_blank">More info</a>
-
-&nbsp;
-
-
-
 <img style="float: left; padding: 20px" src="/assets/event2.jpg">  
 
 Singing and acting Mozart in front of the camera 
