@@ -42,7 +42,6 @@ MASTERCLASS TERRENCE MCNALLY
 
 &nbsp;
 
-&nbsp;
 
 
 ### Past events
