@@ -42,7 +42,6 @@ MASTERCLASS TERRENCE MCNALLY
 
 &nbsp;
 
-&nbsp;
 
 
 ### Past events
@@ -61,7 +60,6 @@ International Voice Competition 2016 - Accademia Belcanto
 
 &nbsp;
 
-&nbsp;
 
 
 <img style="float: left; padding: 20px" src="/assets/event2.jpg">  
@@ -78,7 +76,6 @@ Singing and acting Mozart in front of the camera
 
 &nbsp;
 
-&nbsp;
 
 
 <img style="float: left; padding: 20px" src="/assets/event1.jpg">  
