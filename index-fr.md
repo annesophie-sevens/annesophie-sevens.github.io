@@ -6,7 +6,7 @@ lang: fr
 ---
 
 
-![My helpful screenshot]({{ site.baseurl }}/assets/cage.jpeg)
+![My helpful screenshot]({{ site.baseurl }}/assets/artistic.jpeg)
 
 ![My helpful screenshot]({{ site.baseurl }}/assets/citations.jpg)
 
