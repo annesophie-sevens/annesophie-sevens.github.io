@@ -7,12 +7,12 @@ ref: pictures
 ---
 | <a href="/assets/1.jpg">![]({{ site.baseurl }}/assets/1.png)</a>  | <a href="/assets/3.jpg"> ![]({{ site.baseurl }}/assets/3.png) </a> | <a href="/assets/5.jpg">  ![]({{ site.baseurl }}/assets/5.png) </a> | 
 | --- | --- | --- |
-| <a href="/assets/2.jpg">![]({{ site.baseurl }}/assets/2.png) </a> | <a href="/assets/4.jpg"> ![]({{ site.baseurl }}/assets/4.png) </a> | <a href="/assets/6.jpg">  ![]({{ site.baseurl }}/assets/6-thumbnail.jpg) </a> | 
+| <a href="/assets/2.jpg">![]({{ site.baseurl }}/assets/2.png) </a> | <a href="/assets/4.jpg"> ![]({{ site.baseurl }}/assets/4.png) </a> | <a href="/assets/6.jpg">  ![]({{ site.baseurl }}/assets/6.png) </a> | 
 | --- | --- | --- | 
-| <a href="/assets/7.jpg">![]({{ site.baseurl }}/assets/7-thumbnail.jpg) </a> | <a href="/assets/8.jpg"> ![]({{ site.baseurl }}/assets/8-thumbnail.jpg) </a> | <a href="/assets/9.jpg">  ![]({{ site.baseurl }}/assets/9-thumbnail.jpg) </a> | 
+| <a href="/assets/7.jpg">![]({{ site.baseurl }}/assets/7.png) </a> | <a href="/assets/8.jpg"> ![]({{ site.baseurl }}/assets/8.png) </a> | <a href="/assets/9.jpg">  ![]({{ site.baseurl }}/assets/9.png) </a> | 
 | --- | --- | --- | 
-| <a href="/assets/10.jpg">![]({{ site.baseurl }}/assets/10-thumbnail.jpg) </a> | <a href="/assets/11.jpg"> ![]({{ site.baseurl }}/assets/11-thumbnail.jpg) </a> | <a href="/assets/12.jpg">  ![]({{ site.baseurl }}/assets/12-thumbnail.jpg) </a> | 
+| <a href="/assets/10.jpg">![]({{ site.baseurl }}/assets/10.png) </a> | <a href="/assets/11.jpg"> ![]({{ site.baseurl }}/assets/11.png) </a> | <a href="/assets/12.jpg">  ![]({{ site.baseurl }}/assets/12.png) </a> | 
 | --- | --- | --- | 
-| <a href="/assets/13.jpg">![]({{ site.baseurl }}/assets/13-thumbnail.jpg) </a> | <a href="/assets/14.jpg"> ![]({{ site.baseurl }}/assets/14-thumbnail.jpg) </a> | <a href="/assets/15.jpg">  ![]({{ site.baseurl }}/assets/15-thumbnail.jpg) </a> | 
+| <a href="/assets/13.jpg">![]({{ site.baseurl }}/assets/13.png) </a> | <a href="/assets/14.jpg"> ![]({{ site.baseurl }}/assets/14.png) </a> | <a href="/assets/15.jpg">  ![]({{ site.baseurl }}/assets/15.png) </a> | 
 | --- | --- | --- | 
 
