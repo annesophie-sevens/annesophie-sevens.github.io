@@ -43,7 +43,6 @@ MASTERCLASS TERRENCE MCNALLY
 &nbsp;
 
 
-
 ### Past events
 
 <img style="float: left; padding: 20px" src="/assets/event2.jpg">  
@@ -60,7 +59,7 @@ Singing and acting Mozart in front of the camera
 
 &nbsp;
 
-
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/event1.jpg">  
 
@@ -73,7 +72,5 @@ Akademiekonzert
 ##### _Wiener Saal \| Schwarzstraße 26, 5020 Salzburg_
 
 ###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
