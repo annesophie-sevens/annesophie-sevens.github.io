@@ -16,3 +16,4 @@ She started her vocal training at the age of 15 with Martine Reyners. After obta
 
 Anne-Sophie is currently singing in the Schweizer Opernstudio where she has coaching with Mathias Behrends, Franco Trinca and Barbara Locher.
 
+You can download Anne-Sophie's curriculum vitae [here](assets/CV.pdf).

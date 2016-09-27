@@ -15,3 +15,4 @@ Elle a été depuis très jeune âge passionnée pour la musique, d’abord à t
 
 Anne-Sophie a suivi des coachings et masterclasses avec Martine Reyners, Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker et Joachim Schlömer. Anne-Sophie chante en ce moment au Studio suisse d’Opéra où elle suit des coachings avec Mathias Behrends, Franco Trinca et Barbara Locher.
 
+Vous pouvez consulter le curriculum vitae d'Anne-Sophie [ici](assets/CV.pdf).
