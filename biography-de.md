@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biography
+title: Biographie
 menuorder: 2
 lang: de
 ref: biography
