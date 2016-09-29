@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pictures
+title: Fotos
 menuorder: 7
 lang: de
 ref: pictures
