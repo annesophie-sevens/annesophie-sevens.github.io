@@ -10,11 +10,12 @@ ref: repertoire
 
 | Composer | Opera | Role |
 | -------- | ----- | ---- |
+
 | G. Bizet | Carmen | Micaela |
-| A. Cilea | Adriana Lecouvreur | Adriana Lecouvreur |
 | W.A. Mozart | Le nozze di Figaro | La Contessa |
 | W.A. Mozart | Idomeneo | Elektra |
 | G. Puccini | Gianni Schicchi | Lauretta, Nella |
+| G. Puccini | La Bohème | Mimì |
 | B. Smetana | Die verkaufte Braut | Marie |
-| G. Verdi | Otello | Desdemona |
-| C.M. v.Wieber | Der Freischütz | Agathe |
+| R. Wagner | Die Walküre | Sieglinde |
+| C.M. v.Weber | Der Freischütz | Agathe |
