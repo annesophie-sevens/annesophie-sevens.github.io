@@ -8,7 +8,7 @@ ref: repertoire
 
 # Opera	
 
-| Composer | Opera | Role |
+| Componist | Oper | Rolle |
 | -------- | ----- | ---- |
 | G. Bizet | Carmen | Micaela |
 | W.A. Mozart | Idomeneo | Elettra |
