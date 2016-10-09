@@ -42,26 +42,6 @@ MASTERCLASS TERRENCE MCNALLY
 
 &nbsp;
 
-
-<img style="float: left; padding: 20px" src="/assets/event4.jpg">  
-
-ELODIE ET BENOIT
-
-##### Pop that bottle
-
-##### 01.07.2017
-
-##### Inszenierung: The Love Birds
-
-##### _Love Town, Heart Country_
-
-###### <a href="assets/mar.png" target="_blank">More info</a>
-
-&nbsp;
-
-
-
-
 ### Past events
 
 <img style="float: left; padding: 20px" src="/assets/event2.jpg">  
