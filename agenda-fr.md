@@ -27,6 +27,19 @@ MASTERCLASS | Terrence McNally
 
 ### Past events
 
+DIPLOMFEIER Conservation-Restoration
+
+##### Dich theure Halle - Tannhäuser - R.Wagner | Du bist der Lenz - Die Walküre - R.Wagner | September - R.Strauss | Nel dì della vittoria - Macbeth - G.Verdi
+
+##### 28.10.2016
+
+##### _Bern – Switzerland_
+
+&nbsp;
+
+&nbsp;
+
+
 <img style="float: left; padding: 20px" src="/assets/tonhalle3.jpg">  
 
 OPERNWERKSTATT
