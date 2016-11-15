@@ -10,13 +10,13 @@ lang: fr
 
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
-MASTERCLASS TERRENCE MCNALLY 
+MASTERCLASS | Terrence McNally
 
 ##### In the role of Dramatic Soprano with Nel dì della Vittoria, aria of Lady Macbeth 
 
 ##### 19.02.2017 - 21.05.2017
 
-##### Inszenierung: Dieter Kaegi \| Bühnenbild und Kostüme: Dirk Hofacker
+##### Inszenierung: Dieter Kaegi | Bühnenbild und Kostüme: Dirk Hofacker
 
 ##### _TOBS, Biel / Solothurn, Switzerland_
 
