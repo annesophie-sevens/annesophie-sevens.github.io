@@ -27,8 +27,6 @@ MASTERCLASS | Terrence McNally
 
 ### Past events
 
-<img style="float: left; padding: 20px" src="/assets/IMG_5879.JPG">  
-
 DIPLOMFEIER Conservation-Restoration
 
 ##### Dich theure Halle - Tannhäuser - R.Wagner | Du bist der Lenz - Die Walküre - R.Wagner | September - R.Strauss | Nel dì della vittoria - Macbeth - G.Verdi
