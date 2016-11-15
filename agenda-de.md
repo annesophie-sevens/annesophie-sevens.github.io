@@ -12,7 +12,7 @@ lang: de
 
 MASTERCLASS | Terrence McNally
 
-##### In the role of Dramatic Soprano with Nel dì della Vittoria, aria of Lady Macbeth 
+##### In the role of Dramatic Soprano with Nel dì della vittoria - Macbeth - G.Verdi
 
 ##### 19.02.2017 - 21.05.2017
 
@@ -26,6 +26,21 @@ MASTERCLASS | Terrence McNally
 
 
 ### Past events
+
+<img style="float: left; padding: 20px" src="/assets/IMG_5879.jpg">  
+
+DIPLOMFEIER Conservation-Restoration
+
+##### Dich theure Halle - Tannhäuser - R.Wagner | Du bist der Lenz - Die Walküre - R.Wagner | September - R.Strauss | Nel dì della vittoria - Macbeth - G.Verdi
+
+##### 28.10.2016
+
+##### _Bern – Switzerland_
+
+&nbsp;
+
+&nbsp;
+
 
 <img style="float: left; padding: 20px" src="/assets/tonhalle3.jpg">  
 
