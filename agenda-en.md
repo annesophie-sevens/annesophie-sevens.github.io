@@ -31,6 +31,8 @@ MASTERCLASS | Terrence McNally
 
 OPERNWERKSTATT
 
+##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
+
 ##### 12.10 - 16.10.2016
 
 ##### Led by Verena Keller (Artistic Director), Giuliano Betta (Conductor), Joachim Schlömer (Regie)
