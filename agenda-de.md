@@ -27,7 +27,7 @@ MASTERCLASS | Terrence McNally
 
 ### Past events
 
-<img style="float: left; padding: 20px" src="/assets/IMG_5879.jpg">  
+<img style="float: left; padding: 20px" src="/assets/IMG_5879.JPG">  
 
 DIPLOMFEIER Conservation-Restoration
 
