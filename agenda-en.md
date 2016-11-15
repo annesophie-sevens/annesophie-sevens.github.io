@@ -31,7 +31,7 @@ MASTERCLASS | Terrence McNally
 
 OPERNWERKSTATT
 
-##### In the role of Gerhilde in Walkürenritt, Die Walküre, R. Wagner
+##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
 
 ##### 12.10 - 16.10.2016
 
@@ -66,6 +66,8 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 <img style="float: left; padding: 20px" src="/assets/event1.jpg">  
 
 AKADEMIEKONZERT
+
+##### "Dich theure Halle", Tannhäuser, R.Wagner
 
 ##### 23.08.2016 | 18:00
 
