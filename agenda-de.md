@@ -17,7 +17,7 @@ SHAKESPEARE
 
 ##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
 
-##### _Saal Oper, Jacob-Rosius Strasse 16, Biel 
+##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
 
 
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
