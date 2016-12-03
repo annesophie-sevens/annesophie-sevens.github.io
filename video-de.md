@@ -5,8 +5,15 @@ menuorder: 5
 lang: de
 ref: video
 ---
+**F. Schubert** – Ave Maria   (Lier, 1-10-2016)
+<iframe width="560" height="315" src="https://youtu.be/likIPvizNPU" frameborder="0" allowfullscreen></iframe>
 
-**W.A. Mozart, Elektra** – Tutte nel cor vi sento   (Theater Biel, 8-6-2016)
+
+**R. Wagner, Elisabeth** – Dich theure Halle   (Salzburg, 23-8-2016)
+<iframe width="560" height="315" src="https://youtu.be/xwZXcTgbi0E" frameborder="0" allowfullscreen></iframe>
+
+
+**W.A. Mozart, Elettra** – Tutte nel cor vi sento   (Theater Biel, 8-6-2016)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HLRQldUrmfg" frameborder="0" allowfullscreen></iframe>
 
 
