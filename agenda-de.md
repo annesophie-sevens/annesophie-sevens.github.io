@@ -11,7 +11,7 @@ SHAKESPEARE
 
 ##### In the role of Desdemona and Lady Macbeth 
 
-##### 22.12.2016
+##### 22.12.2016 | 19:30
 
 ##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
 
