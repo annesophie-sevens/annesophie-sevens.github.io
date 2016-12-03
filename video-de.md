@@ -6,11 +6,11 @@ lang: de
 ref: video
 ---
 **F. Schubert** – Ave Maria   (Lier, 1-10-2016)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=likIPvizNPU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/likIPvizNPU" frameborder="0" allowfullscreen></iframe>
 
 
 **R. Wagner, Elisabeth** – Dich theure Halle   (Salzburg, 23-8-2016)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xwZXcTgbi0E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/xwZXcTgbi0E" frameborder="0" allowfullscreen></iframe>
 
 
 **W.A. Mozart, Elettra** – Tutte nel cor vi sento   (Theater Biel, 8-6-2016)
