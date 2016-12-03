@@ -7,6 +7,16 @@ lang: en
 ---
 
 ### Upcoming events
+SHAKESPEARE 
+
+##### In the role of Desdemona and Lady Macbeth 
+
+##### 22.12.2016
+
+##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
+
+##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
+
 
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
