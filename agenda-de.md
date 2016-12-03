@@ -7,7 +7,7 @@ lang: de
 ---
 
 ### Upcoming events
-
+<img style="float: left; padding: 20px" src="/assets/event5.jpg">  
 
 SHAKESPEARE 
 
@@ -19,8 +19,8 @@ SHAKESPEARE
 
 ##### _Saal Oper, Jacob-Rosius Strasse 16, Biel 
 
-<img style="float: left; padding: 20px" src="/assets/event5.jpg">  
 
+<img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
 MASTERCLASS | Terrence McNally
 
