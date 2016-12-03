@@ -5,6 +5,17 @@ menuorder: 4
 ref: audio
 lang: en
 ---
+G. Verdi, Macbeth, Lady Macbeth – Nel dì della vittoria (Biel, 1-12-2016)
+ 
+<audio controls><source type="audio/mpeg" src="{{ site.baseurl }}/assets/Nel dì della vittoria.mp3"/>Hello</audio>
+
+W.A. Mozart, Le Nozze di Figaro, La Contessa – E Susanna non vien.. Dove Sono (Biel, 1-12-2016)
+ 
+<audio controls><source type="audio/mpeg" src="{{ site.baseurl }}/assets/E Susanna.mp3"/>Hello</audio> 
+
+R. Wagner, Lohengrin, Elsa von Brabant – Einsam in trüben Tagen (Biel, 17-11-2016)
+
+<audio controls><source type="audio/mpeg" src="{{ site.baseurl }}/assets/Einsam in trüben Tagen.mp3"/>Hello</audio>
 
 G. Verdi, La Forza del Destino, Leonora – Pace, pace (Biel, 6-6-2016)
 
