@@ -7,8 +7,6 @@ lang: de
 ---
 
 ### Upcoming events
-<img style="float: left; padding: 20px" src="/assets/event5.jpg">  
-
 SHAKESPEARE 
 
 ##### In the role of Desdemona and Lady Macbeth 
