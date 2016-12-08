@@ -9,7 +9,7 @@ ref: biography
 
 
 Anne-Sophie Sevens, Belgian Soprano sang Lauretta in Puccini’s Gianni Schicchi with the International Belcanto Academy. 
-She is currently studying at the Schweizer Opernstudio Biel where she is studying with Mathias Behrends, Franco Trinca and Barbara Locher and where she took part in Opera Scenes in the role of Elettra (Idomeneo), Micaela, Marie (Die verkaufte Braut), Agathe.
+She is currently studying at the Schweizer Opernstudio where she is studying with Mathias Behrends, Franco Trinca and Barbara Locher and where she took part in Opera Scenes in the role of Elettra (Idomeneo), Micaela, Marie (Die verkaufte Braut), Agathe.
 
 She will make her debut as Dramatic soprano, singing the aria of Lady Macbeth, in Masterclass of Terrence McNally (Theater TOBS).
 
