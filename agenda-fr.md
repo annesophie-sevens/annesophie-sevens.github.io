@@ -7,22 +7,11 @@ lang: fr
 ---
 
 ### Upcoming events
-SHAKESPEARE 
-
-##### In the role of Desdemona and Lady Macbeth 
-
-##### 22.12.2016 | 19:30
-
-##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
-
-##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
-
-
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
-MASTERCLASS | Terrence McNally
+MASTER CLASS | Terrence McNally
 
-##### In the role of Dramatic Soprano with Nel dì della Vittoria, aria of Lady Macbeth 
+##### In the role of a Dramatic Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
 
 ##### 19.02.2017 - 21.05.2017
 
@@ -35,7 +24,33 @@ MASTERCLASS | Terrence McNally
 &nbsp;
 
 
+THE OLD MAID AND THE THIEF | Gian Carlo Menotti
+
+##### In the role of Miss Pinkerton 
+
+##### 09.06.2017 - 18.06.2017
+
+##### with Sinfonie Orchester Biel Solothurn | Conductor : Stefan Lano | Inszenierung: Mathias Behrends
+
+##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
+
+###### 
+&nbsp;
 ### Past events
+SHAKESPEARE 
+
+##### In the role of Desdemona and Lady Macbeth 
+
+##### 22.12.2016 | 19:30
+
+##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
+
+##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
+
+&nbsp;
+&nbsp; 
+
+<img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg"> 
 
 DIPLOMFEIER Conservation-Restoration
 
@@ -73,6 +88,8 @@ OPERNWERKSTATT
 
 SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 
+##### In the role of La Contessa, Le Nozze di Figaro, W.A.Mozart
+
 ##### 28.08 - 02.09.2016
 
 ##### Led by Jens Neubert (Film-Director), Harald Gunnar Paalgard (D.o.P.), Eckehard Stier (Conductor) and Vesselina Kasarova (Vocal Coach)
@@ -101,8 +118,3 @@ AKADEMIEKONZERT
 ###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
 
 &nbsp;
-
-
-
-
-
