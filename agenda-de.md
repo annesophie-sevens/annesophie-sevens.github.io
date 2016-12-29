@@ -90,6 +90,8 @@ OPERNWERKSTATT
 
 SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 
+##### In the role of La Contessa, Le Nozze di Figaro, W.A.Mozart
+
 ##### 28.08 - 02.09.2016
 
 ##### Led by Jens Neubert (Film-Director), Harald Gunnar Paalgard (D.o.P.), Eckehard Stier (Conductor) and Vesselina Kasarova (Vocal Coach)
