@@ -40,6 +40,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 ### Past events
 
 SHAKESPEARE
+
 ##### In the role of Desdemona and Lady Macbeth 
 
 ##### 22.12.2016 | 19:30
@@ -66,7 +67,6 @@ DIPLOMFEIER Conservation-Restoration
 &nbsp;
 
 
-<img style="float: left; padding: 20px" src="/assets/tonhalle3.jpg">  
 
 OPERNWERKSTATT
 
