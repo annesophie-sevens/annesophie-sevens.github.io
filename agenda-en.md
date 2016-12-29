@@ -68,8 +68,7 @@ DIPLOMFEIER Conservation-Restoration
 
 &nbsp;
 
-
-<img style="float: left; padding: 20px" src="/assets/tonhalle3.jpg">  
+ 
 
 OPERNWERKSTATT
 
