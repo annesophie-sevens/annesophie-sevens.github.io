@@ -36,7 +36,9 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ###### 
 &nbsp;
-### Past events
+
+Past events
+
 SHAKESPEARE 
 
 ##### In the role of Desdemona and Lady Macbeth 
