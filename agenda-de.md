@@ -40,7 +40,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 
 ### Past events
-&nbsp 
+
 
 SHAKESPEARE
 
