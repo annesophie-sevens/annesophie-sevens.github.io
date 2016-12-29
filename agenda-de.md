@@ -25,17 +25,19 @@ MASTERCLASS | Terrence McNally
 
 &nbsp;
 
+
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ##### In the role of Miss Pinkerton 
 
 ##### 09.06.2017 - 18.06.2017
 
-##### with Sinfonie Orchester Biel Solothurn |Conductor : Stefan Lano | Inszenierung: Mathias Behrends
+##### with Sinfonie Orchester Biel Solothurn | Conductor : Stefan Lano | Inszenierung: Mathias Behrends
 
 ##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
 
 ###### 
+
 
 ### Past events
 SHAKESPEARE 
@@ -47,6 +49,8 @@ SHAKESPEARE
 ##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
+
+
 
 DIPLOMFEIER Conservation-Restoration
 
