@@ -11,9 +11,9 @@ lang: de
 
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
-MASTERCLASS | Terrence McNally
+MASTER CLASS | Terrence McNally
 
-##### In the role of Dramatic Soprano with Nel dì della vittoria - Macbeth - G.Verdi
+##### In the role of a Dramatic Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
 
 ##### 19.02.2017 - 21.05.2017
 
