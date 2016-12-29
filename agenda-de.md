@@ -37,8 +37,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 ##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
 
 ###### 
-
-
+&nbsp;
 ### Past events
 SHAKESPEARE 
 
@@ -50,7 +49,8 @@ SHAKESPEARE
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
 
-
+&nbsp;
+&nbsp; 
 
 DIPLOMFEIER Conservation-Restoration
 
