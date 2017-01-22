@@ -31,7 +31,7 @@ CONCERT AULA UGENT
 
 ##### with Orchester Continuo | Conductor : Kevin Hendrickx
 
-##### _Aula Ugent, Gent, Belgium
+##### _Aula Ugent, Gent, Belgium_
 
 &nbsp;
 
