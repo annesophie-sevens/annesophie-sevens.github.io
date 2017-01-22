@@ -23,6 +23,17 @@ MASTER CLASS | Terrence McNally
 
 &nbsp;
 
+CONCERT AULA UGENT
+
+##### Mozart/Beethoven
+
+##### 12.05.2017
+
+##### with Orchester Continuo | Conductor : Kevin Hendrickx
+
+##### _Aula Ugent, Gent, Belgium
+
+&nbsp;
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
@@ -52,6 +63,7 @@ SHAKESPEARE
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
 
 &nbsp;
+
 &nbsp; 
 
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg"> 
