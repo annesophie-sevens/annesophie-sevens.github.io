@@ -66,6 +66,7 @@ SHAKESPEARE
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
 
 &nbsp;
+
 &nbsp; 
 
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg"> 
