@@ -23,7 +23,7 @@ MASTER CLASS | Terrence McNally
 
 ###### <a href="https://www.tobs.ch/fr/theatre/productions/stueck/prod/245/" target="_blank">More info</a>
 
-###### <a href="https://youtu.be/ArQptU1-Cuo&nbsp" target="_blank">Trailer</a>
+###### <a href="https://youtube.com/ArQptU1-Cuo&nbsp" target="_blank">Trailer</a>
 &nbsp;
 
 
