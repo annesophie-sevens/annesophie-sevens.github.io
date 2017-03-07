@@ -18,9 +18,7 @@ ref: repertoire
 | R. Wagner | Die Walküre | Sieglinde |
 | C.M. v.Weber | Der Freischütz | Agathe |
 
-
-
-
+&nbsp;
 # Lied
 
 | | | 
