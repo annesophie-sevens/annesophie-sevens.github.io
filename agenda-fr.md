@@ -7,6 +7,8 @@ lang: fr
 ---
 
 ### Upcoming events
+
+
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
 MASTER CLASS | Terrence McNally
@@ -21,7 +23,9 @@ MASTER CLASS | Terrence McNally
 
 ###### <a href="https://www.tobs.ch/fr/theatre/productions/stueck/prod/245/" target="_blank">More info</a>
 
+###### <a href="https://www.youtube.com/embed/ArQptU1-Cuo" target="_blank">Trailer</a>
 &nbsp;
+
 
 CONCERT AULA UGENT
 
@@ -60,9 +64,13 @@ SHAKESPEARE
 ##### _Ackermannshof, Basel, Switzerland_
 
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
-###### <a href="://youtu.be/s8whNG79fWQ"target="_blank">Clip</a>
+
+###### <a href="https://www.youtube.com/embed/s8whNG79fWQ" target="_blank">Clip</a>
 &nbsp;
+
+
 ### Past events
+
 
 SHAKESPEARE
 
@@ -144,4 +152,5 @@ AKADEMIEKONZERT
 
 ###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
 
+###### <a href="https://youtube.com/embed/xwZXcTgbi0E" target="_blank">Video</a>
 &nbsp;
