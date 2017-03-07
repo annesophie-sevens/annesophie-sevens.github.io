@@ -6,9 +6,10 @@ lang: fr
 ref: repertoire
 ---
 
-# Opéra	
+# Opera	
 
-| ------------ | --------- | ---- |
+| | | |
+| -------- | ----- | ---- |
 | G. Bizet | Carmen | Micaela |
 | W.A. Mozart | Le nozze di Figaro | La Contessa |
 | B. Smetana | Die verkaufte Braut | Marie |
@@ -17,9 +18,9 @@ ref: repertoire
 | R. Wagner | Die Walküre | Sieglinde |
 | C.M. v.Weber | Der Freischütz | Agathe |
 
-
 # Lied
 
-| ------------ | ----- |
+| | | 
+| -------- | ----- |
 | E. Chausson | Chanson perpétuelle |
 | R. Wagner | Wesendonck-Lieder |
