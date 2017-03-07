@@ -24,6 +24,9 @@ MASTER CLASS | Terrence McNally
 ###### <a href="https://www.youtube.com/embed/ArQptU1-Cuo" target="_blank">Trailer</a>
 
 ###### <a href="https://www.tobs.ch/fr/theatre/productions/stueck/prod/245/" target="_blank">More info</a>
+
+&nbsp;
+
 &nbsp;
 
 
@@ -39,6 +42,8 @@ CONCERT AULA UGENT
 
 &nbsp;
 
+&nbsp;
+
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
@@ -49,6 +54,8 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 ##### with Sinfonie Orchester Biel Solothurn | Conductor : Stefan Lano | Inszenierung: Mathias Behrends
 
 ##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
+
+&nbsp;
 
 &nbsp;
 
@@ -66,6 +73,9 @@ SHAKESPEARE
 ###### <a href="https://www.youtube.com/embed/s8whNG79fWQ" target="_blank">Clip</a>
 
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
+
+&nbsp;
+
 &nbsp;
 
 
@@ -84,6 +94,8 @@ SHAKESPEARE
 
 &nbsp;
 
+&nbsp;
+
 
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg"> 
 
@@ -94,6 +106,8 @@ DIPLOMFEIER Conservation-Restoration
 ##### 28.10.2016
 
 ##### _Bern – Switzerland_
+
+&nbsp;
 
 &nbsp;
 
