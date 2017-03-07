@@ -69,8 +69,8 @@ SHAKESPEARE
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 
 &nbsp;
-
-
+&nbsp;
+&nbsp;
 ### Past events
 
 
