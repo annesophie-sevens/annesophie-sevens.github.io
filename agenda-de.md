@@ -99,10 +99,13 @@ DIPLOMFEIER Conservation-Restoration
 
 &nbsp;
 
-### 
+&nbsp;
+
+&nbsp;
 
 
 OPERNWERKSTATT
+
 ##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
 
 ##### 12.10 - 16.10.2016
@@ -129,6 +132,8 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 ##### _Villa Emden, Brissago Islands Lago Maggiore / Ticino – Switzerland_
 
 ###### <a href="http://syquali.ch/en/filmopera/" target="_blank">More info</a>
+
+&nbsp;
 
 &nbsp;
 
