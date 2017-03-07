@@ -70,7 +70,6 @@ SHAKESPEARE
 
 &nbsp;
 &nbsp;
-&nbsp;
 ### Past events
 
 
