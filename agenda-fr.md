@@ -40,8 +40,6 @@ CONCERT AULA UGENT
 
 &nbsp;
 
-&nbsp;
-
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
