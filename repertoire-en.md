@@ -8,6 +8,8 @@ ref: repertoire
 
 # Opera	
 
+| | | |
+| -------- | ----- | ---- |
 | G. Bizet | Carmen | Micaela |
 | W.A. Mozart | Le nozze di Figaro | La Contessa |
 | B. Smetana | Die verkaufte Braut | Marie |
@@ -18,9 +20,8 @@ ref: repertoire
 
 # Lied
 
-| Compositeur | Cycle | 
+| | | 
 | -------- | ----- |
 | E. Chausson | Chanson perpétuelle |
 | R. Wagner | Wesendonck-Lieder |
-
 
