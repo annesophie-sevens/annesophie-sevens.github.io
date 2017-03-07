@@ -18,3 +18,11 @@ ref: repertoire
 | R. Wagner | Lohengrin | Elsa von Brabant |
 | R. Wagner | Die Walküre | Sieglinde |
 | C.M. v.Weber | Der Freischütz | Agathe |
+
+# Lied
+
+| Compositeur | Cycle | 
+| -------- | ----- |
+| R. Wagner | Wesendonck-Lieder |
+| E. Chausson | Chanson perpétuelle |
+
