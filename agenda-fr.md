@@ -60,10 +60,8 @@ SHAKESPEARE
 ##### _Ackermannshof, Basel, Switzerland_
 
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
+###### <a href="://youtu.be/s8whNG79fWQ"target="_blank">Clip</a>
 &nbsp;
-
-
-
 ### Past events
 
 SHAKESPEARE
