@@ -19,3 +19,9 @@ ref: repertoire
 | R. Wagner | Die Walküre | Sieglinde |
 | C.M. v.Weber | Der Freischütz | Agathe |
 
+# Lied
+
+| Compositeur | Cycle | 
+| -------- | ----- |
+| E. Chausson | Chanson perpétuelle |
+| R. Wagner | Wesendonck-Lieder |
