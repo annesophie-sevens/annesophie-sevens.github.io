@@ -8,7 +8,7 @@ ref: repertoire
 
 # Opera	
 
-| Komponist | Oper | Rolle |
+| |  | |
 | -------- | ----- | ---- |
 | G. Bizet | Carmen | Micaela |
 | W.A. Mozart | Le nozze di Figaro | La Contessa |
