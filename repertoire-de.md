@@ -6,9 +6,9 @@ lang: de
 ref: repertoire
 ---
 
-# Opera	
+# 
 
-| | | |
+|Opera | | |
 | -------- | ----- | ---- |
 | G. Bizet | Carmen | Micaela |
 | W.A. Mozart | Le nozze di Figaro | La Contessa |
@@ -19,9 +19,9 @@ ref: repertoire
 | C.M. v.Weber | Der Freischütz | Agathe |
 
 &nbsp;
-# Lied
+# 
 
-| | | 
+| Lied| | 
 | -------- | ----- |
 | E. Chausson | Chanson perpétuelle |
 | R. Wagner | Wesendonck-Lieder |
