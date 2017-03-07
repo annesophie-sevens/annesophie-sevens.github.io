@@ -151,7 +151,7 @@ AKADEMIEKONZERT
 ##### _Wiener Saal | Schwarzstraße 26, 5020 Salzburg_
 
 ###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
-
+###### <a href="https://youtube.com/embed/xwZXcTgbi0E" target="_blank">Video</a>
 &nbsp;
 
 
