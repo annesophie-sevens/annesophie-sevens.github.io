@@ -99,9 +99,10 @@ DIPLOMFEIER Conservation-Restoration
 
 &nbsp;
 
+### 
 
-##### OPERNWERKSTATT
 
+OPERNWERKSTATT
 ##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
 
 ##### 12.10 - 16.10.2016
