@@ -64,8 +64,11 @@ SHAKESPEARE
 
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 &nbsp;
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s8whNG79fWQ" frameborder="0" allowfullscreen></iframe>
 (Schweizer Opernstudio, 22-12-2016)
+
+
 ### Past events
 
 
