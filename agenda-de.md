@@ -60,7 +60,7 @@ SHAKESPEARE
 
 ##### Organisation: Swiss Foundation for Young Musicians | with other singers of the Schweizer Opernstudio 
 
-##### _Basel, Switzerland_
+##### _Ackermannshof, Basel, Switzerland_
 
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 &nbsp;
