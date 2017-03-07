@@ -69,7 +69,9 @@ SHAKESPEARE
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 
 &nbsp;
+
 &nbsp;
+
 ### Past events
 
 
@@ -95,8 +97,6 @@ DIPLOMFEIER Conservation-Restoration
 ##### 28.10.2016
 
 ##### _Bern – Switzerland_
-
-&nbsp;
 
 &nbsp;
 
