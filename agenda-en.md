@@ -21,9 +21,10 @@ MASTER CLASS | Terrence McNally
 
 ##### _TOBS, Biel / Solothurn, Switzerland_
 
+###### <a href="https://www.youtube.com/embed/ArQptU1-Cuo" target="_blank">Trailer</a>
+
 ###### <a href="https://www.tobs.ch/fr/theatre/productions/stueck/prod/245/" target="_blank">More info</a>
 
-###### <a href="https://www.youtube.com/embed/ArQptU1-Cuo" target="_blank">Trailer</a>
 &nbsp;
 
 
@@ -63,9 +64,10 @@ SHAKESPEARE
 
 ##### _Ackermannshof, Basel, Switzerland_
 
+###### <a href="https://www.youtube.com/embed/s8whNG79fWQ" target="_blank">Clip</a>
+
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 
-###### <a href="https://www.youtube.com/embed/s8whNG79fWQ" target="_blank">Clip</a>
 &nbsp;
 
 
@@ -84,7 +86,6 @@ SHAKESPEARE
 
 &nbsp;
 
-&nbsp; 
 
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg"> 
 
@@ -100,8 +101,7 @@ DIPLOMFEIER Conservation-Restoration
 
 &nbsp;
 
-
-
+&nbsp;
 OPERNWERKSTATT
 
 ##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
@@ -113,8 +113,6 @@ OPERNWERKSTATT
 ##### _Sigriswil Kirche, Bern Kultur Casino, Basel Elisabethen Kirche, Zürich Kleine Tonhalle – Switzerland_
 
 ###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
 
@@ -150,7 +148,7 @@ AKADEMIEKONZERT
 
 ##### _Wiener Saal | Schwarzstraße 26, 5020 Salzburg_
 
-###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
-
 ###### <a href="https://youtube.com/embed/xwZXcTgbi0E" target="_blank">Video</a>
+
+###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
 &nbsp;
