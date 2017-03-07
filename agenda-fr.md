@@ -27,8 +27,6 @@ MASTER CLASS | Terrence McNally
 
 &nbsp;
 
-&nbsp;
-
 
 CONCERT AULA UGENT
 
@@ -57,8 +55,6 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 &nbsp;
 
-&nbsp;
-
 
 SHAKESPEARE
 
@@ -76,8 +72,6 @@ SHAKESPEARE
 
 &nbsp;
 
-&nbsp;
-
 
 ### Past events
 
@@ -91,8 +85,6 @@ SHAKESPEARE
 ##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
-
-&nbsp;
 
 &nbsp;
 
@@ -123,8 +115,6 @@ OPERNWERKSTATT
 ##### _Sigriswil Kirche, Bern Kultur Casino, Basel Elisabethen Kirche, Zürich Kleine Tonhalle – Switzerland_
 
 ###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
 
