@@ -25,15 +25,16 @@ MASTER CLASS | Terrence McNally
 
 CONCERT AULA UGENT
 
-##### Mozart/Beethoven
+##### Händel & Mozart
 
 ##### 12.05.2017
 
-##### with Orchester Continuo | Conductor : Kevin Hendrickx
+##### Organisation: Rotary Laarne-Lochristi | with Orchester Continuo | Conductor : Kevin Hendrickx
 
 ##### _Aula Ugent, Gent, Belgium_
 
 &nbsp;
+
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
@@ -46,6 +47,21 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 ##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
 
 &nbsp;
+
+
+SHAKESPEARE
+
+##### In the role of Desdemona
+
+##### 15.06.2017 | 20:30
+
+##### Organisation: Swiss Foundation for Young Musicians | with other singers of the Schweizer Opernstudio 
+
+##### _Ackermannshof, Basel, Switzerland_
+
+###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
+&nbsp;
+
 
 
 ### Past events
