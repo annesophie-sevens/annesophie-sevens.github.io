@@ -5,7 +5,7 @@ menuorder: 5
 lang: de
 ref: video
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=s8whNG79fWQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s8whNG79fWQ" frameborder="0" allowfullscreen></iframe>
 (Schweizer Opernstudio, 22-12-2016)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nexmYD17vok" frameborder="0" allowfullscreen></iframe>
