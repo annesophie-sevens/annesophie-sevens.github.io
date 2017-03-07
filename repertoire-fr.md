@@ -12,7 +12,6 @@ ref: repertoire
 | -------- | ----- | ---- |
 | G. Bizet | Carmen | Micaela |
 | W.A. Mozart | Le nozze di Figaro | La Contessa |
-| G. Puccini | La Bohème | Mimì |
 | B. Smetana | Die verkaufte Braut | Marie |
 | G. Verdi | Otello | Desdemona |
 | R. Wagner | Lohengrin | Elsa von Brabant |
