@@ -6,7 +6,6 @@ lang: de
 ref: repertoire
 ---
 
-# 
 
 |Opera | | |
 | -------- | ----- | ---- |
@@ -19,7 +18,6 @@ ref: repertoire
 | C.M. v.Weber | Der Freischütz | Agathe |
 
 &nbsp;
-# 
 
 | Lied| | 
 | -------- | ----- |
