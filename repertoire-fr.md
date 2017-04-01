@@ -23,19 +23,19 @@ ref: repertoire
 
 | Lied| | 
 | -------- | ----- |
-| L. Berio | O King |
-| E. Chausson | Chanson perpétuelle |
-| A. Mahler | Fünf Lieder |
-| G. Mahler | Lieder eines fahrenden Gesellen |
-| R. Strauss | Vier letzte Lieder |
-| R. Wagner | Wesendonck-Lieder |
+| L.Berio | O King |
+| E.Chausson | Chanson perpétuelle |
+| A.Mahler | Fünf Lieder |
+| G.Mahler | Lieder eines fahrenden Gesellen |
+| R.Strauss | Vier letzte Lieder |
+| R.Wagner | Wesendonck-Lieder |
 
 &nbsp;
 
 | Oratorio| | 
 | -------- | ----- |
-| J. Brahms | Ein Deutsches Requiem |
-| G.F. Händel | Dixit Dominus |
-| Z. Kodaly| Missa Brevis |
-| G. Verdi | Requiem |
+| J.Brahms | Ein Deutsches Requiem |
+| G.F.Händel | Dixit Dominus |
+| Z.Kodaly| Missa Brevis |
+| G.Verdi | Requiem |
 
