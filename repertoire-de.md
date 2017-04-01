@@ -37,6 +37,4 @@ ref: repertoire
 | G.F. Händel | Dixit Dominus |
 | Z. Kodaly| Missa Brevis |
 | G. Verdi | Requiem |
-| G. Mahler | Lieder eines fahrenden Gesellen |
-| R. Strauss | Vier letzte Lieder |
-| R. Wagner | Wesendonck-Lieder |
+
