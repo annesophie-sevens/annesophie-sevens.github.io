@@ -10,7 +10,7 @@ ref: biography
 
 «La Sig.ra Sevens ha il dono bellissimo di avere una voce naturalmente potente e di un qualità che sul palco si trasmette direttamente al pubblico. Il suo timbro ampio e lucente combinato alla sua naturale musicalità e capacità di interpretazione la rendono una artista interessante, nata per la scena.» (Riccardo Bovino, Korrepetitor Schweizer Opernstudio, 5.6.2016)
 
-«I see in your way of further singing a real chance for a career in the "Fach" of “jugendlich-dramatisch” » (Edda Moser, 5.8.2015)
+«I see in your way of further singing a real chance for a career in the "Fach" of “jugendlich-dramatisch”» (Edda Moser, 5.8.2015)
 
 
 Anne-Sophie, soprano belge a interprété des rôles comme Lauretta dans Gianni Schicchi de G. Puccini (International Belcanto Academy, Pays-Bas). A l'Opéra Suisse d'Opéra et au théâtre TOBS elle a interprété des scenes d’opéra dans le rôle d'Elettra, Micaela, Marie, Agathe, Desdemona, Lady Macbeth. 
