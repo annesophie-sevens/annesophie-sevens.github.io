@@ -6,10 +6,6 @@ ref: audio
 lang: fr
 ---
 
-G. Verdi, Macbeth, Lady Macbeth – Nel dì della vittoria (Biel, 1-12-2016)
- 
-<audio controls><source type="audio/mpeg" src="{{ site.baseurl }}/assets/Nel.mp3"/>Hello</audio>
-
 R. Wagner, Lohengrin, Elsa von Brabant – Einsam in trüben Tagen (Biel, 17-11-2016)
 
 <audio controls><source type="audio/mpeg" src="{{ site.baseurl }}/assets/Einsam.mp3"/>Hello</audio>
