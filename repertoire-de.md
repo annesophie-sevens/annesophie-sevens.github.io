@@ -11,12 +11,12 @@ ref: repertoire
 | -------- | ----- | ---- |
 | H. Berlioz | La Damnation de Faust | Marguerite |
 | G. Bizet | Carmen | Micaela |
-| W.A. Mozart | Le nozze di Figaro | La Contessa |
+| W.A. Mozart | Le Nozze di Figaro | La Contessa |
+| W.A. Mozart | Die Zauberflöte | Pamina |
 | B. Smetana | Die verkaufte Braut | Marie |
 | G. Verdi | Otello | Desdemona |
 | R. Wagner | Lohengrin | Elsa von Brabant |
-| R. Wagner | Die Walküre | Sieglinde |
-| C.M. v.Weber | Der Freischütz | Agathe |
+| R. Wagner | Die Meistersinger von Nürnberg | Eva |
 
 &nbsp;
 
