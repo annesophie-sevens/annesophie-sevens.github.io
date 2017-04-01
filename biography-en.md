@@ -15,6 +15,7 @@ ref: biography
 «I see in your way of further singing a real chance for a career in the "Fach" of “jugendlich-dramatisch” » (Edda Moser, 5.8.2015)
 
 
+
 Anne-Sophie, Belgian Soprano, maked recentely her debut as Charlotte De Muynck, singing the aria of Lady Macbeth in "Masterclass" of Terrence McNally in Theater TOBS, Biel. 
 In Theater TOBS and the Schweizer Opernstudio she interpreted opera scenes in the role of Elettra, Micaela, Marie, Agathe, Desdemona. Lauretta in Puccini’s Gianni Schicchi with the International Belcanto Academy was her first opera-experience in the Fach of Soprano.
 
