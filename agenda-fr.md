@@ -43,7 +43,7 @@ CONCERT AULA UGENT
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
-##### In the role of Miss Pinkerton 
+##### In the role of Laetitia 
 
 ##### 09.06.2017 - 18.06.2017
 
