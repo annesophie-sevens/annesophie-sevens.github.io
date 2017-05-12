@@ -68,6 +68,8 @@ SHAKESPEARE
 
 ###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 
+###### <a href="assets/flyer.pdf" target="_blank">Flyer</a>
+
 &nbsp;
 
 &nbsp;
