@@ -5,5 +5,18 @@ ref: home
 lang: en
 ---
 
+<img style="float: left; padding: 20px" src="/assets/muurfoto-small.jpg">
 
-![My helpful screenshot]({{ site.baseurl }}/assets/muurfoto.jpg)
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+«Mit voluminösen Verdi-Sopran illuminiert Anne-Sophie Sevens alias Charlotte bravourös die Briefszene der Lady Macbeth, während... » (Solothurner Zeitung, 23.02.2017)
