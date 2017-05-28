@@ -13,7 +13,6 @@ ref: repertoire
 | H.Berlioz | La Damnation de Faust | Marguerite |
 | G.Bizet | Carmen | Micaela |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
-| W.A.Mozart | Die Zauberflöte | Pamina |
 | B.Smetana | Die verkaufte Braut | Marie |
 | G.Verdi | Otello | Desdemona |
 | R.Wagner | Lohengrin | Elsa von Brabant |
@@ -21,7 +20,7 @@ ref: repertoire
 
 &nbsp;
 
-| Lied| | 
+| Lied| |
 | -------- | ----- |
 | L.Berio | O King |
 | E.Chausson | Chanson perpétuelle |
@@ -32,10 +31,9 @@ ref: repertoire
 
 &nbsp;
 
-| Oratorio| | 
+| Oratorio| |
 | -------- | ----- |
 | J.Brahms | Ein Deutsches Requiem |
 | G.F.Händel | Dixit Dominus |
 | Z.Kodaly| Missa Brevis |
 | G.Verdi | Requiem |
-
