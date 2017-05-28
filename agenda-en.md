@@ -9,25 +9,6 @@ lang: en
 ### Upcoming events
 
 
-<img style="float: left; padding: 20px" src="/assets/event4.jpg">  
-
-MASTER CLASS | Terrence McNally
-
-##### In the role of a Dramatic Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
-
-##### 19.02.2017 - 21.05.2017
-
-##### Inszenierung: Dieter Kaegi | Bühnenbild und Kostüme: Dirk Hofacker
-
-##### _TOBS, Biel / Solothurn, Switzerland_
-
-###### <a href="https://www.youtube.com/embed/ArQptU1-Cuo" target="_blank">Trailer</a>
-
-###### <a href="https://www.tobs.ch/fr/theatre/productions/stueck/prod/245/" target="_blank">More info</a>
-
-&nbsp;
-
-
 CONCERT AULA UGENT
 
 ##### Händel & Mozart
@@ -60,7 +41,7 @@ SHAKESPEARE
 
 ##### 15.06.2017 | 20:30
 
-##### Organisation: Swiss Foundation for Young Musicians | with other singers of the Schweizer Opernstudio 
+##### Organisation: Swiss Foundation for Young Musicians | with other singers of the Schweizer Opernstudio
 
 ##### _Ackermannshof, Basel, Switzerland_
 
@@ -76,21 +57,36 @@ SHAKESPEARE
 
 ### Past events
 
+<img style="float: left; padding: 20px" src="/assets/event4.jpg">  
+
+MASTER CLASS | Terrence McNally
+
+##### In the role of a Dramatic Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
+
+##### 19.02.2017 - 21.05.2017
+
+##### Inszenierung: Dieter Kaegi | Bühnenbild und Kostüme: Dirk Hofacker
+
+##### _TOBS, Biel / Solothurn, Switzerland_
+
+&nbsp;
+
+&nbsp;
 
 SHAKESPEARE
 
-##### In the role of Desdemona and Lady Macbeth 
+##### In the role of Desdemona and Lady Macbeth
 
 ##### 22.12.2016 | 19:30
 
 ##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
 
-##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel 
+##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
 
 &nbsp;
 
 
-<img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg">
 
 DIPLOMFEIER Conservation-Restoration
 
