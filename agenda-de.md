@@ -8,19 +8,6 @@ lang: de
 
 ### Upcoming events
 
-CONCERT AULA UGENT
-
-##### Händel & Mozart
-
-##### 12.05.2017
-
-##### Organisation: Rotary Laarne-Lochristi | with Orchester Continuo | Conductor : Kevin Hendrickx
-
-##### _Aula Ugent, Gent, Belgium_
-
-&nbsp;
-
-
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ##### In the role of Laetitia
@@ -52,9 +39,33 @@ SHAKESPEARE
 
 &nbsp;
 
+2017 ELIZABETH CONNELL COMPETITION
+
+##### Semi Final Live Auditions
+
+##### 07.07.2017
+
+##### Venue: Royal Opera House Covent Garden
+
+##### London, U.K.
+
+###### <a href="assets/flyer.jpg">Flyer</a>
+
 &nbsp;
 
 ### Past events
+
+CONCERT AULA UGENT
+
+##### Händel & Mozart
+
+##### 12.05.2017
+
+##### Organisation: Rotary Laarne-Lochristi | with Orchester Continuo | Conductor : Kevin Hendrickx
+
+##### _Aula Ugent, Gent, Belgium_
+
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/event4.jpg">  
 
@@ -67,8 +78,6 @@ MASTER CLASS | Terrence McNally
 ##### Inszenierung: Dieter Kaegi | Bühnenbild und Kostüme: Dirk Hofacker
 
 ##### _TOBS, Biel / Solothurn, Switzerland_
-
-&nbsp;
 
 &nbsp;
 
