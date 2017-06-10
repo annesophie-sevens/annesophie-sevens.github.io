@@ -18,6 +18,9 @@ url: "http://www.annesophiesevens.com" # the base hostname & protocol for your s
 # Build settings
 markdown: kramdown
 
+# Google services
+google_analytics: UA-100838240-1
+
 t:
   en:
     biography:
