@@ -9,13 +9,17 @@ ref: repertoire
 
 |Opera | | |
 | -------- | ----- | ---- |
-| H.Berlioz | La Damnation de Faust | Marguerite |
 | G.Bizet | Carmen | Micaela |
+| C.Menotti | The Old maid and the thief | Laetitia |
+| W.A.Mozart | Idomeneo | Elettra |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
+| G.Puccini | La Bohème | Mimì |
 | B.Smetana | Die verkaufte Braut | Marie |
 | G.Verdi | Otello | Desdemona |
-| R.Wagner | Lohengrin | Elsa von Brabant |
+| R.Wagner | Lohengrin | Elsa |
 | R.Wagner | Die Meistersinger von Nürnberg | Eva |
+| R.Wagner | Die Walküre | Sieglinde |
+
 
 &nbsp;
 
