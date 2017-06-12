@@ -26,7 +26,7 @@ SHAKESPEARE
 
 ##### 15.06.2017 | 20:30
 
-##### Organisation: Swiss Foundation for Young Musicians | with other singers of the Schweizer Opernstudio
+##### Organisation: Swiss Foundation for Young Musicians 
 
 ##### _Ackermannshof, Basel, Switzerland_
 
