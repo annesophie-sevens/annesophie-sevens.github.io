@@ -9,10 +9,11 @@ ref: repertoire
 
 |Opera | | |
 | -------- | ----- | ---- |
-| G. Bizet | Carmen | Micaela |
-| W.A. Mozart | Idomeneo | Elettra |
+| G.Bizet | Carmen | Micaela |
+| C.Menotti | The Old maid and the thief | Laetitia |
+| W.A.Mozart | Idomeneo | Elettra |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
-| G. Puccini | La Bohème | Mimì |
+| G.Puccini | La Bohème | Mimì |
 | B.Smetana | Die verkaufte Braut | Marie |
 | G.Verdi | Otello | Desdemona |
 | R.Wagner | Lohengrin | Elsa |
