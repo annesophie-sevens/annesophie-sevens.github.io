@@ -6,20 +6,19 @@ ref: agenda
 lang: en
 ---
 
-### Upcoming events
+2017 ELIZABETH CONNELL COMPETITION
 
-THE OLD MAID AND THE THIEF | Gian Carlo Menotti
+##### Semi Final Live Auditions
 
-##### In the role of Laetitia
+##### 07.07.2017
 
-##### 09.06.2017 - 18.06.2017
+##### Venue: Royal Opera House Covent Garden
 
-##### with Sinfonie Orchester Biel Solothurn | Conductor : Stefan Lano | Inszenierung: Mathias Behrends
+##### London, U.K.
 
-##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
+###### <a href="assets/flyer.jpg">Flyer</a>
 
 &nbsp;
-
 
 SHAKESPEARE
 
@@ -39,21 +38,17 @@ SHAKESPEARE
 
 &nbsp;
 
-2017 ELIZABETH CONNELL COMPETITION
+THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
-##### Semi Final Live Auditions
+##### In the role of Laetitia
 
-##### 07.07.2017
+##### 09.06.2017 - 18.06.2017
 
-##### Venue: Royal Opera House Covent Garden
+##### with Sinfonie Orchester Biel Solothurn | Conductor : Stefan Lano | Inszenierung: Mathias Behrends
 
-##### London, U.K.
-
-###### <a href="assets/flyer.jpg">Flyer</a>
+##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
 
 &nbsp;
-
-### Past events
 
 CONCERT AULA UGENT
 
