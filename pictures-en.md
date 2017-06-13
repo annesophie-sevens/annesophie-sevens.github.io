@@ -12,5 +12,5 @@ ref: pictures
 
 |  <a href="/assets/10.jpg">  ![]({{ site.baseurl }}/assets/10-thumbnail.jpg) </a> |  <a href="/assets/7.jpg"> ![]({{ site.baseurl }}/assets/7-thumbnail.jpg) </a> | <a href="/assets/3.jpg"> ![]({{ site.baseurl }}/assets/3-thumbnail.jpg) </a>| 
  
-| <a href="/assets/12.jpg">![]({{ site.baseurl }}/assets/12-thumbnail.jpg) </a> |--- | --- | 
+| <a href="/assets/12.jpg">![]({{ site.baseurl }}/assets/12-thumbnail.jpg) </a> || | 
 
