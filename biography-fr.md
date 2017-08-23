@@ -16,5 +16,4 @@ Comme soliste, elle  chanta dans la Missa Brevis de Z. Kodaly, La Passion selon 
 Après avoir obtenu le diplôme d’ingénieur-architecte, Anne-Sophie poursuivit une formation de chant au Luca School of Arts à Louvain auprès de Dina Grossberger et y obtint le diplôme de bachelier. Elle entama son master au Conservatoire Royal de Bruxelles. Elle continua ensuite à se spécialiser avec Marianne Pousseur et avec Michèle Massina et obtint le Prix spécial du Patrimoine du Conservatoire Royal de Bruxelles 2015. 
 
 Anne-Sophie a suivi des coachings et masterclasses avec Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold et Anne Champert. Au Studio suisse d'Opéra elle a étudié avec Mathias Behrends, Franco Trinca et Barbara Locher.
-
 Anne-Sophie parle couramment français, néerlandais, allemand, anglais et italien.
