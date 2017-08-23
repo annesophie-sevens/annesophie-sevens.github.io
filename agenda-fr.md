@@ -6,17 +6,15 @@ ref: agenda
 lang: fr
 ---
 
-2017 ELIZABETH CONNELL COMPETITION
+PRIDE OUEST BERN 2017
 
-##### Semi Final Live Auditions
+##### Konzert zauberhafter Opernmelodien
 
-##### 07.07.2017
+##### 26.08.2017, 14.00 - 14.30, 15.30 - 16.00
 
-##### Venue: Royal Opera House Covent Garden
+##### Rathausplatz, Bern, CH
 
-##### London, U.K.
-
-###### <a href="assets/flyer.jpg">Flyer</a>
+###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
 
 &nbsp;
 
@@ -66,7 +64,7 @@ CONCERT AULA UGENT
 
 MASTER CLASS | Terrence McNally
 
-##### In the role of a Dramatic Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
+##### In the role of a Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
 
 ##### 19.02.2017 - 21.05.2017
 
@@ -84,8 +82,6 @@ SHAKESPEARE
 
 ##### 22.12.2016 | 19:30
 
-##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
-
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
 
 &nbsp;
@@ -95,7 +91,7 @@ SHAKESPEARE
 
 DIPLOMFEIER Conservation-Restoration
 
-##### Dich theure Halle - Tannhäuser - R.Wagner | Du bist der Lenz - Die Walküre - R.Wagner | September - R.Strauss | Nel dì della vittoria - Macbeth - G.Verdi
+##### Tutte nel cor vi sento - Idomeneo - W.A.Mozart | September - R.Strauss 
 
 ##### 28.10.2016
 
@@ -139,22 +135,4 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 
 &nbsp;
 
-&nbsp;
-
-
-<img style="float: left; padding: 20px" src="/assets/event1.jpg">  
-
-AKADEMIEKONZERT
-
-##### "Dich theure Halle", Tannhäuser, R.Wagner
-
-##### 23.08.2016 | 18:00
-
-##### With Edda Moser & Yoshiko Hashimoto (Pianist), Internationales Sommerakademie der Universität Mozarteum
-
-##### _Wiener Saal | Schwarzstraße 26, 5020 Salzburg_
-
-###### <a href="https://youtube.com/embed/xwZXcTgbi0E" target="_blank">Video</a>
-
-###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
 &nbsp;
