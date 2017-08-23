@@ -10,13 +10,16 @@ ref: repertoire
 |Opera | | |
 | -------- | ----- | ---- |
 | G.Bizet | Carmen | Micaela |
-| W.A.Mozart | Idomeneo | Elettra |
+| C.Gounod | Faust | Marguerite |
+| G.C.Menotti | The Old Maid and the Thief | Laetitia |
+| W.A.Mozart | Così fan tutte | Fiordiligi |
+| W.A.Mozart | Don Giovanni | Donna Elvira |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
+| G.Puccini | Gianni Schicchi | Lauretta |
+| G.Puccini | Turandot | Liù |
+| G.Puccini | La Rondine | Magda |
 | B.Smetana | Die verkaufte Braut | Marie |
-| G.Verdi | Otello | Desdemona |
-| R.Wagner | Lohengrin | Elsa |
-| R.Wagner | Die Meistersinger von Nürnberg | Eva |
-| R.Wagner | Die Walküre | Sieglinde |
+| C.M.v.Weber | Der Freischütz | Agathe |
 
 &nbsp;
 
