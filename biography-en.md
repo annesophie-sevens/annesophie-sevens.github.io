@@ -9,7 +9,7 @@ ref: biography
 
 
 
-Anne-Sophie Sevens, Belgian Soprano sang Lauretta in Puccini’s Gianni Schicchi with the International Belcanto Academy. In Theater TOBS and the Schweizer Opernstudio she interpreted opera scenes in the role of Elettra (Idomeneo), Micaela, Marie (Die verkaufte Braut), Agathe, Desdemona. 
+Anne-Sophie Sevens, Belgian Soprano sang Lauretta in Puccini’s Gianni Schicchi with the International Belcanto Academy. In Theater TOBS (Theater Orchester Biel Solothurn) and the Schweizer Opernstudio she interpreted opera scenes in the role of Elettra (Idomeneo), Micaela, Marie (Die verkaufte Braut), Agathe, Desdemona. 
 Anne-Sophie made recentely her debut, singing the aria of Lady Macbeth, in Masterclass of Terrence McNally (Theater TOBS). 
 She performed the title role of Laetitia in Menotti’s Rita in The Old Maid and the Thief under the musical direction of Stefan Lano in Biel and Solothurn Stadttheater with the Orchestra of Biel Solothurn.
 
