@@ -5,18 +5,15 @@ menuorder: 6
 ref: agenda
 lang: de
 ---
+PRIDE OUEST BERN 2017
 
-2017 ELIZABETH CONNELL COMPETITION
+##### Konzert zauberhafter Opernmelodien
 
-##### Semi Final Live Auditions
+##### 26.08.2017, 14.00 - 14.30, 15.30 - 16.00
 
-##### 07.07.2017
+##### Rathausplatz, Bern, CH
 
-##### Venue: Royal Opera House Covent Garden
-
-##### London, U.K.
-
-###### <a href="assets/flyer.jpg">Flyer</a>
+###### <a href="http://prideouest2017.ch" </a>
 
 &nbsp;
 
@@ -66,7 +63,7 @@ CONCERT AULA UGENT
 
 MASTER CLASS | Terrence McNally
 
-##### In the role of a Dramatic Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
+##### In the role of a Soprano, student of Maria Callas with Nel dì della vittoria - Macbeth - G.Verdi
 
 ##### 19.02.2017 - 21.05.2017
 
@@ -83,8 +80,6 @@ SHAKESPEARE
 ##### In the role of Desdemona and Lady Macbeth
 
 ##### 22.12.2016 | 19:30
-
-##### Organisation: Shira Agmon & Sylvie Humphries | Inszenierung: Stefan Saborowski | Kostüme: Anne-Sophie Sevens
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
 
@@ -139,22 +134,4 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 
 &nbsp;
 
-&nbsp;
-
-
-<img style="float: left; padding: 20px" src="/assets/event1.jpg">  
-
-AKADEMIEKONZERT
-
-##### "Dich theure Halle", Tannhäuser, R.Wagner
-
-##### 23.08.2016 | 18:00
-
-##### With Edda Moser & Yoshiko Hashimoto (Pianist), Internationales Sommerakademie der Universität Mozarteum
-
-##### _Wiener Saal | Schwarzstraße 26, 5020 Salzburg_
-
-###### <a href="https://youtube.com/embed/xwZXcTgbi0E" target="_blank">Video</a>
-
-###### <a href="https://www.moz.ac.at/de/events/veranstaltung.php?vanr=32473" target="_blank">More info</a>
 &nbsp;
