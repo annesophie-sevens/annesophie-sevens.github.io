@@ -13,7 +13,7 @@ PRIDE OUEST BERN 2017
 
 ##### Rathausplatz, Bern, CH
 
-###### <a href="http://prideouest2017.ch" </a>
+###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
 
 &nbsp;
 
@@ -90,7 +90,7 @@ SHAKESPEARE
 
 DIPLOMFEIER Conservation-Restoration
 
-##### Dich theure Halle - Tannhäuser - R.Wagner | Du bist der Lenz - Die Walküre - R.Wagner | September - R.Strauss | Nel dì della vittoria - Macbeth - G.Verdi
+##### Tutte nel cor vi sento - Idomeneo - W.A.Mozart | September - R.Strauss 
 
 ##### 28.10.2016
 
