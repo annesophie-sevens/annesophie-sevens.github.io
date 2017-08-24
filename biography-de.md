@@ -8,7 +8,7 @@ ref: biography
 ---
 
 
-Die belgische Sopranistin Anne-Sophie Sevens trat bei TOBS (Theater Orchester Biel Solothurn) als Sopranistin in Terrence McNallys Theaterstück «Masterclass» auf. Sie interpretierte Lauretta in Puccinis «Gianni Schicchi» und Laetitia in «The Old Maid and the Thief» von Menotti (Theater Orchester Biel Solothurn). Am Schweizer Opernstudio Biel sang sie Szenen der Elettra aus «Idomeneo», Micaela aus «Carmen» von Bizet, Marie aus «Die verkaufte Braut» von Smetana, Agathe.
+Die belgische Sopranistin Anne-Sophie Sevens trat bei TOBS (Theater Orchester Biel Solothurn) als Sopranistin in Terrence McNallys Theaterstück «Masterclass» auf. Sie interpretierte Lauretta in Puccinis «Gianni Schicchi» und Laetitia in «The Old Maid and the Thief» von Menotti (Theater Orchester Biel Solothurn). Am Schweizer Opernstudio Biel sang sie Szenen der Elettra aus «Idomeneo», Micaela aus «Carmen» von Bizet, Marie aus «Die verkaufte Braut» von Smetana, Agathe aus «Der Freischütz» von Weber.
 
 Als Konzertsängerin trat sie am Festival international des Minimes in Belgien mit den «Fünf Lieder» von Alma Mahler und den «Lieder eines fahrenden Gesellen» von Gustav Mahler auf. Sie sang in den Konzerten der Davidfonds, Rotary und Euterpe Stiftungen, bei der Eröffnung des Joseph Jongen-Auditoriums, beim Festival Courants d’air und dem Festival Musiq‘3. 
 In 2015 erhielt sie den Spezial-Förderpreis des Conservatoire Royal de Bruxelles. 
