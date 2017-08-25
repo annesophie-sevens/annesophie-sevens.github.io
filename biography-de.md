@@ -16,6 +16,6 @@ In 2015 erhielt sie den Spezial-Förderpreis des Conservatoire Royal de Bruxelle
 Anne-Sophie hat studiert am LUCA school of Arts in Leuven (Bachelor) mit Dina Grossberger und am Königliches Konservatorium Brüssel (Master) mit Marianne Pousseur und Michèle Massina. Am Schweizer Opernstudio Biel hat sie studiert mit Mathias Behrends, Franco Trinca und Barbara Locher. 
 Anne-Sophie nahm teil aan Meisterkursen mit Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold und Anne Champert. 
 
-Sie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italiensisch. 
+Sie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italienisch. 
 
 
