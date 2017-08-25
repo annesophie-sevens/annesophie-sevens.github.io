@@ -15,7 +15,6 @@ ref: repertoire
 | W.A.Mozart | Così fan tutte | Fiordiligi |
 | W.A.Mozart | Don Giovanni | Donna Elvira |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
-| W.A.Mozart | Die Zauberflöte | Erste Dame |
 | G.Puccini | Gianni Schicchi | Lauretta |
 | G.Puccini | Turandot | Liù |
 | G.Puccini | La Rondine | Magda |
