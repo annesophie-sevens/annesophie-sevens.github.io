@@ -9,13 +9,11 @@ ref: biography
 
 
 
-Anne-Sophie Sevens, Belgian Soprano sang Lauretta in Puccini’s Gianni Schicchi with the International Belcanto Academy. In Theater TOBS (Theater Orchester Biel Solothurn) and the Schweizer Opernstudio she interpreted opera scenes in the role of Elettra (Idomeneo), Micaela, Marie (Die verkaufte Braut), Agathe, Desdemona. 
-Anne-Sophie made recentely her debut, singing the aria of Lady Macbeth, in Masterclass of Terrence McNally (Theater TOBS). 
-She performed the title role of Laetitia in Menotti’s Rita in The Old Maid and the Thief under the musical direction of Stefan Lano in Biel and Solothurn Stadttheater with the Orchestra of Biel Solothurn.
+Anne-Sophie Sevens, Belgian Soprano recentely completed her studies at the Swiss Operastudio of Biel (Schweizer Opernstudio) with which she participated, among others, in the production of Idomeneo interpreting the role of Elettra and in the production of The Old Maid and the Thief in the role of Laetitia under the musical direction of Stefan Lano. Furthermore she interpreted opera scenes in the role of Micaela, Marie (Die verkaufte Braut), Agathe, Contessa, Desdemona. 
+With Theater TOBS (Theater Orchester Biel Solothurn) she made her debut as Sopranistin in Masterclass of Terrence McNally, singing the aria of Lady Macbeth and with the International Belcanto Academy she appeared in the role of Lauretta in Gianni Schicchi.
 
 Anne-Sophie performs regularly as a Recitalist. She performed at the Festival de Minimes in Brussels where she interpreted Alma Mahler’s Fünf Lieder and later Gustav Mahler’s Lieder eines fahrenden Gesellen. She participated at the Inauguration of the auditorium Joseph Jongen (CRB, Brussels), the Festival Courants d’Air (Brussels) and the Festival Musiq’3 (Flagey, Brussels). Further concerts were Le Lied postromantique (MIM, Brussels), La folle journée Mozart (MIM) and concerts organized by Euterpe (Kortrijk), Davidsfonds Mariakerke (Ghent), Rotary Lochristi (Ghent). She participated in Oratorio such as Z. Kodaly’s Missa Brevis, J.S. Bach’s St John and G.F. Händel’s Dixit Dominus.
 
-After obtaining a diploma in engineering-architecture, she entered into LUCA School of Arts in Leuven and for her Master she went to the Royal Conservatory of Brussels. Anne-Sophie received the Special Heritage Award 2015 of the Royal Conservatory of Brussels. She studied at the Schweizer Opernstudio with Mathias Behrends, Franco Trinca and Barbara Locher.
-
-She participated in several masterclasses, notably with Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold and Anne Champert.
+After obtaining a diploma in engineering-architecture, she entered into LUCA School of Arts in Leuven and for her Master she went to the Royal Conservatory of Brussels. Anne-Sophie received the Special Heritage Award 2015 of the Royal Conservatory of Brussels. 
+At the Schweizer Opernstudio she studied with Mathias Behrends, Franco Trinca and Barbara Locher.She participated in several masterclasses, notably with Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold and Anne Champert.
 Anne-Sophie speaks fluently English, French, Dutch, German and Italian.
