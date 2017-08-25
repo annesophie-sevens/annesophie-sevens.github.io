@@ -16,4 +16,5 @@ Anne-Sophie performs regularly as a Recitalist. She performed at the Festival de
 
 After obtaining a diploma in engineering-architecture, she entered into LUCA School of Arts in Leuven and for her Master she went to the Royal Conservatory of Brussels. Anne-Sophie received the Special Heritage Award 2015 of the Royal Conservatory of Brussels. 
 At the Schweizer Opernstudio she studied with Mathias Behrends, Franco Trinca and Barbara Locher.She participated in several masterclasses, notably with Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold and Anne Champert.
+
 Anne-Sophie speaks fluently English, French, Dutch, German and Italian.
