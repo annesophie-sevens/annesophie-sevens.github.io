@@ -7,8 +7,7 @@ ref: biography
 
 ---
 
-*«Mit voluminösen Verdi-Sopran illuminiert Anne-Sophie Sevens alias Charlotte bravourös die Briefszene der Lady Macbeth, während… » (Solothurner Zeitung, 23.02.2017)
-
+*«Mit voluminösen Verdi-Sopran illuminiert Anne-Sophie Sevens alias Charlotte bravourös die Briefszene der Lady Macbeth, während… » (Solothurner Zeitung, 23.02.2017)*
 
 
 
