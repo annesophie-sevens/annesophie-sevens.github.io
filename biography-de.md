@@ -7,7 +7,6 @@ ref: biography
 
 ---
 *«Mit voluminösen Verdi-Sopran illuminiert Anne-Sophie Sevens alias Charlotte bravourös die Briefszene der Lady Macbeth, während… » (Solothurner Zeitung, 23.02.2017)*
-&nbsp;
 
 Die belgische Sopranistin Anne-Sophie Sevens trat bei TOBS (Theater Orchester Biel Solothurn) als Sopranistin in Terrence McNallys Theaterstück «Masterclass» auf. Sie interpretierte Lauretta in Puccinis «Gianni Schicchi» und Laetitia in «The Old Maid and the Thief» von Menotti (Theater Orchester Biel Solothurn). Am Schweizer Opernstudio Biel sang sie Szenen der Micaela, Agathe, Elettra aus «Idomeneo» und Marie aus «Die verkaufte Braut».
 
