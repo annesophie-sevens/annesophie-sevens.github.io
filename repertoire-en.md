@@ -17,7 +17,6 @@ ref: repertoire
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
 | G.Puccini | Gianni Schicchi | Lauretta |
 | G.Puccini | Turandot | Liù |
-| G.Puccini | La Rondine | Magda |
 | B.Smetana | Die verkaufte Braut | Marie |
 | C.M.v.Weber | Der Freischütz | Agathe |
 
