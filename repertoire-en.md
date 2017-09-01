@@ -16,6 +16,7 @@ ref: repertoire
 | W.A.Mozart | Don Giovanni | Donna Elvira |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
 | G.Puccini | Gianni Schicchi | Lauretta |
+| G.Puccini | La Rondine | Magda |
 | G.Puccini | Turandot | Liù |
 | B.Smetana | Die verkaufte Braut | Marie |
 | C.M.v.Weber | Der Freischütz | Agathe |
