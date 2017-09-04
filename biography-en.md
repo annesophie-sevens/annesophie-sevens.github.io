@@ -6,9 +6,6 @@ lang: en
 ref: biography
 
 ---
-
-*«Mit voluminösen Verdi-Sopran illuminiert Anne-Sophie Sevens alias Charlotte bravourös die Briefszene der Lady Macbeth, während… » (Solothurner Zeitung, 23.02.2017)*
-
 Anne-Sophie Sevens, Belgian Soprano recentely completed her studies at the Swiss Operastudio of Biel (Schweizer Opernstudio) with which she participated, among others, in the production of Idomeneo interpreting the role of Elettra and in the production of The Old Maid and the Thief in the role of Laetitia under the musical direction of Stefan Lano. Furthermore she interpreted opera scenes in the role of Micaela, Marie (Die verkaufte Braut), Agathe, Contessa, Desdemona. 
 With Theater TOBS (Theater Orchester Biel Solothurn) she made her debut as Sopranistin in Masterclass of Terrence McNally, singing the aria of Lady Macbeth and with the International Belcanto Academy she appeared in the role of Lauretta in Gianni Schicchi.
 
