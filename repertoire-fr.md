@@ -14,7 +14,6 @@ ref: repertoire
 | C.Gounod | Faust | Marguerite |
 | G.C.Menotti | The Old Maid and the Thief | Laetitia |
 | W.A.Mozart | Così fan tutte | Fiordiligi |
-| W.A.Mozart | Don Giovanni | Donna Elvira |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
 | G.Verdi | Otello | Desdemona |
 | G.Puccini | Gianni Schicchi | Lauretta |
