@@ -12,5 +12,5 @@ Als Konzertsängerin trat sie am Festival international des Minimes in Belgien m
 
 Anne-Sophie studierte am LUCA school of Arts in Leuven (Bachelor) mit Dina Grossberger und am Königlichen Konservatorium Brüssel (Master) mit Marianne Pousseur und Michèle Massina. Am Schweizer Opernstudio Biel studierte sie mit Mathias Behrends, Franco Trinca und Barbara Locher. Anne-Sophie nahm an Meisterkursen mit Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold und Anne Champert teil.
 
-Sie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italiensisch.
+Sie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italienisch.
 
