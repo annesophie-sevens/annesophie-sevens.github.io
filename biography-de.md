@@ -14,4 +14,4 @@ Anne-Sophie studierte am LUCA school of Arts in Leuven (Bachelor) mit Dina Gross
 
 Sie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italienisch.
 
-Sie können ihren Lebenslauf [hier]({{ site.baseurl }}/assets/cv.pdf) herunterladen.
+Sie können ihren Lebenslauf [hier]({{ site.baseurl }}/assets/CV.pdf) herunterladen.
