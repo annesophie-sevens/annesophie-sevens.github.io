@@ -15,3 +15,5 @@ After obtaining a diploma in engineering-architecture, she entered into LUCA Sch
 At the Schweizer Opernstudio she studied with Mathias Behrends, Franco Trinca and Barbara Locher. She participated in several masterclasses, notably with Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold and Anne Champert.
 
 Anne-Sophie speaks fluently English, French, Dutch, German and Italian.
+
+You can download her CV [here](assets/cv.pdf).
