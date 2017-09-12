@@ -17,4 +17,4 @@ Après avoir obtenu le diplôme d’ingénieur-architecte, Anne-Sophie poursuivi
 Anne-Sophie a suivi des coachings et masterclasses avec Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold et Anne Champert. Au Studio suisse d'Opéra elle a étudié avec Mathias Behrends, Franco Trinca et Barbara Locher.
 Anne-Sophie parle couramment français, néerlandais, allemand, anglais et italien.
 
-Vous pouvez télécharger son CV [ici](assets/cv.pdf).
+Vous pouvez télécharger son CV [ici]({{ site.baseurl }}/assets/cv.pdf).
