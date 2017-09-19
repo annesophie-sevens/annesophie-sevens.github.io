@@ -16,7 +16,6 @@ ref: repertoire
 | G.Verdi | Otello | Desdemona |
 | B.Smetana | Die verkaufte Braut | Marie |
 | R.Wagner | Lohengrin | Elsa |
-| R.Wagner | Die Walkure | Sieglinde |
 | C.M.v.Weber | Der Freischütz | Agathe |
 
 &nbsp;
