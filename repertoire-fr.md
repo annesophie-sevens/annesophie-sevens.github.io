@@ -12,7 +12,6 @@ ref: repertoire
 | -------- | ----- | ---- |
 | G.Bizet | Carmen | Micaela |
 | W.A.Mozart | Così fan tutte | Fiordiligi |
-| W.A.Mozart | Don Giovanni | Donna Elvira |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
 | G.Verdi | Otello | Desdemona |
 | B.Smetana | Die verkaufte Braut | Marie |
