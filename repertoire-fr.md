@@ -13,11 +13,12 @@ ref: repertoire
 | G.Bizet | Carmen | Micaela |
 | C.Gounod | Faust | Marguerite |
 | J.Massenet | Hérodiade | Salomé |
-| W.A.Mozart | Così fan tutte | Fiordiligi |
+| W.A.Mozart | Così fan tutte | Fiordilìgi |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
 | O.Nicolai | Die lustigen Weiber von Windsor | Frau Fluth |
-| G.Verdi | Otello | Desdemona |
 | B.Smetana | Die verkaufte Braut | Marie |
+| G.Verdi | Otello | Desdemona |
+| C.M.v.Weber | Der Freischütz | Agathe |
 
 &nbsp;
 
