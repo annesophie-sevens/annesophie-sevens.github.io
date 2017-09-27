@@ -12,7 +12,7 @@ ref: repertoire
 | G.Bizet | Carmen | Micaela |
 | C.Gounod | Faust | Marguerite |
 | J.Massenet | Hérodiade | Salomé |
-| W.A.Mozart | Così fan tutte | Fiordiligi |
+| W.A.Mozart | Così fan tutte | Fiordilìgi |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
 | O.Nicolai | Die lustigen Weiber von Windsor | Frau Fluth |
 | B.Smetana | Die verkaufte Braut | Marie |
