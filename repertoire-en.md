@@ -10,12 +10,13 @@ ref: repertoire
 |Opera | | |
 | -------- | ----- | ---- |
 | G.Bizet | Carmen | Micaela |
+| C.Gounod | Faust | Marguerite |
+| J.Massenet | Hérodiade | Salomé |
 | W.A.Mozart | Così fan tutte | Fiordiligi |
 | W.A.Mozart | Le Nozze di Figaro | La Contessa |
+| O.Nicolai | Die lustige Weiber von Windsor | Frau Fluth |
 | G.Verdi | Otello | Desdemona |
 | B.Smetana | Die verkaufte Braut | Marie |
-| R.Wagner | Lohengrin | Elsa |
-| C.M.v.Weber | Der Freischütz | Agathe |
 
 &nbsp;
 
