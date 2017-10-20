@@ -6,6 +6,14 @@ lang: de
 ref: pictures
 ---
 
+| <a href="/assets/a10.jpg"> ![]({{ site.baseurl }}/assets/a10-thumbnail.jpg) </a> | <a href="/assets/a8.jpg"> ![]({{ site.baseurl }}/assets/a8-thumbnail.jpg) </a> | <a href="/assets/a6.jpg">  ![]({{ site.baseurl }}/assets/a6-thumbnail.jpg) </a> |
+
+| <a href="/assets/a4.jpg"> ![]({{ site.baseurl }}/assets/a4-thumbnail.jpg) </a> | <a href="/assets/a2.jpg"> ![]({{ site.baseurl }}/assets/a2-thumbnail.jpg) </a> | <a href="/assets/a1.jpg">![]({{ site.baseurl }}/assets/a1-thumbnail.jpg) </a> |
+
+| <a href="/assets/a3.jpg">  ![]({{ site.baseurl }}/assets/a3-thumbnail.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/a7.jpg"> ![]({{ site.baseurl }}/assets/a7-thumbnail.jpg) </a>|
+
+|  <a href="/assets/a9.jpg">  ![]({{ site.baseurl }}/assets/a9-thumbnail.jpg) </a> |  <a href="/assets/a11.jpg"> ![]({{ site.baseurl }}/assets/a11-thumbnail.jpg) </a>|
+
 | <a href="/assets/aaa.jpg"> ![]({{ site.baseurl }}/assets/aaa-thumbnail.jpg) </a> | <a href="/assets/aab.jpg"> ![]({{ site.baseurl }}/assets/aab-thumbnail.jpg) </a> | <a href="/assets/aac.jpg">  ![]({{ site.baseurl }}/assets/aac-thumbnail.jpg) </a> |
 
 | <a href="/assets/aad.jpg"> ![]({{ site.baseurl }}/assets/aad-thumbnail.jpg) </a> | <a href="/assets/107.jpg"> ![]({{ site.baseurl }}/assets/107-thumbnail.jpg) </a> | <a href="/assets/101.jpg">![]({{ site.baseurl }}/assets/101-thumbnail.jpg) </a> |
