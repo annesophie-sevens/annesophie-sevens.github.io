@@ -18,3 +18,5 @@ Anne-Sophie a suivi des coachings et masterclasses avec Nadine Secunde, Ana Came
 Anne-Sophie parle couramment français, néerlandais, allemand, anglais et italien.
 
 Vous pouvez télécharger son CV [ici]({{ site.baseurl }}/assets/CV.pdf).
+
+![](assets/a2.jpg)
