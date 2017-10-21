@@ -17,3 +17,5 @@ At the Schweizer Opernstudio she studied with Mathias Behrends, Franco Trinca an
 Anne-Sophie speaks fluently English, French, Dutch, German and Italian.
 
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
+
+![](assets/a2.jpg)
