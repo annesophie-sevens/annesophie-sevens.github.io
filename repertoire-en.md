@@ -38,4 +38,3 @@ ref: repertoire
 | G.F.Händel | Dixit Dominus |
 | Z.Kodaly| Missa Brevis |
 
-![](assets/a5.jpg)
