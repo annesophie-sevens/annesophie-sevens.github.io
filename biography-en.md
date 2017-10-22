@@ -18,4 +18,4 @@ Anne-Sophie speaks fluently English, French, Dutch, German and Italian.
 
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
-![](assets/a2.jpg)
+![](assets/a6.jpg)
