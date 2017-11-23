@@ -6,6 +6,19 @@ ref: agenda
 lang: de
 ---
 
+FINALIST CONCERT 
+
+##### Aria of Micaela and Agathe "Wie nahte"
+
+##### 05.11.2017
+
+##### Bellincanto Competition 
+
+##### _Bellinzona, Switzerland_
+
+&nbsp;
+
+KONZERT
 
 ##### Konzert zauberhafter Opernmelodien
 
