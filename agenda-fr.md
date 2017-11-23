@@ -6,7 +6,7 @@ ref: agenda
 lang: fr
 ---
 
-PRIDE OUEST BERN 2017
+
 
 ##### Konzert zauberhafter Opernmelodien
 
