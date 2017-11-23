@@ -19,4 +19,4 @@ Anne-Sophie parle couramment français, néerlandais, allemand, anglais et itali
 
 Vous pouvez télécharger son CV [ici]({{ site.baseurl }}/assets/CV.pdf).
 
-![](assets/a6.jpg)
+![](assets/a2.jpg)
