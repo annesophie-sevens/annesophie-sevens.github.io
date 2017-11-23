@@ -13,5 +13,3 @@ G. Puccini, La Bohème, Mimì – Donde lieta (Belgium, 19-11-2014)
 R. Wagner, Wesendonck-Lieder, Träume   (Brussels, 25-4-2014)
 
 <audio controls><source type="audio/mpeg" src="{{ site.baseurl }}/assets/traume.mp3"/>Hello</audio>
-
-![](assets/a8.jpg)
