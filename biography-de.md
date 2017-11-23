@@ -17,4 +17,4 @@ Sie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italieni
 Sie können ihren Lebenslauf [hier]({{ site.baseurl }}/assets/CV.pdf) herunterladen.
 
 
-![](assets/a6.jpg)
+![](assets/a2.jpg)
