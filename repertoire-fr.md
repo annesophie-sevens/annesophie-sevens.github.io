@@ -8,5 +8,5 @@ ref: repertoire
 
 
 Vous pouvez télécharger son répertoire [ici]({{ site.baseurl }}/assets/HR.pdf).
-| Z.Kodaly| Missa Brevis |
+
 
