@@ -5,7 +5,7 @@ menuorder: 7
 lang: fr
 ref: pictures
 ---
-| <a href="/assets/a10.jpg"> ![]({{ site.baseurl }}/assets/a10-thumbnail.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/a6.jpg">  ![]({{ site.baseurl }}/assets/a6-thumbnail.jpg) </a> |
+| <a href="/assets/a10.jpg"> ![]({{ site.baseurl }}/assets/a10-thumbnail.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/a16.jpg">  ![]({{ site.baseurl }}/assets/a16-thumbnail.jpg) </a> |
 
 | <a href="/assets/picture5.jpg"> ![]({{ site.baseurl }}/assets/picture5-thumbnail.jpg) </a> | <a href="/assets/a11.jpg"> ![]({{ site.baseurl }}/assets/a11-thumbnail.jpg) </a> | <a href="/assets/a2.jpg">![]({{ site.baseurl }}/assets/a2-thumbnail.jpg) </a> |
 
