@@ -4,4 +4,4 @@ menuorder: 1
 ref: home
 lang: fr
 ---
-![](assets/a16.jpg)
+![](assets/a1.jpg)
