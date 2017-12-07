@@ -6,4 +6,4 @@ lang: de
 ---
 
 
-![](assets/a1.jpg)
+![](assets/b2.jpg)
