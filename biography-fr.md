@@ -8,6 +8,7 @@ ref: biography
 ---
 Anne-Sophie Sevens, soprano belge a fait ses débuts comme Lauretta dans Puccini’s Gianni Schicchi, Laetitia dans Menotti's The Old Maid and the Thief (Théâtre Biel) et elle a interprété le rôle de Soprano dans ‘Masterclass’ de Terrence McNally (Théâtre Biel).
 Au Studio Suisse d'Opéra Anne-Sophie interpréta des scènes de Marie (Die verkaufte Braut), Agathe (Der Freischütz), Micaela, Elettra (Idomeneo) sous la direction de Mathias Behrends et de Franco Trinca au Théâtre Biel.
+En 2017 elle était lauréate dans les concours Bellincanto à Bellinzona (Suisse) et Ljuba Welitsch à Vienne. 
 
 Elle s'est produite au Festival international des Minimes, où elle interpréta Fünf Lieder d’Alma Mahler et à une autre occasion Lieder eines fahrenden Gesellen de Gustav Mahler. Elle a également chanté dans le cadre de concerts organisés par Davidsfonds (Gand), par Euterpe (Courtrai) et par In de oude living (Merelbeke). Elle participa à différents événements musicaux  comme L’inauguration de l’auditorium Joseph Jongen (CRB, Bruxelles), Le Lied postromantique (MIM, Bruxelles), La folle journée Mozart (MIM), les Festivals Courants d’air (Bruxelles) et  Musiq’3 (Flagey, Bruxelles).
 Comme soliste, elle  chanta dans la Missa Brevis de Z. Kodaly, La Passion selon St.-Jean de J.S. Bach et Dixit Dominus de G.F. Händel.
