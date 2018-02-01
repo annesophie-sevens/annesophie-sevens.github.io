@@ -13,7 +13,7 @@ FINALIST CONCERT
 
 ##### _Wien, Austria_
 
-##### <a href="http://gesangswettbewerb-ljubawelitsch.at/de/index.php?id=62" target="_blank">More info</a>
+##### <a href="http://www.gesangswettbewerb-ljubawelitsch.at/de/index.php?id=62" target="_blank">More info</a>
 
 &nbsp;
 
