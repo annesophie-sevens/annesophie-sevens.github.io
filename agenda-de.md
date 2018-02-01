@@ -31,9 +31,9 @@ FINALIST CONCERT
 
 &nbsp;
 
-KONZERT
+CONCERT
 
-##### Konzert zauberhafter Opernmelodien
+##### Zauberhafter Opernmelodien
 
 ##### 26.08.2017, 14.00 - 14.30, 15.30 - 16.00
 
