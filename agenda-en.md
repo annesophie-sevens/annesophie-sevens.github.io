@@ -7,7 +7,17 @@ lang: en
 ---
 FINALIST CONCERT 
 
-##### Aria of Micaela and Agathe "Wie nahte"
+##### 20.12.2017
+
+##### Ljuba Welitsch Gesangswettbewerb 
+
+##### _Wien, Austria_
+
+&nbsp;
+
+FINALIST CONCERT 
+
+##### Aria of Micaela and Agathe 
 
 ##### 05.11.2017
 
@@ -17,9 +27,9 @@ FINALIST CONCERT
 
 &nbsp;
 
-KONZERT
+CONCERT
 
-##### Konzert zauberhafter Opernmelodien
+##### Zauberhafter Opernmelodien
 
 ##### 26.08.2017, 14.00 - 14.30, 15.30 - 16.00
 
@@ -31,7 +41,7 @@ KONZERT
 
 SHAKESPEARE
 
-##### In the role of Desdemona
+##### In the role of Desdemona and Lady Macbeth
 
 ##### 15.06.2017 | 20:30
 
