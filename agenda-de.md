@@ -7,8 +7,6 @@ lang: de
 ---
 FINALIST CONCERT 
 
-##### Aria of Elettra
-
 ##### 20.12.2017
 
 ##### Ljuba Welitsch Gesangswettbewerb 
