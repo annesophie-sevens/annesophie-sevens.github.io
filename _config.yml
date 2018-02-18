@@ -26,9 +26,9 @@ t:
     biography:
       name: "Biography"
       url: "/biography-en.html"
-    repertoire:
-      name: "Repertoire"
-      url: "/repertoire-en.html"
+#    repertoire:
+#      name: "Repertoire"
+#      url: "/repertoire-en.html"
     pictures:
       name: "Pictures"
       url: "/pictures-en.html"
@@ -45,9 +45,9 @@ t:
     biography:
       name: "Biographie"
       url: "/biography-fr.html"
-    repertoire:
-      name: "Répertoire"
-      url: "/repertoire-fr.html"
+ #   repertoire:
+ #     name: "Répertoire"
+ #     url: "/repertoire-fr.html"
     pictures:
       name: "Photos"
       url: "/pictures-fr.html"
@@ -64,9 +64,9 @@ t:
     biography:
       name: "Biography"
       url: "/biography-de.html"
-    repertoire:
-      name: "Repertoire"
-      url: "/repertoire-de.html"
+ #   repertoire:
+ #     name: "Repertoire"
+ #     url: "/repertoire-de.html"
     pictures:
       name: "Pictures"
       url: "/pictures-de.html"
