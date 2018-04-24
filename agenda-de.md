@@ -5,6 +5,30 @@ menuorder: 6
 ref: agenda
 lang: de
 ---
+FINAL ROUNDS 
+
+##### 19-20.5.2018
+
+##### Concorso Piemonte Opera Voci dal mondo 
+
+##### _Turin, Italy_
+
+&nbsp;
+
+FINAL ROUNDS 
+
+##### 3-10.6.2018 
+
+##### Belvedere Competition 
+
+##### _Jurmala, Latvia_
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
 FINALIST CONCERT 
 
 ##### 20.12.2017
