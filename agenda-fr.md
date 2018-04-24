@@ -5,15 +5,6 @@ menuorder: 6
 ref: agenda
 lang: fr
 ---
-FINAL ROUNDS 
-
-##### 19-20.5.2018
-
-##### Concorso Piemonte Opera Voci dal mondo 
-
-##### _Turin, Italy_
-
-&nbsp;
 
 FINAL ROUNDS 
 
@@ -24,8 +15,17 @@ FINAL ROUNDS
 ##### _Jurmala, Latvia_
 
 &nbsp;
+
+FINAL ROUNDS 
+
+##### 19-20.5.2018
+
+##### Concorso Piemonte Opera Voci dal mondo 
+
+##### _Turin, Italy_
+
 &nbsp;
-&nbsp;
+
 FINALIST CONCERT 
 
 ##### 20.12.2017
