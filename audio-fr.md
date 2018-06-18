@@ -5,13 +5,7 @@ menuorder: 4
 ref: audio
 lang: fr
 ---
-W.A. Mozart - La Clemenza di Tito - "Non piu di fiori" (Biel, Mar. 2018)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/420155632&color=%23251178&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-R. Wagner - Die Walküre - "Du bist der Lenz" (Biel, Mar. 2018)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/420147200&color=%23251178&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 R. Wagner - Wesendonck-Lieder - "Träume"   (Brussels, Apr. 2014)
 
