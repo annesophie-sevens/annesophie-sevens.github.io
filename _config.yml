@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site settings
 title: Anne-Sophie Sevens
-email: contact@annesophiesevens.com
+email: annesophie_sevens@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
