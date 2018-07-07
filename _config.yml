@@ -7,7 +7,7 @@ s# Welcome to Jekyll!
 
 # Site settings
 title: Anne-Sophie Sevens
-email: "annesophie_sevens@hotmail.com"
+email: annesophie_sevens@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
