@@ -6,16 +6,17 @@ lang: en
 ref: biography
 
 ---
-Anne-Sophie Sevens, Belgian Soprano recentely completed her studies at the Swiss Operastudio of Biel (Schweizer Opernstudio) with which she participated, among others, in the production of Idomeneo interpreting the role of Elettra and in the production of The Old Maid and the Thief in the role of Laetitia under the musical direction of Stefan Lano. Furthermore she interpreted opera scenes in the role of Micaela, Marie (Die verkaufte Braut), Agathe, Contessa, Desdemona. 
-With Theater TOBS (Theater Orchester Biel Solothurn) she made her debut as Sopranistin in Masterclass of Terrence McNally, singing the aria of Lady Macbeth and with the International Belcanto Academy she appeared in the role of Lauretta in Gianni Schicchi.
+Belgian soprano Anne-Sophie Sevens made in 2017 her debut by TOBS (Theatre Orchestra Biel Solothurn) as Sopranistin in «Masterclass» of Terrence McNally, singing the aria of Lady Macbeth «Nel dì della vittoria». In 2015-2017 she was singing at the Swiss Opera Studio Biel with which she participated, among others, in «Idomeneo» interpreting the role of Elettra and in «The old maid and the thief» the role of Laetitia with the Orchestra Biel Solothurn. Furthermore she interpreted opera scenes in the role of Micaela, Marie in «Die verkaufte Braut», Agathe, Contessa and Desdemona. By Opernwerkstatt she sung in 2016 the role of Gerhilde in concerts in Sigriswil, Bern, Basel and Zürich. 
 
-Anne-Sophie performs regularly as a Recitalist. She performed at the Festival de Minimes in Brussels where she interpreted Alma Mahler’s Fünf Lieder and later Gustav Mahler’s Lieder eines fahrenden Gesellen. She participated at the Inauguration of the auditorium Joseph Jongen (CRB, Brussels), the Festival Courants d’Air (Brussels) and the Festival Musiq’3 (Flagey, Brussels). Further concerts were Le Lied postromantique (MIM, Brussels), La folle journée Mozart (MIM, Brussels) and concerts organized by Euterpe (Belgium), Davidsfonds Mariakerke (Belgium), Rotary Lochristi (Belgium). She participated in Oratorio such as Z. Kodaly’s Missa Brevis, J.S. Bach’s St John and G.F. Händel’s Dixit Dominus.
+Anne-Sophie performs regularly as a Recitalist. She performed in Belgium at the Festival de Minimes in Brussels where she interpreted Alma Mahler’s «Fünf Lieder» and later Gustav Mahler’s «Lieder eines fahrenden Gesellen». She participated at concerts organized by Euterpe, Davidsfonds and Rotary. She sang at the Inauguration of the auditorium Joseph Jongen, the Festival Courants d’Air the «Wesendonck-Lieder» of Richard Wagner and the Festival Musiq’3 (Flagey, Brussels) «Chanson perpétuelle» of Ernest Chausson. 
 
-After obtaining a diploma in engineering-architecture, she entered into LUCA School of Arts in Leuven and for her Master she went to the Royal Conservatory of Brussels. Anne-Sophie received the Special Heritage Award 2015 of the Royal Conservatory of Brussels. In 2017 she was Prizewinner in the Bellincanto Competition in Bellinzona (Switzerland) and in the Ljuba Welitsch Singing Competition in Vienna. 
-At the Schweizer Opernstudio she studied with Mathias Behrends, Franco Trinca and Barbara Locher. She participated in several masterclasses, notably with Nadine Secunde, Ana Camelia Stefanescu, Edda Moser, Gerd Uecker, Paul Weigold and Anne Champert.
+Anne-Sophie was receiver of different scholarships: in 2016 and 2018 by Opernwerkstatt (Switzerland), in 2016 by Nei Stëmme donated by Focunda and by the Royal Conservatory of Brussels she received the Special Heritage Award in 2015. 
+In 2017 she was Price-winner in the Bellincanto Competition in Bellinzona (Switzerland) and in the Ljuba Welitsch Singing Competition in Vienna. She participated at the Elizabeth Connell Competition in Covent Garden in 2017 and at Belvedere Competition in Jurmala in 2018. 
 
-Anne-Sophie speaks fluently English, French, Dutch, German and Italian.
+After obtaining a diploma in engineering-architecture in 2009, she entered into LUCA School of Arts in Leuven where she studied with Dina Grossberger. For her Master she went to the Royal Conservatory of Brussels, studied with Christine Solhosse and Marianne Pousseur and finished her Master-degree with distinction in 2015. Beside her Belgian musical education she took regularly lessons and participated in several master-classes in Germany, Switzerland and Italy notably with Edda Moser, Nadine Secunde, Vesselina Kasarova and Gerd Uecker. At the Swiss Opera Studio Biel she studied with Mathias Behrends, Franco Trinca and Barbara Locher. Anne-Sophie speaks fluently German, English, Italian, French and Dutch. 
+ 
+
 
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
-![](assets/a2.jpg)
+
