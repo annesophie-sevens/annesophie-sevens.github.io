@@ -6,6 +6,20 @@ ref: agenda
 lang: en
 ---
 
+OPERNWERKSTATT
+
+##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
+
+##### 12.10 - 16.10.2016
+
+##### Led by Verena Keller (Artistic Director), Giuliano Betta (Conductor), Joachim Schlömer (Regie)
+
+##### _Sigriswil Kirche, Bern Kultur Casino, Basel Elisabethen Kirche, Zürich Kleine Tonhalle – Switzerland_
+
+###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
+
+&nbsp;
+
 FINAL ROUNDS 
 
 ##### 3-10.6.2018 
