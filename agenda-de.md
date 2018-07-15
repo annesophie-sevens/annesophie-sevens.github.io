@@ -5,6 +5,19 @@ menuorder: 6
 ref: agenda
 lang: de
 ---
+
+OPERNWERKSTATT 18
+
+##### Concerts on 10.10 in Sigriswil, 11.10 in Bern, 13.10 in Basel, 14.10 in Zürich
+
+##### Led by Verena Keller (Artistic Director)
+
+##### _Sigriswil Kirche, Bern Französische Kirche, Basel Elisabethen Kirche, Zürich Theater Rigiblick – Switzerland_
+
+###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
+
+&nbsp;
+
 FINAL ROUNDS 
 
 ##### 3-10.6.2018 
