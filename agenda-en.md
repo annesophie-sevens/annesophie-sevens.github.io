@@ -6,15 +6,13 @@ ref: agenda
 lang: en
 ---
 
-OPERNWERKSTATT
+OPERNWERKSTATT 18
 
-##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
+##### Concerts on 10.10 in Sigriswil, 11.10 in Bern, 13.10 in Basel, 14.10 in Zürich
 
-##### 12.10 - 16.10.2016
+##### Led by Verena Keller (Artistic Director)
 
-##### Led by Verena Keller (Artistic Director), Giuliano Betta (Conductor), Joachim Schlömer (Regie)
-
-##### _Sigriswil Kirche, Bern Kultur Casino, Basel Elisabethen Kirche, Zürich Kleine Tonhalle – Switzerland_
+##### _Sigriswil Kirche, Bern Französische Kirche, Basel Elisabethen Kirche, Zürich Theater Rigiblick – Switzerland_
 
 ###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
 
