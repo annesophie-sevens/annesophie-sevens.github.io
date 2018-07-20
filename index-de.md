@@ -6,4 +6,4 @@ lang: de
 ---
 
 
-![](assets/muurfoto.jpg)
+![](assets/20.jpg)
