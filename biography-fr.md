@@ -19,7 +19,9 @@ Outre sa formation musicale en Belgique, Anne-Sophie a suivi des coachings et ma
 
 
 Vous pouvez télécharger son CV [ici]({{ site.baseurl }}/assets/CV.pdf).
+
 Vous pouvez télécharger son répertoire [ici]({{ site.baseurl }}/assets/REP.pdf).
+
 Vous pouvez télécharger son répertoire d'airs [ici]({{ site.baseurl }}/assets/ARIAS.pdf).
 
 
