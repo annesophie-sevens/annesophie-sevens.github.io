@@ -15,9 +15,10 @@ Im Jahr 2015 erhielt sie den Spezial-Förderpreis der Königlichen Konservatoriu
 Nachher ihren Master-Abschluss in Architektur, studierte Anne-Sophie für ihren Bachelor-Abschluss Gesang am LUCA School of Arts in Leuven mit Dina Grossberger und am Königlichen Konservatorium Brüssel für ihren Master-Abschluss mit Christine Solhosse und Marianne Pousseur und absolvierte in 2015 mit Auszeichnung. Neben ihrer Ausbildung in Belgien nahm Anne-Sophie teil an mehreren Meisterkursen mit Edda Moser, Vesselina Kasarova, Nadine Secunde und Gerd Uecker in Deutschland, Schweiz und Italien. Am Schweizer Opernstudio Biel im Jahr 2015-2017 studierte sie mit Mathias Behrends, Franco Trinca und Barbara Locher. 
 Anne-Sophie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italienisch.
 
+
+
+
 Sie können ihren Lebenslauf [hier]({{ site.baseurl }}/assets/CV.pdf) herunterladen.
-
 Sie können ihres Repertoire [hier]({{ site.baseurl }}/assets/REP.pdf) herunterladen.
-
 Sie können ihre Arien-Liste [hier]({{ site.baseurl }}/assets/ARIAS.pdf) herunterladen.
 
