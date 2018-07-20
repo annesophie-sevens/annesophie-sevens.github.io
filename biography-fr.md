@@ -16,10 +16,10 @@ Après avoir obtenu le diplôme d’ingénieur architecte en 2009, Anne-Sophie p
 Outre sa formation musicale en Belgique, Anne-Sophie a suivi des coachings et master classes en Allemagne, en Suisse et en Italie notamment avec Edda Moser, Vesselina Kasarova, Nadine Secunde et Gerd Uecker. Au Studio suisse d'opéra, elle a étudié avec Mathias Behrends, Franco Trinca et Barbara Locher. Anne-Sophie parle le français, le néerlandais, l’allemand, l’anglais et l’italien.
 
 
+
+
 Vous pouvez télécharger son CV [ici]({{ site.baseurl }}/assets/CV.pdf).
-
 Vous pouvez télécharger son répertoire [ici]({{ site.baseurl }}/assets/REP.pdf).
-
 Vous pouvez télécharger son répertoire d'airs [ici]({{ site.baseurl }}/assets/ARIAS.pdf).
 
 
