@@ -17,5 +17,7 @@ Anne-Sophie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und 
 
 Sie können ihren Lebenslauf [hier]({{ site.baseurl }}/assets/CV.pdf) herunterladen.
 
+Sie können ihres Repertoire [hier]({{ site.baseurl }}/assets/REP.pdf) herunterladen.
 
+Sie können ihre Arien-Liste [hier]({{ site.baseurl }}/assets/ARIAS.pdf) herunterladen.
 
