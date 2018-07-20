@@ -22,4 +22,4 @@ You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
 You can download her repertoire [here]({{ site.baseurl }}/assets/REP.pdf).
 
-You can download her repertoire of arias [here]({{ site.baseurl }}/assets/ARIAS.pdf).
+You can download her aria repertoire [here]({{ site.baseurl }}/assets/ARIAS.pdf).
