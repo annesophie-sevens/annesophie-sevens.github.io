@@ -2,6 +2,6 @@
 layout: page
 title: Repertoire
 menuorder: 6
-lang: du
+lang: de
 ref: Repertoire
 ---
