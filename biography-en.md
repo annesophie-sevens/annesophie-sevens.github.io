@@ -20,6 +20,3 @@ After obtaining a diploma in engineering-architecture in 2009, she entered into 
 
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
-You can download her repertoire [here]({{ site.baseurl }}/assets/REP.pdf).
-
-You can download her aria repertoire [here]({{ site.baseurl }}/assets/ARIAS.pdf).
