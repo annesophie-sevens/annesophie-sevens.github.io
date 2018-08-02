@@ -3,7 +3,7 @@ layout: page
 title: Répertoire
 menuorder: 6
 lang: fr
-ref: repertoire
+ref: Repertoire
 ---
 
 Vous pouvez télécharger son répertoire [ici]({{ site.baseurl }}/assets/REP.pdf).
