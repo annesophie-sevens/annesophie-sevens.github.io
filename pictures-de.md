@@ -12,7 +12,7 @@ ref: pictures
 
 |  <a href="/assets/25.jpg">  ![]({{ site.baseurl }}/assets/25_thumbnail.jpg) </a> | <a href="/assets/MUUR 1.JPG"> ![]({{ site.baseurl }}/assets/MUUR.jpg) </a>|<a href="/assets/muurfoto.jpg"> ![]({{ site.baseurl }}/assets/muurfoto_thumbnail.jpg) </a>|
 
-| <a href="/assets/b2.jpg"> ![]({{ site.baseurl }}/assets/b2-thumbnail.jpg) </a> | <a href="/assets/aab.jpg"> ![]({{ site.baseurl }}/assets/aab-thumbnail.jpg) </a> | <a href="/assets/muurfoto.jpg">  ![]({{ site.baseurl }}/assets/muurfoto_thumbnail.jpg) </a> |
+| <a href="/assets/b2.jpg"> ![]({{ site.baseurl }}/assets/b2-thumbnail.jpg) </a> | <a href="/assets/aab.jpg"> ![]({{ site.baseurl }}/assets/aab-thumbnail.jpg) </a> | <a href="/assets/110.jpg">  ![]({{ site.baseurl }}/assets/110_thumbnail.jpg) </a> |
 
 
 
