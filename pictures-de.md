@@ -6,7 +6,7 @@ lang: de
 ref: pictures
 ---
 
-| <a href="/assets/20.JPG"> ![]({{ site.baseurl }}/assets/20_thumbnail.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/23.JPG">  ![]({{ site.baseurl }}/assets/23_thumbnail.jpg) </a> |
+| <a href="/assets/20.JPG"> ![]({{ site.baseurl }}/assets/20_thumbnail.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/25.JPG">  ![]({{ site.baseurl }}/assets/25_thumbnail.jpg) </a> |
 
 | <a href="/assets/LOOP.jpg"> ![]({{ site.baseurl }}/assets/LOOP 1.jpg) </a> | <a href="/assets/BLOEM 1.jpg"> ![]({{ site.baseurl }}/assets/bloem.jpg) </a> | <a href="/assets/HAND 1.JPG">![]({{ site.baseurl }}/assets/HAND.jpg) </a> |
 
