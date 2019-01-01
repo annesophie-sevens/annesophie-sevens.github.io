@@ -6,7 +6,41 @@ ref: agenda
 lang: fr
 ---
 
+<img style="float: left; padding: 20px" src="/assets/bloem.jpg"> 
+
+RECITAL "AUF FLÜGELN DES GESANGES"
+
+##### Wesendonck-Lieder of R. Wagner & German arias of R. Wagner and R. Strauss 
+
+##### 16.2.2019 | 20:00
+
+##### with Pianist David Miller
+
+##### _Piano's Maene Brussels – Belgium_
+
+&nbsp;
+
+&nbsp;
+
+JURY MEMBER
+
+##### Ljuba Welitsch Singing Competition - Vienna
+
+##### 18-20.12.2018
+
+##### Led by Saschka Zhurkov (Artistic Director)
+
+##### _Kunstraum Ringstrassen Galleries Vienna – Austria_
+
+###### <a href="http://www.gesangswettbewerb-ljubawelitsch.at/index.php?id=62" target="_blank">More info</a>
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/op18-thumbnail.jpg"> 
+
 OPERNWERKSTATT 18
+
+##### In the role of Gerhilde, Marie (Wozzeck) and Santuzza
 
 ##### Concerts on 10.10 in Sigriswil, 11.10 in Bern, 13.10 in Basel, 14.10 in Zürich
 
@@ -20,9 +54,9 @@ OPERNWERKSTATT 18
 
 FINAL ROUNDS 
 
-##### 3-10.6.2018 
+##### Belvedere Competition
 
-##### Belvedere Competition 
+##### 3-10.6.2018  
 
 ##### _Jurmala, Latvia_
 
@@ -30,9 +64,9 @@ FINAL ROUNDS
 
 FINAL ROUNDS 
 
-##### 19-20.5.2018
-
 ##### Concorso Piemonte Opera Voci dal mondo 
+
+##### 19-20.5.2018
 
 ##### _Turin, Italy_
 
@@ -40,9 +74,9 @@ FINAL ROUNDS
 
 FINALIST CONCERT 
 
-##### 20.12.2017
-
 ##### Ljuba Welitsch Gesangswettbewerb 
+
+##### 20.12.2017
 
 ##### _Wien, Austria_
 
@@ -50,7 +84,7 @@ FINALIST CONCERT
 
 FINALIST CONCERT 
 
-##### Aria of Micaela and Agathe 
+##### Arias of Micaela and Agathe 
 
 ##### 05.11.2017
 
@@ -90,6 +124,8 @@ SHAKESPEARE
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/a15-thumbnail.jpg"> 
+
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ##### In the role of Laetitia
@@ -102,6 +138,10 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 &nbsp;
 
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/aad-thumbnail.jpg"> 
+
 CONCERT AULA UGENT
 
 ##### Händel & Mozart
@@ -111,6 +151,8 @@ CONCERT AULA UGENT
 ##### Organisation: Rotary Laarne-Lochristi | with Orchester Continuo | Conductor : Kevin Hendrickx
 
 ##### _Aula Ugent, Gent, Belgium_
+
+&nbsp;
 
 &nbsp;
 
@@ -140,12 +182,11 @@ SHAKESPEARE
 
 &nbsp;
 
-
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg">
 
 DIPLOMFEIER Conservation-Restoration
 
-##### Tutte nel cor vi sento - Idomeneo - W.A.Mozart | September - R.Strauss 
+##### Dich theure Halle |  Du bist der Lenz | Tutte nel cor vi sento | September - R.Strauss 
 
 ##### 28.10.2016
 
@@ -156,7 +197,6 @@ DIPLOMFEIER Conservation-Restoration
 &nbsp;
 
 &nbsp;
-
 
 OPERNWERKSTATT
 
@@ -172,7 +212,6 @@ OPERNWERKSTATT
 
 &nbsp;
 
-
 <img style="float: left; padding: 20px" src="/assets/event2.jpg">  
 
 SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
@@ -186,7 +225,5 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 ##### _Villa Emden, Brissago Islands Lago Maggiore / Ticino – Switzerland_
 
 ###### <a href="http://syquali.ch/en/filmopera/" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
