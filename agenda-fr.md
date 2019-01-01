@@ -50,6 +50,8 @@ OPERNWERKSTATT 18
 
 ###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
 
+###### <a href="https://www.youtube.com/embed/M8LZHCqI_jA" target="_blank">Clip</a>
+
 &nbsp;
 
 FINAL ROUNDS 
@@ -69,6 +71,8 @@ FINAL ROUNDS
 ##### 19-20.5.2018
 
 ##### _Turin, Italy_
+
+###### <a href="https://www.youtube.com/embed/dDkHsQP2oiI" target="_blank">Clip</a>
 
 &nbsp;
 
