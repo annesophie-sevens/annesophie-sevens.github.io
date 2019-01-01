@@ -17,7 +17,7 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### _Piano's Maene Brussels – Belgium_
 
-&nbsp;
+#####
 
 &nbsp;
 
@@ -32,8 +32,6 @@ JURY MEMBER
 ##### _Kunstraum Ringstrassen Galleries Vienna – Austria_
 
 ###### <a href="http://www.gesangswettbewerb-ljubawelitsch.at/index.php?id=62" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
 
@@ -53,8 +51,6 @@ OPERNWERKSTATT 18
 
 &nbsp;
 
-&nbsp;
-
 FINAL ROUNDS 
 
 ##### Belvedere Competition
@@ -63,7 +59,9 @@ FINAL ROUNDS
 
 ##### _Jurmala, Latvia_
 
-&nbsp;
+#####
+
+#####
 
 &nbsp;
 
@@ -75,7 +73,9 @@ FINAL ROUNDS
 
 ##### _Turin, Italy_
 
-&nbsp;
+#####
+
+#####
 
 &nbsp;
 
@@ -87,7 +87,9 @@ FINALIST CONCERT
 
 ##### _Wien, Austria_
 
-&nbsp;
+#####
+
+#####
 
 &nbsp;
 
@@ -101,7 +103,7 @@ FINALIST CONCERT
 
 ##### _Bellinzona, Switzerland_
 
-&nbsp;
+#####
 
 &nbsp;
 
@@ -115,7 +117,7 @@ CONCERT
 
 ###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
 
-&nbsp;
+#####
 
 &nbsp;
 
@@ -137,8 +139,6 @@ SHAKESPEARE
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/a15-thumbnail.jpg"> 
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
@@ -151,7 +151,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
 
-&nbsp;
+#####
 
 &nbsp;
 
@@ -167,7 +167,7 @@ CONCERT AULA UGENT
 
 ##### _Aula Ugent, Gent, Belgium_
 
-&nbsp;
+#####
 
 &nbsp;
 
@@ -183,7 +183,7 @@ MASTER CLASS | Terrence McNally
 
 ##### _TOBS, Biel / Solothurn, Switzerland_
 
-&nbsp;
+#####
 
 &nbsp;
 
@@ -195,7 +195,9 @@ SHAKESPEARE
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
 
-&nbsp;
+#####
+
+#####
 
 &nbsp;
 
@@ -215,8 +217,6 @@ DIPLOMFEIER Conservation-Restoration
 
 &nbsp;
 
-&nbsp;
-
 OPERNWERKSTATT
 
 ##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
@@ -228,8 +228,6 @@ OPERNWERKSTATT
 ##### _Sigriswil Kirche, Bern Kultur Casino, Basel Elisabethen Kirche, Zürich Kleine Tonhalle – Switzerland_
 
 ###### <a href="http://opernwerkstatt.emedia4web.eu/index.php?id=62" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
 
@@ -246,7 +244,5 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 ##### _Villa Emden, Brissago Islands Lago Maggiore / Ticino – Switzerland_
 
 ###### <a href="http://syquali.ch/en/filmopera/" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
