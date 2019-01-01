@@ -210,7 +210,7 @@ DIPLOMFEIER Conservation-Restoration
 ##### _Bern – Switzerland_
 
 &nbsp;
-&nbsp;
+
 &nbsp;
 
 OPERNWERKSTATT
