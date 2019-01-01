@@ -5,6 +5,31 @@ menuorder: 6
 ref: agenda
 lang: de
 ---
+RECITAL "AUF FLüUGELN DES GESANGES"
+
+##### Wesendonck-Lieder & German arias 
+
+##### with Pianist David Miller
+
+##### _Piano's Maene Brussels – Belgium_
+
+###### <a href="assets/gesanges.pdf" target="_blank">Flyer</a>
+
+&nbsp;
+
+
+JURY MEMBER
+
+##### Ljuba Welitsch Singing Competition - Vienna
+
+##### Led by Saschka Zhurkov (Artistic Director)
+
+##### _Kunstraum Ringstrassen Galleries Vienna – Austria_
+
+###### <a href="http://www.gesangswettbewerb-ljubawelitsch.at/index.php?id=62" target="_blank">More info</a>
+
+&nbsp;
+
 
 OPERNWERKSTATT 18
 
