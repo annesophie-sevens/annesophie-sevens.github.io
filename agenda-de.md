@@ -19,6 +19,8 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 &nbsp;
 
+&nbsp;
+
 JURY MEMBER
 
 ##### Ljuba Welitsch Singing Competition - Vienna
@@ -32,6 +34,10 @@ JURY MEMBER
 ###### <a href="http://www.gesangswettbewerb-ljubawelitsch.at/index.php?id=62" target="_blank">More info</a>
 
 &nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/ow18-thumbnail.jpg"> 
 
 OPERNWERKSTATT 18
 
@@ -47,6 +53,8 @@ OPERNWERKSTATT 18
 
 &nbsp;
 
+&nbsp;
+
 FINAL ROUNDS 
 
 ##### Belvedere Competition
@@ -54,6 +62,8 @@ FINAL ROUNDS
 ##### 3-10.6.2018  
 
 ##### _Jurmala, Latvia_
+
+&nbsp;
 
 &nbsp;
 
@@ -67,6 +77,8 @@ FINAL ROUNDS
 
 &nbsp;
 
+&nbsp;
+
 FINALIST CONCERT 
 
 ##### Ljuba Welitsch Gesangswettbewerb 
@@ -74,6 +86,8 @@ FINALIST CONCERT
 ##### 20.12.2017
 
 ##### _Wien, Austria_
+
+&nbsp;
 
 &nbsp;
 
@@ -89,6 +103,8 @@ FINALIST CONCERT
 
 &nbsp;
 
+&nbsp;
+
 CONCERT
 
 ##### Zauberhafter Opernmelodien
@@ -98,6 +114,8 @@ CONCERT
 ##### Rathausplatz, Bern, CH
 
 ###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
+
+&nbsp;
 
 &nbsp;
 
@@ -119,6 +137,8 @@ SHAKESPEARE
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/a15-thumbnail.jpg"> 
 
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
@@ -133,6 +153,8 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/aad-thumbnail.jpg"> 
 
 CONCERT AULA UGENT
@@ -144,6 +166,8 @@ CONCERT AULA UGENT
 ##### Organisation: Rotary Laarne-Lochristi | with Orchester Continuo | Conductor : Kevin Hendrickx
 
 ##### _Aula Ugent, Gent, Belgium_
+
+&nbsp;
 
 &nbsp;
 
@@ -173,6 +197,7 @@ SHAKESPEARE
 
 &nbsp;
 
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg">
 
@@ -188,9 +213,6 @@ DIPLOMFEIER Conservation-Restoration
 
 &nbsp;
 
-&nbsp;
-
-
 OPERNWERKSTATT
 
 ##### In the role of Gerhilde in Walkürenritt, Die Walküre, R.Wagner
@@ -205,6 +227,7 @@ OPERNWERKSTATT
 
 &nbsp;
 
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/event2.jpg">  
 
