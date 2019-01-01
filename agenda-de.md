@@ -5,7 +5,7 @@ menuorder: 6
 ref: agenda
 lang: de
 ---
-<img style="float: left; padding: 20px" src="/assets/event2.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/gesanges.jpg"> 
 
 RECITAL "AUF FLÜGELN DES GESANGES"
 
@@ -132,7 +132,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/event2.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/aad.jpg"> 
 
 CONCERT AULA UGENT
 
