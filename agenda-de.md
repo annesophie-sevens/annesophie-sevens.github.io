@@ -17,7 +17,7 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### _Piano's Maene Brussels – Belgium_
 
-
+&nbsp;
 
 &nbsp;
 
@@ -59,9 +59,9 @@ FINAL ROUNDS
 
 ##### _Jurmala, Latvia_
 
+&nbsp;
 
-
-
+&nbsp;
 
 &nbsp;
 
@@ -73,9 +73,9 @@ FINAL ROUNDS
 
 ##### _Turin, Italy_
 
+&nbsp;
 
-
-
+&nbsp;
 
 &nbsp;
 
@@ -87,9 +87,9 @@ FINALIST CONCERT
 
 ##### _Wien, Austria_
 
+&nbsp;
 
-
-
+&nbsp;
 
 &nbsp;
 
@@ -103,7 +103,7 @@ FINALIST CONCERT
 
 ##### _Bellinzona, Switzerland_
 
-
+&nbsp;
 
 &nbsp;
 
@@ -117,7 +117,7 @@ CONCERT
 
 ###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
 
-
+&nbsp;
 
 &nbsp;
 
@@ -151,7 +151,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ##### _Theater Biel (09-10.06)/ Theater Solothurn (17-18.06), Switzerland_
 
-
+&nbsp;
 
 &nbsp;
 
@@ -167,7 +167,7 @@ CONCERT AULA UGENT
 
 ##### _Aula Ugent, Gent, Belgium_
 
-
+&nbsp;
 
 &nbsp;
 
@@ -183,7 +183,7 @@ MASTER CLASS | Terrence McNally
 
 ##### _TOBS, Biel / Solothurn, Switzerland_
 
-
+&nbsp;
 
 &nbsp;
 
@@ -195,11 +195,11 @@ SHAKESPEARE
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
 
+&nbsp;
 
+&nbsp;
 
-
-
-
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg">
 
@@ -211,9 +211,9 @@ DIPLOMFEIER Conservation-Restoration
 
 ##### _Bern – Switzerland_
 
+&nbsp;
 
-
-
+&nbsp;
 
 &nbsp;
 
