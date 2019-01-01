@@ -61,10 +61,6 @@ FINAL ROUNDS
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 FINAL ROUNDS 
 
 ##### Concorso Piemonte Opera Voci dal mondo 
@@ -75,10 +71,6 @@ FINAL ROUNDS
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 FINALIST CONCERT 
 
 ##### Ljuba Welitsch Gesangswettbewerb 
@@ -86,10 +78,6 @@ FINALIST CONCERT
 ##### 20.12.2017
 
 ##### _Wien, Austria_
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -105,8 +93,6 @@ FINALIST CONCERT
 
 &nbsp;
 
-&nbsp;
-
 CONCERT
 
 ##### Zauberhafter Opernmelodien
@@ -116,8 +102,6 @@ CONCERT
 ##### Rathausplatz, Bern, CH
 
 ###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
-
-&nbsp;
 
 &nbsp;
 
@@ -194,8 +178,6 @@ SHAKESPEARE
 ##### 22.12.2016 | 19:30
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
-
-&nbsp;
 
 &nbsp;
 
