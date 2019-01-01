@@ -32,8 +32,6 @@ JURY MEMBER
 
 ##### _Kunstraum Ringstrassen Galleries Vienna – Austria_
 
-###### <a href="http://www.gesangswettbewerb-ljubawelitsch.at/index.php?id=62" target="_blank">More info</a>
-
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/op18-thumbnail.jpg"> 
@@ -106,8 +104,6 @@ CONCERT
 
 ##### Rathausplatz, Bern, CH
 
-###### <a href="http://prideouest2017.ch/index.php?id=62" target="_blank">More info</a>
-
 &nbsp;
 
 SHAKESPEARE
@@ -121,8 +117,6 @@ SHAKESPEARE
 ##### _Ackermannshof, Basel, Switzerland_
 
 ###### <a href="https://www.youtube.com/embed/s8whNG79fWQ" target="_blank">Clip</a>
-
-###### <a href="https://www.foryoungmusicians.ch/upcoming-events" target="_blank">More info</a>
 
 ###### <a href="assets/flyer.pdf" target="_blank">Flyer</a>
 
