@@ -181,8 +181,6 @@ SHAKESPEARE
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/109-thumbnail.jpg">
 
 DIPLOMFEIER Conservation-Restoration
