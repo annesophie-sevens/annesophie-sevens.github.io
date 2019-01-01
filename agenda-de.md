@@ -33,8 +33,6 @@ JURY MEMBER
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/ow18-thumbnail.jpg"> 
-
 OPERNWERKSTATT 18
 
 ##### In the role of Gerhilde, Marie (Wozzeck) and Santuzza
