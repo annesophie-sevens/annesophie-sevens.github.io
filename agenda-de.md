@@ -9,7 +9,7 @@ lang: de
 
 RECITAL "AUF FLÜGELN DES GESANGES"
 
-##### Wesendonck-Lieder & German arias 
+##### Wesendonck-Lieder of R. Wagner & German arias of R. Wagner and R. Strauss 
 
 ##### 16.2.2019 | 20:00
 
@@ -37,7 +37,7 @@ JURY MEMBER
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/ow18-thumbnail.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/op18-thumbnail.jpg"> 
 
 OPERNWERKSTATT 18
 
