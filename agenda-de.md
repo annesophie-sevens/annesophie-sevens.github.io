@@ -120,6 +120,8 @@ SHAKESPEARE
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/a15-thumbnail.jpg"> 
+
 THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 ##### In the role of Laetitia
@@ -132,7 +134,7 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/aad.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/aad-thumbnail.jpg"> 
 
 CONCERT AULA UGENT
 
