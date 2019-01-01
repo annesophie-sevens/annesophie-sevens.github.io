@@ -5,22 +5,25 @@ menuorder: 6
 ref: agenda
 lang: de
 ---
-RECITAL "AUF FLüUGELN DES GESANGES"
+<img style="float: left; padding: 20px" src="/assets/event2.jpg"> 
+
+RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### Wesendonck-Lieder & German arias 
+
+##### 16.2.2019 | 20:00
 
 ##### with Pianist David Miller
 
 ##### _Piano's Maene Brussels – Belgium_
 
-###### <a href="assets/gesanges.pdf" target="_blank">Flyer</a>
-
 &nbsp;
-
 
 JURY MEMBER
 
 ##### Ljuba Welitsch Singing Competition - Vienna
+
+##### 18-20.12.2018
 
 ##### Led by Saschka Zhurkov (Artistic Director)
 
@@ -32,6 +35,8 @@ JURY MEMBER
 
 
 OPERNWERKSTATT 18
+
+##### In the role of Gerhilde, Marie (Wozzeck) and Santuzza
 
 ##### Concerts on 10.10 in Sigriswil, 11.10 in Bern, 13.10 in Basel, 14.10 in Zürich
 
@@ -45,9 +50,9 @@ OPERNWERKSTATT 18
 
 FINAL ROUNDS 
 
-##### 3-10.6.2018 
+##### Belvedere Competition
 
-##### Belvedere Competition 
+##### 3-10.6.2018  
 
 ##### _Jurmala, Latvia_
 
@@ -55,9 +60,9 @@ FINAL ROUNDS
 
 FINAL ROUNDS 
 
-##### 19-20.5.2018
-
 ##### Concorso Piemonte Opera Voci dal mondo 
+
+##### 19-20.5.2018
 
 ##### _Turin, Italy_
 
@@ -65,9 +70,9 @@ FINAL ROUNDS
 
 FINALIST CONCERT 
 
-##### 20.12.2017
-
 ##### Ljuba Welitsch Gesangswettbewerb 
+
+##### 20.12.2017
 
 ##### _Wien, Austria_
 
@@ -75,7 +80,7 @@ FINALIST CONCERT
 
 FINALIST CONCERT 
 
-##### Aria of Micaela and Agathe 
+##### Arias of Micaela and Agathe 
 
 ##### 05.11.2017
 
@@ -127,6 +132,8 @@ THE OLD MAID AND THE THIEF | Gian Carlo Menotti
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/event2.jpg"> 
+
 CONCERT AULA UGENT
 
 ##### Händel & Mozart
@@ -170,7 +177,7 @@ SHAKESPEARE
 
 DIPLOMFEIER Conservation-Restoration
 
-##### Tutte nel cor vi sento - Idomeneo - W.A.Mozart | September - R.Strauss 
+##### Dich theure Halle |  Du bist der Lenz | Tutte nel cor vi sento | September - R.Strauss 
 
 ##### 28.10.2016
 
