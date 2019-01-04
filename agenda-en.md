@@ -6,19 +6,19 @@ ref: agenda
 lang: en
 ---
 
-<img style="float: left; padding: 20px" src="/assets/bloem.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
 
 RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### Wesendonck-Lieder of R. Wagner & German arias of R. Wagner and R. Strauss 
 
-##### 16.2.2019 | 20:00
+##### 16.2.2019 | 20:00 | Doors 19:45
 
 ##### with Pianist David Miller
 
 ##### _Piano's Maene Brussels – Belgium_
 
-&nbsp;
+##### _Argonnestraat 37 - Rue de l'Argonne 37_
 
 &nbsp;
 
