@@ -22,6 +22,8 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### Tickets - 25€ - info@annesophiesevens.com
 
+###### <a href="assets/affiche.jpg" target="_blank">Affiche</a>
+
 &nbsp;
 
 JURY MEMBER
