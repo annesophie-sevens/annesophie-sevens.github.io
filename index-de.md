@@ -6,4 +6,4 @@ lang: de
 ---
 
 
-![](assets/20.JPG)
+![](assets/bloem.jpg)
