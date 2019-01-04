@@ -20,7 +20,7 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### _Argonnestraat 37 - Rue de l'Argonne 37_
 
-##### Tickets - 25 € - info@annesophiesevens.com
+##### Tickets - 25€ - info@annesophiesevens.com
 
 &nbsp;
 
