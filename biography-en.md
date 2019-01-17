@@ -17,6 +17,5 @@ Anne-Sophie studied in different countries and obtained several degrees. After o
 
 Anne-Sophie speaks German, English, Italian, French and Dutch fluently and is currently represented by Diakov Opera Management in Berlin.
  
- 
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
