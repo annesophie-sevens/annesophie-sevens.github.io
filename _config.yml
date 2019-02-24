@@ -79,6 +79,25 @@ t:
     agenda:
       name: "Agenda"
       url: "/agenda-de.html"
+  nl:
+    biography:
+      name: "Biografie"
+      url: "/biography-nl.html"
+    repertoire:
+      name: "Repertoire"
+      url: "/repertoire-nl.html"
+    pictures:
+      name: "Foto's"
+      url: "/pictures-nl.html"
+    audio:
+      name: "Audio"
+      url: "/audio-nl.html"
+    video:
+      name: "Video"
+      url: "/video-nl.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-nl.html"
 
 
 home:
@@ -91,3 +110,6 @@ home:
   de:
     home:
       url: "index-de.html"
+  nl:
+    home:
+      url: "index-nl.html"
