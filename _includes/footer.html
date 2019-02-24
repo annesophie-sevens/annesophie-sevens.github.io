@@ -13,6 +13,15 @@
       </div>
 
       <div class="footer-col footer-col-2">
+          <a href="https://youtube.com/user/{{ site.youtube_channel }}">
+            <i class="fa fa-youtube"></i>
+          </a>
+          <a href="https://www.instagram.com/{{ site.instagram_page }}">
+            <i class="fa fa-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/{{ site.facebook_page }}">
+            <i class="fa fa-facebook"></i>
+          </a>
         <ul class="social-media-list">
 
           {% if site.youtube_channel %}
@@ -22,13 +31,6 @@
             </a>
           </li>
           {% endif %}
-          
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <ul class="social-media-list">
-
           {% if site.instagram_page %}
           <li>
             <a href="https://www.instagram.com/{{ site.instagram_page }}">
@@ -36,13 +38,6 @@
             </a>
           </li>
           {% endif %}
-          
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-4">
-        <ul class="social-media-list">
-
           {% if site.facebook_page %}
           <li>
             <a href="https://www.facebook.com/{{ site.facebook_page }}">
