@@ -29,13 +29,6 @@
       <div class="footer-col footer-col-3">
         <ul class="social-media-list">
 
-          {% if site.facebook_page %}
-          <li>
-            <a href="https://www.facebook.com/{{ site.facebook_page }}">
-              <i class="fa fa-facebook"></i>
-            </a>
-          </li>
-          {% endif %}
           {% if site.instagram_page %}
           <li>
             <a href="https://www.instagram.com/{{ site.instagram_page }}">
@@ -47,7 +40,19 @@
         </ul>
       </div>
 
+      <div class="footer-col footer-col-4">
+        <ul class="social-media-list">
 
+          {% if site.facebook_page %}
+          <li>
+            <a href="https://www.facebook.com/{{ site.facebook_page }}">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          {% endif %}
+          
+        </ul>
+      </div>
 
     </div>
 
