@@ -41,6 +41,9 @@ t:
     video:
       name: "Video"
       url: "/video-en.html"
+    project:
+      name: "Project"
+      url: "/project-en.html"
     agenda:
       name: "Agenda"
       url: "/agenda-en.html"
@@ -60,6 +63,9 @@ t:
     video:
       name: "Vidéos"
       url: "/video-fr.html"
+    project:
+      name: "Projet"
+      url: "/project-fr.html"
     agenda:
       name: "Agenda"
       url: "/agenda-fr.html"
@@ -79,6 +85,9 @@ t:
     video:
       name: "Video"
       url: "/video-de.html"
+    project:
+      name: "Projekt"
+      url: "/project-de.html"
     agenda:
       name: "Agenda"
       url: "/agenda-de.html"
@@ -98,6 +107,9 @@ t:
     video:
       name: "Video"
       url: "/video-nl.html"
+    project:
+      name: "Project"
+      url: "/project-nl.html"
     agenda:
       name: "Agenda"
       url: "/agenda-nl.html"

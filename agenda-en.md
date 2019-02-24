@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Agenda
-menuorder: 6
+menuorder: 60
 ref: agenda
 lang: en
 ---
