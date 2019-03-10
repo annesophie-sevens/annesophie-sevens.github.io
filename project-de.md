@@ -6,8 +6,6 @@ lang: de
 ref: project
 
 ---
-REFLEXION ON THE WESENDONCK-LIEDER
-
 The Wesendonck-Lieder of Richard Wagner (1813-83) are composed on poems written by Mathilde Wesendonck and constitute one of the most beautiful expressions of universal love. The artistic skills of the lovers, the composition and the poetry, are unified in one single creation.
 
 Mathilde Wesendonck was married and suffered due to her impossible love for Richard Wagner. The same context of an impossible love was the inspiration for the later Tristan und Isolde with the sublime Liebenstod-scene of Isolde in which earthly love evolves in transcendental love. Wesendonck-Lieder no. 3 Im Treibhaus and 5 Träume were a musical draft for this opera.
