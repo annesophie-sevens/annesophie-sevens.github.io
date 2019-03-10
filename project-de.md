@@ -6,20 +6,24 @@ lang: de
 ref: project
 
 ---
-Die belgische Sopranistin Anne-Sophie Sevens absolvierte ihr Praktikum im Jahr 2017 im Schweizer Opernstudio in Biel. Sie trat im selben Jahr bei TOBS (Theater Orchester Biel Solothurn) als Sopranistin in Terrence McNallys Theaterstück «Masterclass» auf. Im Jahr 2015-2017 sang sie am Schweizer Opernstudio Biel Szenen der Micaela, Agathe, Elettra in «Idomeneo» und Marie in «Die verkaufte Braut». Sie interpretierte also Laetitia in «The Old maid and the thief» von Menotti mit Orchester Biel Solothurn. Im Jahr 2018 trat sie in der Opernwerkstatt in der Schweiz mit Gerhilde auf, Marie in «Wozzeck» und Santuzza und im Jahr 2016 mit Gerhilde.
+REFLEXION ON THE WESENDONCK-LIEDER
 
-Als Konzertsängerin sang Anne-Sophie in Belgien auf dem Internationalen Festival des Minimes die «Fünf Liedern» von Alma Mahler und die «Liedern eines fahrenden Gesellen» von Gustav Mahler. Sie sang beim Festival Courants d’Air die «Wesendonck-Lieder» von Richard Wagner und beim Festival Musiq‘3 in Flagey (Brüssel) «Chanson perpétuelle» von Ernest Chausson.
-Anne-Sophie ist Preisträgerin von verschiedenen Wettbewerben. Sie war Finalistin beim Belvedere Wettbewerb in Jurmala im Jahr 2018 und beim Elizabeth Connell Wetbewerb im Jahr 2017. Im Jahr 2017 war sie Preisträgerin am Bellincanto Wettbewerb in Bellinzona (Schweiz) ebenso am Ljuba Welitsch Wettbewerb in Wien.
+The Wesendonck-Lieder of Richard Wagner (1813-83) are composed on poems written by Mathilde Wesendonck and constitute one of the most beautiful expressions of universal love. The artistic skills of the lovers, the composition and the poetry, are unified in one single creation.
 
-Anne-Sophie hat ihre Gesangsentwicklung hauptsächlich in Belgien und der Schweiz verfolgt.
-Nach ihrem Master-Abschluss in Architektur in Ghent, Belgien, studierte Anne-Sophie für ihren Bachelor-Abschluss Gesang am LUCA School of Arts in Leuven mit Dina Grossberger und am Königlichen Konservatorium Brüssel für ihren Master-Abschluss anschließend absolvierte sie ihn den Master in 2015. Sie perfektionierte sich weiter mit Marianne Pousseur und empfing den Spezial-Förderpreis der Königlichen Konservatorium Brüssel. Neben ihrer Ausbildung in Belgien nahm Anne-Sophie an mehreren Meisterkursen mit Edda Moser, Gerd Uecker und Vesselina Kasarova teil. Am Schweizer Opernstudio Biel im Jahr 2015-2017 studierte sie mit Mathias Behrends, Franco Trinca und Barbara Locher.
+Mathilde Wesendonck was married and suffered due to her impossible love for Richard Wagner. The same context of an impossible love was the inspiration for the later Tristan und Isolde with the sublime Liebenstod-scene of Isolde in which earthly love evolves in transcendental love. Wesendonck-Lieder no. 3 Im Treibhaus and 5 Träume were a musical draft for this opera.
 
-Anne-Sophie spricht fliessend Deutsch, Englisch, Französisch, Holländisch und Italienisch.
+I considered it would be interesting to complement the program of the Wesendonck Lieder, with some Lieder from the repertoire. We can find in the additional chosen pieces analogous perspectives as those opened by the poems of Mathilde Wesendonck. Im Treibhaus we notice the negative look on reality. The I-person believes there must be another place where she would be free. Therefore we can consider the Palmenhaus as a metafore for her own ‘Golden Cage’.
+
+In Schmerzen the I-person is suffering from the knowledge that what she had positively experienced is gone.
+
+At the end of the Wesendonck Lieder cycle she will find peace again. In Träume, no. 5 of the cycle, she can dream and she finds what she was longing for in Im Treibhaus. In that way we can see the last song as an answer on Im Treibhaus:
+
+«Wohl, ich weiß es, arme Pflanze; Ein Geschicke teilen wir, Ob umstrahlt von Licht und Glanze, Unsre Heimat ist nicht hier! » - Im Treibhaus (M. Wesendonck)
+
+«Träume, wie wenn Frühlingssonne Aus dem Schnee die Blüten küßt, Daß zu nie geahnter Wonne Sie der neue Tag begrüßt. » - Träume (M. Wesendonck)
 
 
 
-
-Sie können ihren Lebenslauf [hier]({{ site.baseurl }}/assets/CV.pdf) herunterladen.
 
 
 
