@@ -5,6 +5,32 @@ menuorder: 60
 ref: agenda
 lang: en
 ---
+STIPENDIUM RICHARD WAGNER VIENNA 
+
+##### Visit to the Bayreuther Festspiele
+
+##### 14-19.8.2019 
+
+##### _Bayreuth – Germany_
+
+CIALN COMPETITION
+
+##### Arias of Ariadne, Elisabeth (Tannhäuser), Senta, Santuzza, La Gioconda & Le Cid 
+
+##### 15-19.4.2019  
+
+##### _Namur – Belgium_
+
+LIEDERABEND 
+
+##### Wesendonck-Lieder of R. Wagner 
+
+##### 26.3.2019 | 19:30 
+
+##### with Pianist Mikhail Berlin
+
+##### _Männedorf – Switzerland_
+
 <img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
 
 RECITAL "AUF FLÜGELN DES GESANGES"
