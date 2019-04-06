@@ -13,6 +13,8 @@ STIPENDIUM RICHARD WAGNER VIENNA
 
 ##### _Bayreuth – Germany_
 
+&nbsp;
+
 CIALN COMPETITION
 
 ##### Arias of Ariadne, Elisabeth (Tannhäuser), Senta, Santuzza, La Gioconda & Le Cid 
@@ -20,6 +22,8 @@ CIALN COMPETITION
 ##### 15-19.4.2019  
 
 ##### _Namur – Belgium_
+
+&nbsp;
 
 LIEDERABEND 
 
@@ -30,6 +34,8 @@ LIEDERABEND
 ##### with Pianist Mikhail Berlin
 
 ##### _Männedorf – Switzerland_
+
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
 
