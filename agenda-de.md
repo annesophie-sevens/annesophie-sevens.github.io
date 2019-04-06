@@ -25,7 +25,7 @@ LIEDERABEND
 
 ##### Wesendonck-Lieder of R. Wagner 
 
-##### 26.4.2019 | 19:30 
+##### 26.3.2019 | 19:30 
 
 ##### with Pianist Mikhail Berlin
 
