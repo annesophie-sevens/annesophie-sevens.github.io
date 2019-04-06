@@ -8,7 +8,7 @@ ref: pictures
 
 | <a href="/assets/I.jpg"> ![]({{ site.baseurl }}/assets/Ic.jpg) </a> | <a href="/assets/IV.jpg"> ![]({{ site.baseurl }}/assets/IVc.jpg) </a> | <a href="/assets/III.jpg">  ![]({{ site.baseurl }}/assets/IIIc.jpg) </a> |
 
-| <a href="/assets/VI.jpg"> ![]({{ site.baseurl }}/assets/VIc.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/BLOEM 1.jpg">  ![]({{ site.baseurl }}/assets/bloem.jpg) </a> |
+| <a href="/assets/VI.jpg"> ![]({{ site.baseurl }}/assets/VIc.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/VII.jpg">  ![]({{ site.baseurl }}/assets/VIIc.jpg) </a> |
 
 | <a href="/assets/LOOP.jpg"> ![]({{ site.baseurl }}/assets/LOOP 1.jpg) </a> | <a href="/assets/2.jpg"> ![]({{ site.baseurl }}/assets/2-thumbnail.jpg) </a> | <a href="/assets/6.jpg">![]({{ site.baseurl }}/assets/6-thumbnail.jpg) </a> |
 
