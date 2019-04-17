@@ -15,16 +15,6 @@ STIPENDIUM RICHARD WAGNER VIENNA
 
 &nbsp;
 
-CIALN COMPETITION
-
-##### Arias of Ariadne, Elisabeth (Tannhäuser), Senta, Santuzza, La Gioconda & Le Cid 
-
-##### 15-19.4.2019  
-
-##### _Namur – Belgium_
-
-&nbsp;
-
 LIEDERABEND 
 
 ##### Wesendonck-Lieder of R. Wagner 
