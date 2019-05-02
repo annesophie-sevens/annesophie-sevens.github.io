@@ -17,5 +17,5 @@ The Wesendonck-Lieder of Richard Wagner (1813-83) are composed on poems written 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0LKgizd9ac4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sjw9msFevTk?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
