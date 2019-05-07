@@ -15,6 +15,40 @@ STIPENDIUM RICHARD WAGNER VIENNA
 
 &nbsp;
 
+ELIZABETH CONNELL PRIZE 
+
+##### Final Rounds
+
+##### 8.7.2019 
+
+##### _Zürich – Switzerland_
+
+&nbsp;
+
+FINALIST CONCERT 
+
+##### Arias of R. Wagner and J. Massenet 
+
+##### 27.04.2019
+
+##### Rita Gorr Competition 
+
+##### _Gent, Belgium_
+
+&nbsp;
+
+FINAL ROUNDS
+
+##### Arias of R. Wagner and P. Mascagni 
+
+##### 16.04.2019
+
+##### CIALN Competition 
+
+##### _Namur, Belgium_
+
+&nbsp;
+
 LIEDERABEND 
 
 ##### Wesendonck-Lieder of R. Wagner 
