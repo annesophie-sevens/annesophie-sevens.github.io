@@ -5,13 +5,99 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
-STIPENDIUM RICHARD WAGNER VIENNA 
+<img style="float: left; padding: 20px" src="/assets/casa.jpg"> 
+
+RECITAL DUO ANKA
+
+##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
+
+##### 11.1.2020 | 20:00 | Doors 19:45
+
+##### with Harpist Karen Peeters
+
+##### _13b, avenue capart_
+
+##### _1090 Bruxelles – Belgium_
+
+##### Tickets - contact.casa.veronica@gmail.com
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/feestzaal Aalst.jpg"> 
+
+OPERA-GALA "BETWEEN DREAM & REALITY"
+
+##### Works of G. Verdi, G. Puccini & P. Mascagni 
+
+##### 21.12.2019 | 20:00 | Doors 19:45
+
+##### with Bariton Bruno Resende, Pianist Julie Delbart
+
+##### _Feestzaal Stadhuis_
+
+##### _Grote Markt 1 - Aalst – Belgium_
+
+##### Tickets - 20€ - contact.casa.veronica@gmail.com
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/feestzaal Aalst.jpg"> 
+
+RECITAL "AN DIE HOFFNUNG"
+
+##### Works of L.v. Beethoven, F. Schubert & R. Wagner 
+
+##### 23.11.2019 | 20:00 | Doors 19:45
+
+##### with Bass Bastian Kohl & Pianist Julie Delbart
+
+##### _Feestzaal Stadhuis_
+
+##### _Grote Markt 1 - Aalst – Belgium_
+
+##### Tickets - 20€ - contact.casa.veronica@gmail.com
+
+&nbsp;
+
+STIPENDIATENKONZERT 
+
+##### Septembre/Octobre 2019 
+
+##### _Vienna – Austria_
+
+&nbsp;
+
+PRIVAT KONZERT
+
+##### 27.9.2019 
+
+##### _Brüssels – Belgium_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bayreuth.jpg"> 
+
+STIPENDIUM
 
 ##### Visit to the Bayreuther Festspiele
 
-##### 14-19.8.2019 
+##### 14.8.2019 
 
 ##### _Bayreuth – Germany_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bologna.jpg"> 
+
+FINAL BIVC COMPETITION
+
+##### Du bist der Lenz - R. Wagner 
+
+##### 30.7.2019
+
+##### Bologna International Vocal Competition 
+
+##### _Bologna, Italien_
 
 &nbsp;
 
@@ -34,18 +120,6 @@ FINALIST CONCERT
 ##### Rita Gorr Competition 
 
 ##### _Gent, Belgium_
-
-&nbsp;
-
-FINAL ROUNDS
-
-##### Arias of R. Wagner and P. Mascagni 
-
-##### 16.04.2019
-
-##### CIALN Competition 
-
-##### _Namur, Belgium_
 
 &nbsp;
 
