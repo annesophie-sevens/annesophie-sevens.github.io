@@ -37,17 +37,13 @@ DUO ANKA IN RECITAL
 
 &nbsp;
 
-OPERA GALA "BETWEEN DREAM & REALITY"
+OPERA GALA "BETWEEN DREAMS & REALITY"
 
 ##### Works of G. Verdi, G. Puccini & P. Mascagni 
 
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
 ##### with bariton Bruno Resende, pianist Julie Delbart
-
-##### _Feestzaal Stadhuis_
-
-##### _Grote Markt 1 - Aalst – Belgium_
 
 &nbsp;
 
