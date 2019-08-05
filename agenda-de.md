@@ -103,15 +103,17 @@ FINAL BIVC COMPETITION
 &nbsp;
 &nbsp;
 
-FINAL BIVC COMPETITION
+<img style="float: left; padding: 20px" src="/assets/arte.jpg"> 
 
-##### Du bist der Lenz - R. Wagner 
+ARTE.TV with Siegfried Jerusalem
 
-##### 30.7.2019
+##### Interview + Recording (Excerpt) Es gibt ein Reich - R. Strauss 
 
-##### Bologna International Vocal Competition 
+##### 18.7.2019
 
-##### _Bologna, Italien_
+##### Schleswig-Holstein Musik Festival 
+
+##### _Lübeck, Germany_
 
 &nbsp;
 
