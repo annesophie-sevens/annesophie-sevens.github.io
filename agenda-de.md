@@ -23,8 +23,6 @@ RECITAL DUO ANKA
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/feestzaal Aalst.jpg"> 
-
 OPERA-GALA "BETWEEN DREAM & REALITY"
 
 ##### Works of G. Verdi, G. Puccini & P. Mascagni 
