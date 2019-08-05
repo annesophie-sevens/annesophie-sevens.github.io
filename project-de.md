@@ -18,8 +18,6 @@ People love to dream. They dream of beautiful things, beautiful places, exciting
 Reality and dreams are often misunderstood. When someone’s dream turn into reality they become believer’s of “Dream come true”. But when their dream fails to stand as reality they start believing on “Dreams can never come true”.
 Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. Dreaming of something high is a basic human nature, but if dreams are built with positive thoughts and hard work, nourished with confidence and knowledge and respected like a true saint then dreams will turn into success that will come to us as reality.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x1VlnHLCs_I?rel=0" frameborder="0" allowfullscreen></iframe>
-
 &nbsp;
 
 
