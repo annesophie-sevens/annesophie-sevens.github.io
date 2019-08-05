@@ -139,18 +139,6 @@ FINALIST CONCERT
 
 &nbsp;
 
-LIEDERABEND 
-
-##### Wesendonck-Lieder of R. Wagner 
-
-##### 26.3.2019 | 19:30 
-
-##### with Pianist Mikhail Berlin
-
-##### _Männedorf – Switzerland_
-
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
 
 RECITAL "AUF FLÜGELN DES GESANGES"
