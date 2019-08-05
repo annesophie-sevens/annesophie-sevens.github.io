@@ -123,8 +123,6 @@ FINAL BIVC COMPETITION
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/arte.jpg"> 
 
 ARTE.TV with Siegfried Jerusalem
