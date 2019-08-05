@@ -6,6 +6,8 @@ lang: de
 ref: project
 
 ---
+<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
+
 BETWEEM DREAM & REALITY 
 
 “How hard would you work, and for how long, if you knew you could have your dream for sure ?”
@@ -19,6 +21,8 @@ Reality and dreams are often misunderstood. When someone’s dream turn into rea
 Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. Dreaming of something high is a basic human nature, but if dreams are built with positive thoughts and hard work, nourished with confidence and knowledge and respected like a true saint then dreams will turn into success that will come to us as reality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lihMd8nDGks?rel=0" frameborder="0" allowfullscreen></iframe>
+
+&nbsp;
 
 
 AUF FLÜGELN DES GESANGES
