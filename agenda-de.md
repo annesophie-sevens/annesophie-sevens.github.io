@@ -25,7 +25,7 @@ DUO ANKA IN RECITAL
 
 ##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
 
-##### 11.1.2020 | 20:00 | Doors 19:45
+##### 11.1.2020 | 19:00 | Doors 18:00
 
 ##### with harpist Karen Peeters
 
