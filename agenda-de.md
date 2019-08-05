@@ -5,7 +5,7 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
-<img style="float: left; padding: 20px" src="/assets/casa.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 RECITAL DUO ANKA
 
