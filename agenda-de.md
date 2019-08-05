@@ -39,7 +39,7 @@ DUO ANKA IN RECITAL
 
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
-OPERA GALA "BETWEEN DREAMS & REALITY"
+OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### Works of G. Verdi, G. Puccini & P. Mascagni 
 
