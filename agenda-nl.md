@@ -5,13 +5,125 @@ menuorder: 60
 ref: agenda
 lang: nl 
 ---
-STIPENDIUM RICHARD WAGNER VIENNA 
+<img style="float: left; padding: 20px" src="/assets/rom.jpg"> 
+
+SERATA ITALIANA
+
+##### Romaticism in Italy: Arias of V. Bellini, G. Verdi, G. Puccini & A. Ponchielli
+
+##### 24.4.2020 | 19:30 
+
+##### with soprano Daniela Stoll & pianist Riccardo Bovino
+
+##### _Bülach – Switzerland_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
+
+DUO ANKA IN RECITAL
+
+##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
+
+##### 11.1.2020 | 19:00 | Doors 18:00
+
+##### with harpist Karen Peeters
+
+##### _13b, avenue capart_
+
+##### _1090 Bruxelles – Belgium_
+
+##### Tickets - contact.casa.veronica@gmail.com
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
+
+OPERA GALA "BETWEEN DREAM & REALITY"
+
+##### Works of G. Verdi, G. Puccini & P. Mascagni 
+
+##### 21.12.2019 | 20:00 | Doors 19:45
+
+##### with bariton Bruno Resende, pianist Julie Delbart
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/feestzaal Aalst.jpg"> 
+
+RECITAL "AN DIE HOFFNUNG"
+
+##### Works of L.v. Beethoven, F. Schubert & R. Wagner 
+
+##### 23.11.2019 | 20:00 | Doors 19:45
+
+##### with bass Bastian Kohl & pianist Julie Delbart
+
+##### _Feestzaal Stadhuis_
+
+##### _Grote Markt 1 - Aalst – Belgium_
+
+##### Tickets - 20€ - contact.casa.veronica@gmail.com
+
+&nbsp;
+
+SCHOLARSCHIP CONCERT
+
+##### Septembre/Octobre 2019 
+
+##### _Vienna – Austria_
+
+&nbsp;
+
+PRIVATE CONCERT
+
+##### 27.9.2019 
+
+##### _Brüssels – Belgium_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bayreuth.jpg"> 
+
+SCHOLARSCHIP
 
 ##### Visit to the Bayreuther Festspiele
 
-##### 14-19.8.2019 
+##### 14.8.2019 
 
 ##### _Bayreuth – Germany_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bologna picture.jpg"> 
+
+FINAL BIVC COMPETITION
+
+##### Du bist der Lenz - R. Wagner 
+
+##### 30.7.2019
+
+##### Bologna International Vocal Competition 
+
+##### _Bologna, Italien_
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/arte.jpg"> 
+
+ARTE.TV with Siegfried Jerusalem
+
+##### Interview + Recording (Excerpt) Es gibt ein Reich - R. Strauss 
+
+##### Schleswig-Holstein Musik Festival 
+
+##### _Lübeck, Germany_
 
 &nbsp;
 
@@ -34,30 +146,6 @@ FINALIST CONCERT
 ##### Rita Gorr Competition 
 
 ##### _Gent, Belgium_
-
-&nbsp;
-
-FINAL ROUNDS
-
-##### Arias of R. Wagner and P. Mascagni 
-
-##### 16.04.2019
-
-##### CIALN Competition 
-
-##### _Namur, Belgium_
-
-&nbsp;
-
-LIEDERABEND 
-
-##### Wesendonck-Lieder of R. Wagner 
-
-##### 26.3.2019 | 19:30 
-
-##### with Pianist Mikhail Berlin
-
-##### _Männedorf – Switzerland_
 
 &nbsp;
 
