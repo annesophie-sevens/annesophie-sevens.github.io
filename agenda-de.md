@@ -101,10 +101,6 @@ SCHOLARSCHIP
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/Bologna picture.jpg"> 
 
 FINAL BIVC COMPETITION
