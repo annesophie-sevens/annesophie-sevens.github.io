@@ -6,7 +6,7 @@ lang: de
 ref: project
 
 ---
-<img style="float: left; padding: 20px" src="/assets/DREAM.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
 BETWEEM DREAM & REALITY 
 
