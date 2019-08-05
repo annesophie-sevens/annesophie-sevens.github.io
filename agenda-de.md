@@ -53,6 +53,8 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/feestzaal Aalst.jpg"> 
 
 RECITAL "AN DIE HOFFNUNG"
