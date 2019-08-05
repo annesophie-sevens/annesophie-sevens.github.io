@@ -35,8 +35,6 @@ OPERA-GALA "BETWEEN DREAM & REALITY"
 
 ##### _Grote Markt 1 - Aalst – Belgium_
 
-##### Tickets - 20€ - info@annesophiesevens.com
-
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/feestzaal Aalst.jpg"> 
