@@ -7,7 +7,7 @@ lang: de
 ---
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
-RECITAL DUO ANKA
+DUO ANKA IN RECITAL
 
 ##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
 
@@ -57,7 +57,7 @@ RECITAL "AN DIE HOFFNUNG"
 
 &nbsp;
 
-STIPENDIATENKONZERT 
+SCHOLARSCHIP CONCERT
 
 ##### Septembre/Octobre 2019 
 
@@ -75,7 +75,7 @@ PRIVATE CONCERT
 
 <img style="float: left; padding: 20px" src="/assets/Bayreuth.jpg"> 
 
-STIPENDIUM
+SCHOLARSCHIP
 
 ##### Visit to the Bayreuther Festspiele
 
@@ -84,8 +84,22 @@ STIPENDIUM
 ##### _Bayreuth – Germany_
 
 &nbsp;
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/Bologna picture.jpg"> 
+
+FINAL BIVC COMPETITION
+
+##### Du bist der Lenz - R. Wagner 
+
+##### 30.7.2019
+
+##### Bologna International Vocal Competition 
+
+##### _Bologna, Italien_
+
+&nbsp;
+&nbsp;
 
 FINAL BIVC COMPETITION
 
