@@ -6,11 +6,11 @@ lang: de
 ref: project
 
 ---
-BETWEEM DREAMS & REALITY 
+BETWEEM DREAM & REALITY 
 
-“How hard would you work, and for how long, if you knew you could have your dream for sure?”
-Our past and present is what is reality. Then why people are always concerned with future? Future is a mixture of unbalanced positive and negative thoughts, becoming blind-folded to our present and sometimes a lot of unknown preparations.
-A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. It hits us like wounds from thousand thorns but is what is actually happening. Some people being strong by heart,face it. But what is their strategy? They dwell in a world where they take it hard to believe that they actually face reality, so they repeat to others and to themselves that “I believe in reality”. What are they doing? Believing themselves or making others believe.
+“How hard would you work, and for how long, if you knew you could have your dream for sure ?”
+Our past and present is what is reality. Then why people are always concerned with future ? Future is a mixture of unbalanced positive and negative thoughts, becoming blind-folded to our present and sometimes a lot of unknown preparations.
+A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. It hits us like wounds from thousand thorns but is what is actually happening. Some people being strong by heart, face it. But what is their strategy? They dwell in a world where they take it hard to believe that they actually face reality, so they repeat to others and to themselves that “I believe in reality”. What are they doing? Believing themselves or making others believe.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x1VlnHLCs_I?rel=0" frameborder="0" allowfullscreen></iframe>
 
