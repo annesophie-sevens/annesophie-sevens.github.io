@@ -123,8 +123,6 @@ ARTE.TV with Siegfried Jerusalem
 
 ##### Interview + Recording (Excerpt) Es gibt ein Reich - R. Strauss 
 
-##### 18.7.2019
-
 ##### Schleswig-Holstein Musik Festival 
 
 ##### _Lübeck, Germany_
