@@ -5,6 +5,20 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+<img style="float: left; padding: 20px" src="/assets/rom.jpg"> 
+
+SERATA ITALIANA
+
+##### Romaticism in Italy: Arias of V. Bellini, G. Verdi, G. Puccini & A. Ponchielli
+
+##### 24.4.2020 | 19:30 
+
+##### with soprano Daniela Stoll & pianist Riccardo Bovino
+
+##### _Bülach – Switzerland_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
@@ -13,7 +27,7 @@ DUO ANKA IN RECITAL
 
 ##### 11.1.2020 | 20:00 | Doors 19:45
 
-##### with Harpist Karen Peeters
+##### with harpist Karen Peeters
 
 ##### _13b, avenue capart_
 
@@ -29,7 +43,7 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
-##### with Bariton Bruno Resende, Pianist Julie Delbart
+##### with bariton Bruno Resende, pianist Julie Delbart
 
 ##### _Feestzaal Stadhuis_
 
@@ -45,7 +59,7 @@ RECITAL "AN DIE HOFFNUNG"
 
 ##### 23.11.2019 | 20:00 | Doors 19:45
 
-##### with Bass Bastian Kohl & Pianist Julie Delbart
+##### with bass Bastian Kohl & pianist Julie Delbart
 
 ##### _Feestzaal Stadhuis_
 
