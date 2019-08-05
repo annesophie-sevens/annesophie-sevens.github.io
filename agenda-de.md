@@ -35,7 +35,7 @@ OPERA-GALA "BETWEEN DREAM & REALITY"
 
 ##### _Grote Markt 1 - Aalst – Belgium_
 
-##### Tickets - 20€ - contact.casa.veronica@gmail.com
+##### Tickets - 20€ - info@annesophiesevens.com
 
 &nbsp;
 
