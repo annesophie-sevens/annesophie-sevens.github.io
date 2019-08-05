@@ -19,6 +19,8 @@ SERATA ITALIANA
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
@@ -46,6 +48,8 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
 ##### with bariton Bruno Resende, pianist Julie Delbart
+
+&nbsp;
 
 &nbsp;
 
@@ -112,7 +116,9 @@ FINAL BIVC COMPETITION
 ##### _Bologna, Italien_
 
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/arte.jpg"> 
