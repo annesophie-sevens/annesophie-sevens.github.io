@@ -165,7 +165,7 @@ ELIZABETH CONNELL PRIZE
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Rita Gorr.png">
+<img style="float: left; padding: 20px" src="/assets/Rita Gorr.jpg">
 
 FINALIST CONCERT 
 
@@ -176,10 +176,6 @@ FINALIST CONCERT
 ##### Rita Gorr Competition 
 
 ##### _Gent, Belgium_
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -253,7 +249,7 @@ FINAL ROUNDS
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Ljuba.png">
+<img style="float: left; padding: 20px" src="/assets/Ljuba.jpg">
 
 FINALIST CONCERT 
 
@@ -262,8 +258,6 @@ FINALIST CONCERT
 ##### 20.12.2017
 
 ##### _Wien, Austria_
-
-&nbsp;
 
 &nbsp;
 
