@@ -87,13 +87,13 @@ SCHOLARSCHIP CONCERT
 
 <img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
-PRIVATE CONCERT
+DUO ANKA IN RECITAL
+
+##### Private concert
 
 ##### 27.9.2019 
 
 ##### _Brüssels – Belgium_
-
-&nbsp;
 
 &nbsp;
 
