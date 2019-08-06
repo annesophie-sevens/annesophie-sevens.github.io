@@ -303,7 +303,7 @@ CONCERT
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Basel.jpg">
+<img style="float: left; padding: 20px" src="/assets/Shakespeare.jpg">
 
 SHAKESPEARE
 
