@@ -37,8 +37,6 @@ DUO ANKA IN RECITAL
 
 ##### Tickets - contact.casa.veronica@gmail.com
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
 OPERA GALA "BETWEEN DREAM & REALITY"
@@ -48,8 +46,6 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
 ##### with bariton Bruno Resende, pianist Julie Delbart
-
-&nbsp;
 
 &nbsp;
 
@@ -73,8 +69,6 @@ RECITAL "AN DIE HOFFNUNG"
 
 ##### Tickets - 20€ - contact.casa.veronica@gmail.com
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
@@ -87,6 +81,10 @@ SCHOLARSCHIP CONCERT
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
 PRIVATE CONCERT
@@ -94,6 +92,12 @@ PRIVATE CONCERT
 ##### 27.9.2019 
 
 ##### _Brüssels – Belgium_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -157,6 +161,12 @@ ELIZABETH CONNELL PRIZE
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Rita Gorr.jpg">
+
 FINALIST CONCERT 
 
 ##### Arias of R. Wagner and J. Massenet 
@@ -166,6 +176,8 @@ FINALIST CONCERT
 ##### Rita Gorr Competition 
 
 ##### _Gent, Belgium_
+
+&nbsp;
 
 &nbsp;
 
@@ -189,6 +201,8 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Kunstraum.jpg"> 
+
 JURY MEMBER
 
 ##### Ljuba Welitsch Singing Competition - Vienna
@@ -198,6 +212,8 @@ JURY MEMBER
 ##### Led by Saschka Zhurkov (Artistic Director)
 
 ##### _Kunstraum Ringstrassen Galleries Vienna – Austria_
+
+&nbsp;
 
 &nbsp;
 
