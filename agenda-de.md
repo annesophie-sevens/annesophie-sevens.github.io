@@ -181,8 +181,6 @@ FINALIST CONCERT
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
 
 RECITAL "AUF FLÜGELN DES GESANGES"
@@ -198,8 +196,6 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 ##### _Argonnestraat 37 - Rue de l'Argonne 37_
 
 ##### Tickets - 25€ - info@annesophiesevens.com
-
-###### <a href="assets/Auf Flügeln.jpeg" target="_blank">Affiche</a>
 
 &nbsp;
 
