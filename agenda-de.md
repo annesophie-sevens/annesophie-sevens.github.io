@@ -87,7 +87,7 @@ SCHOLARSCHIP CONCERT
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/VII.jpg">
+<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
 PRIVATE CONCERT
 
@@ -145,7 +145,7 @@ ARTE.TV with Siegfried Jerusalem
 
 &nbsp;
 
-&nbsp;
+<img style="float: left; padding: 20px" src="/assets/Zürich.jpg">
 
 ELIZABETH CONNELL PRIZE 
 
@@ -219,6 +219,8 @@ OPERNWERKSTATT 18
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Jurmala.jpg">
+
 FINAL ROUNDS 
 
 ##### Belvedere Competition
@@ -263,6 +265,8 @@ FINALIST CONCERT
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Bern.jpg">
+
 CONCERT
 
 ##### Zauberhafter Opernmelodien
@@ -272,6 +276,8 @@ CONCERT
 ##### Rathausplatz, Bern, CH
 
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Basel.jpg">
 
 SHAKESPEARE
 
@@ -337,6 +343,8 @@ MASTER CLASS | Terrence McNally
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Shakespeare.jpg">
+
 SHAKESPEARE
 
 ##### In the role of Desdemona and Lady Macbeth
@@ -362,6 +370,8 @@ DIPLOMFEIER Conservation-Restoration
 &nbsp;
 
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bern Casino.jpg">
 
 OPERNWERKSTATT
 
