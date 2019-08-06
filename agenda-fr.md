@@ -97,7 +97,7 @@ DUO ANKA IN RECITAL
 
 ##### _Brüssels – Belgium_
 
-###### <a href="assets/Anka Affiche.pdf" target="_blank">Flyer</a>
+&nbsp;
 
 &nbsp;
 
