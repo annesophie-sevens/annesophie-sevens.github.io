@@ -85,7 +85,7 @@ SCHOLARSCHIP CONCERT
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
+<img style="float: left; padding: 20px" src="/assets/Duo Anka.jpg">
 
 DUO ANKA IN RECITAL
 
@@ -93,9 +93,9 @@ DUO ANKA IN RECITAL
 
 ##### 27.9.2019 
 
-##### _Brüssels – Belgium_
+##### with harpist Karen Peeters
 
-&nbsp;
+##### _Brüssels – Belgium_
 
 &nbsp;
 
