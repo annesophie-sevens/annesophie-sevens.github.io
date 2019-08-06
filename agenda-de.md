@@ -247,17 +247,11 @@ FINAL ROUNDS
 
 &nbsp;
 
-FINAL ROUNDS 
-
-##### Concorso Piemonte Opera Voci dal mondo 
-
-##### 19-20.5.2018
-
-##### _Turin, Italy_
-
-###### <a href="https://www.youtube.com/embed/dDkHsQP2oiI" target="_blank">Clip</a>
+&nbsp;
 
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Ljuba.jpg">
 
 FINALIST CONCERT 
 
@@ -268,6 +262,12 @@ FINALIST CONCERT
 ##### _Wien, Austria_
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
 FINALIST CONCERT 
 
@@ -281,6 +281,8 @@ FINALIST CONCERT
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Bern.jpg">
 
 CONCERT
@@ -290,6 +292,10 @@ CONCERT
 ##### 26.08.2017, 14.00 - 14.30, 15.30 - 16.00
 
 ##### Rathausplatz, Bern, CH
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -368,6 +374,10 @@ SHAKESPEARE
 ##### 22.12.2016 | 19:30
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
