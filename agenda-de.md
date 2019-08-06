@@ -31,7 +31,7 @@ DUO ANKA IN RECITAL
 
 ##### with harpist Karen Peeters
 
-##### _13b, avenue capart_
+##### _Avenue Capart 13b_
 
 ##### _1090 Bruxelles – Belgium_
 
@@ -75,13 +75,19 @@ RECITAL "AN DIE HOFFNUNG"
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
+
 SCHOLARSCHIP CONCERT
 
 ##### Septembre/Octobre 2019 
 
-##### _Vienna – Austria_
+##### _Prunksaal des Alten Rathauses_
+
+##### _Wipplingerstrasse 8 - Vienna – Austria_
 
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/VII.jpg">
 
 PRIVATE CONCERT
 
