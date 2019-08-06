@@ -165,7 +165,7 @@ ELIZABETH CONNELL PRIZE
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Rita Gorr.jpg">
+<img style="float: left; padding: 20px" src="/assets/Rita Gorr.png">
 
 FINALIST CONCERT 
 
@@ -251,7 +251,7 @@ FINAL ROUNDS
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Ljuba.jpg">
+<img style="float: left; padding: 20px" src="/assets/Ljuba.png">
 
 FINALIST CONCERT 
 
