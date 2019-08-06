@@ -20,6 +20,13 @@ Just as an umbrella cannot be used without rain and sun, water cannot be held wi
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Duo Anka Affiche.jpg"> 
+
+##### DUO An-Ka 
+La soprano belge Anne-Sophie Sevens et l'harpiste belge Karen Peeters forment le DUO ANKA. Après le succès de leur première représentation publique, elles décident de développer un répertoire pour leur duo voix-harpe. Elles travaillent actuellement sur un programme varié, notamment leur répertoire de prédilection, le lied romantique allemand, mais également sur la mise en valeur d'œuvres du répertoire français. Les Cinq mélodies populaires grecques de Maurice Ravel, dans leur version exceptionnelle pour voix et harpe, ont une place centrale dans leur répertoire.
+Ce jeune duo belge a notamment déjà dans son répertoire des œuvres de Schubert, Debussy, Hahn, Ravel, Bellini et Strauss.
+
+&nbsp;
 
 AUF FLÜGELN DES GESANGES
 
