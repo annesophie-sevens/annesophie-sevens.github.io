@@ -183,8 +183,6 @@ FINALIST CONCERT
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
 
 RECITAL "AUF FLÜGELN DES GESANGES"
