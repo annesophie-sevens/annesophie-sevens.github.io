@@ -165,7 +165,7 @@ ELIZABETH CONNELL PRIZE
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Rita Gorr.jpg">
+<img style="float: left; padding: 20px" src="/assets/IVc.jpg">
 
 FINALIST CONCERT 
 
