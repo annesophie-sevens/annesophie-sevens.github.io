@@ -9,7 +9,7 @@ lang: de
 
 SERATA ITALIANA
 
-##### Romaticism in Italy: Arias of V. Bellini, G. Verdi, G. Puccini & A. Ponchielli
+##### Romaticism in Italy: Arias of G. Rossini, G. Verdi, G. Puccini & P. Mascagni
 
 ##### 24.4.2020 | 19:30 
 
