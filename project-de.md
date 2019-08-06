@@ -20,14 +20,6 @@ Just as an umbrella cannot be used without rain and sun, water cannot be held wi
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Duo Anka Affiche.jpg"> 
-
-##### DUO An-Ka 
-La soprano belge Anne-Sophie Sevens et l'harpiste belge Karen Peeters forment le DUO An-Ka. Après le succès de leur première représentation publique, elles décident de développer un répertoire pour leur duo voix-harpe. Elles travaillent actuellement sur un programme varié, notamment leur répertoire de prédilection, le lied romantique allemand, mais également sur la mise en valeur d'œuvres du répertoire français. Les Cinq mélodies populaires grecques de Maurice Ravel, dans leur version exceptionnelle pour voix et harpe, ont une place centrale dans leur répertoire.
-Ce jeune duo belge a notamment déjà dans son répertoire des œuvres de Schubert, Debussy, Hahn, Ravel, Bellini et Strauss.
-
-&nbsp;
-
 AUF FLÜGELN DES GESANGES
 
 The Wesendonck-Lieder of Richard Wagner (1813-83) are composed on poems written by Mathilde Wesendonck and constitute one of the most beautiful expressions of universal love. The artistic skills of the lovers, the composition and the poetry, are unified in one single creation. Mathilde Wesendonck was married and suffered due to her impossible love for Richard Wagner. The same context of an impossible love was the inspiration for the later Tristan und Isolde with the sublime Liebenstod-scene of Isolde in which earthly love evolves in transcendental love. Wesendonck-Lieder no. 3 Im Treibhaus and no. 5 Träume were a musical draft for this opera. I considered it would be interesting to complement the program of the Wesendonck Lieder, with some Lieder from the repertoire. We can find in the additional chosen pieces analogous perspectives as those opened by the poems of Mathilde Wesendonck. Im Treibhaus we notice the negative look on reality. The I-person believes there must be another place where she would be free. Therefore we can consider the Palmenhaus as a metafore for her own ‘Golden Cage’. In Schmerzen the I-person is suffering from the knowledge that what she had positively experienced is gone. At the end of the Wesendonck Lieder cycle she will find peace again. In Träume, no. 5 of the cycle, she can dream and she finds what she was longing for in Im Treibhaus. In that way we can see the last song as an answer on Im Treibhaus:
