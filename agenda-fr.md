@@ -269,6 +269,8 @@ FINALIST CONCERT
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
 FINALIST CONCERT 
