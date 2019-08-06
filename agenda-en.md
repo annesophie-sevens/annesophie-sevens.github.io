@@ -21,7 +21,7 @@ SERATA ITALIANA
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Duo Anka Affiche.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
 
@@ -85,7 +85,7 @@ SCHOLARSCHIP CONCERT
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Duo Anka Affiche.jpg">
+<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
 DUO ANKA IN RECITAL
 
