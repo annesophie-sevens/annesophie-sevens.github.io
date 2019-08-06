@@ -21,7 +21,7 @@ SERATA ITALIANA
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Duo Anka.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
 
