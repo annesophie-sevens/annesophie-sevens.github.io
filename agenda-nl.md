@@ -9,7 +9,7 @@ lang: nl
 
 SERATA ITALIANA
 
-##### Romaticism in Italy: Arias of V. Bellini, G. Verdi, G. Puccini & A. Ponchielli
+##### Romaticism in Italy: Arias of G. Rossini, G. Verdi, G. Puccini & P. Mascagni
 
 ##### 24.4.2020 | 19:30 
 
@@ -31,13 +31,11 @@ DUO ANKA IN RECITAL
 
 ##### with harpist Karen Peeters
 
-##### _13b, avenue capart_
+##### _Avenue Capart 13b_
 
 ##### _1090 Bruxelles – Belgium_
 
 ##### Tickets - contact.casa.veronica@gmail.com
-
-&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
@@ -48,8 +46,6 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
 ##### with bariton Bruno Resende, pianist Julie Delbart
-
-&nbsp;
 
 &nbsp;
 
@@ -73,21 +69,35 @@ RECITAL "AN DIE HOFFNUNG"
 
 ##### Tickets - 20€ - contact.casa.veronica@gmail.com
 
-&nbsp;
+<img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
 
 ##### Septembre/Octobre 2019 
 
-##### _Vienna – Austria_
+##### _Prunksaal des Alten Rathauses_
+
+##### _Wipplingerstrasse 8 - Vienna – Austria_
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
 PRIVATE CONCERT
 
 ##### 27.9.2019 
 
 ##### _Brüssels – Belgium_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -139,7 +149,7 @@ ARTE.TV with Siegfried Jerusalem
 
 &nbsp;
 
-&nbsp;
+<img style="float: left; padding: 20px" src="/assets/Zürich.jpg">
 
 ELIZABETH CONNELL PRIZE 
 
@@ -151,6 +161,12 @@ ELIZABETH CONNELL PRIZE
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Rita Gorr.png">
+
 FINALIST CONCERT 
 
 ##### Arias of R. Wagner and J. Massenet 
@@ -160,6 +176,12 @@ FINALIST CONCERT
 ##### Rita Gorr Competition 
 
 ##### _Gent, Belgium_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -179,9 +201,9 @@ RECITAL "AUF FLÜGELN DES GESANGES"
 
 ##### Tickets - 25€ - info@annesophiesevens.com
 
-###### <a href="assets/Auf Flügeln.jpeg" target="_blank">Affiche</a>
-
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Kunstraum.jpg"> 
 
 JURY MEMBER
 
@@ -192,6 +214,8 @@ JURY MEMBER
 ##### Led by Saschka Zhurkov (Artistic Director)
 
 ##### _Kunstraum Ringstrassen Galleries Vienna – Austria_
+
+&nbsp;
 
 &nbsp;
 
@@ -213,6 +237,8 @@ OPERNWERKSTATT 18
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Jurmala.jpg">
+
 FINAL ROUNDS 
 
 ##### Belvedere Competition
@@ -223,17 +249,11 @@ FINAL ROUNDS
 
 &nbsp;
 
-FINAL ROUNDS 
-
-##### Concorso Piemonte Opera Voci dal mondo 
-
-##### 19-20.5.2018
-
-##### _Turin, Italy_
-
-###### <a href="https://www.youtube.com/embed/dDkHsQP2oiI" target="_blank">Clip</a>
+&nbsp;
 
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Ljuba.png">
 
 FINALIST CONCERT 
 
@@ -244,6 +264,14 @@ FINALIST CONCERT
 ##### _Wien, Austria_
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
 FINALIST CONCERT 
 
@@ -257,6 +285,10 @@ FINALIST CONCERT
 
 &nbsp;
 
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bern.jpg">
+
 CONCERT
 
 ##### Zauberhafter Opernmelodien
@@ -266,6 +298,12 @@ CONCERT
 ##### Rathausplatz, Bern, CH
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Basel.jpg">
 
 SHAKESPEARE
 
@@ -331,6 +369,8 @@ MASTER CLASS | Terrence McNally
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Shakespeare.jpg">
+
 SHAKESPEARE
 
 ##### In the role of Desdemona and Lady Macbeth
@@ -338,6 +378,10 @@ SHAKESPEARE
 ##### 22.12.2016 | 19:30
 
 ##### _Saal Oper_, Jacob-Rosius Strasse 16, Biel
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -356,6 +400,8 @@ DIPLOMFEIER Conservation-Restoration
 &nbsp;
 
 &nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Bern Casino.jpg">
 
 OPERNWERKSTATT
 
@@ -386,4 +432,3 @@ SINGING AND ACTING MOZART IN FRONT OF THE CAMERA
 ###### <a href="http://syquali.ch/en/filmopera/" target="_blank">More info</a>
 
 &nbsp;
-
