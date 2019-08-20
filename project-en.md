@@ -6,7 +6,7 @@ lang: en
 ref: project
 
 ---
-<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/eglise.jpg"> 
 
 ##### DUO ANKA 
 
