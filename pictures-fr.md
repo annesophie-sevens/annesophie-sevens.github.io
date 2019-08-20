@@ -11,9 +11,9 @@ ref: pictures
 
 | <a href="/assets/2788.jpg"> ![]({{ site.baseurl }}/assets/2788c.jpg) </a> | <a href="/assets/a4.jpg"> ![]({{ site.baseurl }}/assets/a4-thumbnail.jpg) </a> | <a href="/assets/IX.jpg"> ![]({{ site.baseurl }}/assets/IXc.jpg) </a> |
 
-|  <a href="/assets/b2.jpg">  ![]({{ site.baseurl }}/assets/b2-thumbnail.jpg) </a> | <a href="/assets/muurfoto.jpg"> ![]({{ site.baseurl }}/assets/muurfoto_thumbnail.jpg) </a> | <a href="/assets/3240.jpg">![]({{ site.baseurl }}/assets/3240c.jpg) </a> |
+|  <a href="/assets/b2.jpg">  ![]({{ site.baseurl }}/assets/b2-thumbnail.jpg) </a> | <a href="/assets/muurfoto.jpg"> ![]({{ site.baseurl }}/assets/muurfoto_thumbnail.jpg) </a> | <a href="/assets/2743.jpg">![]({{ site.baseurl }}/assets/2743c.jpg) </a> |
 
-|  <a href="/assets/ja0.jpg">  ![]({{ site.baseurl }}/assets/ja0c.jpg) </a> | <a href="/assets/2743.jpg"> ![]({{ site.baseurl }}/assets/2743c.jpg) </a> | <a href="/assets/ja5.jpg">![]({{ site.baseurl }}/assets/ja5c.jpg) </a> |
+|  <a href="/assets/ja0.jpg">  ![]({{ site.baseurl }}/assets/ja0c.jpg) </a> | <a href="/assets/ja.jpg"> ![]({{ site.baseurl }}/assets/jac.jpg) </a> | <a href="/assets/ja5.jpg">![]({{ site.baseurl }}/assets/ja5c.jpg) </a> |
 
 
 
