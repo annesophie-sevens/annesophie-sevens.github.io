@@ -6,9 +6,9 @@ lang: fr
 ref: project
 
 ---
-<img style="float: left; padding: 20px" src="/assets/dream.jpg">
+<img style="float: left; padding: 20px" src="/assets/eglise.jpg">
 
-##### Là-bas 
+##### LÀ-BAS
 
 ##### Dans le cadre du récital ‘Là-bas’, le duo An-Ka vous invite à un voyage musical dans le pays du bleu azur, jaune doré, rouge cuivré et par ses mélodies, à un vol sur la mer méditerranée jusqu’à l’horizon lointain.
 
