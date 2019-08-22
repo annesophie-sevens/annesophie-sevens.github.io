@@ -15,10 +15,18 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
+&nbsp;
+
+&nbsp;
+
 ##### BETWEEM DREAM & REALITY 
 
 A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. People love to dream. They dream of beautiful things, beautiful places, exciting adventures but once something bad crosses their mind they consider it as a nightmare. 
-Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. 
+Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams.
+
+&nbsp;
+
+&nbsp;
 
 ##### AUF FLÜGELN DES GESANGES
 
