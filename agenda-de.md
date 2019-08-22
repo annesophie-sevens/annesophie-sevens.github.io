@@ -173,7 +173,7 @@ PRESENTATION FOR THE RICHARD WAGNER VERBAND WIEN
 
 ##### 4.6.2019 
 
-##### _Wien – Austriay-_
+##### _Wien – Austria_
 
 &nbsp;
 
