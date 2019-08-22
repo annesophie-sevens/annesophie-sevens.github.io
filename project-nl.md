@@ -17,13 +17,8 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 ##### BETWEEM DREAM & REALITY 
 
-##### “How hard would you work, and for how long, if you knew you could have your dream for sure ?”
-Our past and present is what is reality. Then why people are always concerned with future ? Future is a mixture of unbalanced positive and negative thoughts, becoming blind-folded to our present and sometimes a lot of unknown preparations.
-A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. It hits us like wounds from thousand thorns but is what is actually happening. Some people being strong by heart, face it. But what is their strategy? They dwell in a world where they take it hard to believe that they actually face reality, so they repeat to others and to themselves that “I believe in reality”. What are they doing? Believing themselves or making others believe.
-
-People love to dream. They dream of beautiful things, beautiful places, exciting adventures but once something bad crosses their mind they consider it as a nightmare. What people forget is that dreams are the sum of the thoughts that grow in their mind on a daily basis.
-Reality and dreams are often misunderstood. When someone’s dream turn into reality they become believer’s of “Dream come true”. But when their dream fails to stand as reality they start believing on “Dreams can never come true”.
-Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. Dreaming of something high is a basic human nature, but if dreams are built with positive thoughts and hard work, nourished with confidence and knowledge and respected like a true saint then dreams will turn into success that will come to us as reality.
+A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. People love to dream. They dream of beautiful things, beautiful places, exciting adventures but once something bad crosses their mind they consider it as a nightmare. 
+Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. 
 
 &nbsp;
 
