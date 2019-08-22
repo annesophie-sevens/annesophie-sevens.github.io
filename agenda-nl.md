@@ -35,7 +35,7 @@ DUO ANKA IN RECITAL
 
 ##### _1090 Bruxelles – Belgium_
 
-##### Tickets - contact.casa.veronica@gmail.com
+###### <a href="https://www.casaveronica.net/duo-anka.php?id=62" target="_blank">More info & Tickets</a>
 
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
