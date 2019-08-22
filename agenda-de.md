@@ -169,7 +169,7 @@ ELIZABETH CONNELL PRIZE
 
 PRESENTATION FOR THE RICHARD WAGNER VERBAND WIEN
 
-##### Receipent of the scholarschip to visit the Bayreuther Festspiele
+##### Receipt of the scholarschip to visit the Bayreuther Festspiele
 
 ##### 4.6.2019 
 
