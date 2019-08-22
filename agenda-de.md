@@ -165,6 +165,22 @@ ELIZABETH CONNELL PRIZE
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Bayreuth.jpg"> 
+
+PRESENTATION FOR THE RICHARD WAGNER VERBAND WIEN
+
+##### Receipent of the scholarschip to visit the Bayreuther Festspiele
+
+##### 4.6.2019 
+
+##### _Wien – Austriay-_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/IVc.jpg">
 
 FINALIST CONCERT 
