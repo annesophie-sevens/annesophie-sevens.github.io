@@ -67,7 +67,7 @@ RECITAL "AN DIE HOFFNUNG"
 
 ##### _Grote Markt 1 - Aalst – Belgium_
 
-##### Tickets - 20€ - contact.casa.veronica@gmail.com
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
