@@ -21,6 +21,38 @@ SERATA ITALIANA
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
+
+SCHOLARSCHIP CONCERT
+
+##### 3.3.2020 | 19:00
+
+##### _Alten Rathaus, Festsaal_
+
+##### _1010 Wien, Wipplingerstraße – Austria_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Basel-m.jpg">
+
+RECITAL "WER HAT DIES LIEDLEIN ERDACHT ?"
+
+##### Works of F. Schubert, G. Bizet, M. Ravel, G. Mahler & A. Berg
+
+##### 22.2.2020 | 19:30 
+
+##### with soprano Daniela Stoll & pianist Riccardo Bovino
+
+##### _Schmiedenhof, Schmiedenzunftsaal_
+
+##### _ 4000 Basel, Rümelinsplatz 4 – Switzerland_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
@@ -35,7 +67,7 @@ DUO ANKA IN RECITAL
 
 ##### _1090 Bruxelles – Belgium_
 
-###### <a href="https://www.casaveronica.net/duo-anka.php?id=62" target="_blank">More info & Tickets</a>
+###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
@@ -66,22 +98,6 @@ RECITAL "AN DIE HOFFNUNG"
 ##### _Feestzaal Stadhuis_
 
 ##### _Grote Markt 1 - Aalst – Belgium_
-
-&nbsp;
-
-<img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
-
-SCHOLARSCHIP CONCERT
-
-##### Septembre/Octobre 2019 
-
-##### _Prunksaal des Alten Rathauses_
-
-##### _Wipplingerstrasse 8 - Vienna – Austria_
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
