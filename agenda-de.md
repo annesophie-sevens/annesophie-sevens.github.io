@@ -79,9 +79,9 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### with bariton Bruno Resende, pianist Julie Delbart
 
-&nbsp;
+##### _Feestzaal Stadhuis_
 
-&nbsp;
+##### _Grote Markt 1 - Aalst – Belgium_
 
 &nbsp;
 
