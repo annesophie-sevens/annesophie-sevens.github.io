@@ -73,7 +73,7 @@ DUO ANKA IN RECITAL
 
 OPERA GALA "BETWEEN DREAM & REALITY"
 
-##### Works of G. Verdi, G. Puccini & P. Mascagni 
+##### Works of G. Verdi, P. Mascagni, R. Wagner and A. Berg
 
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
