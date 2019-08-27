@@ -30,8 +30,7 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 ##### BETWEEM DREAM & REALITY 
 
-A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. People love to dream. They dream of beautiful things, beautiful places, exciting adventures but once something bad crosses their mind they consider it as a nightmare. 
-Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. 
+Een persoon bevindt zich altijd in een dilemma van realiteit en dromen. Hetgene waar iedereen van wegloopt en die soms moeilijk te geloven is, is de realiteit. Mensen houden van dromen. Ze dromen van mooie dingen, mooie plekken, spannende avonturen, maar zodra er iets ergs op hun afkomt, beschouwen ze het als een nachtmerrie. Net zoals een paraplu niet kan worden gebruikt zonder regen en zon, en water niet kan worden vastgehouden zonder een container, zo kan de realiteit niet bestaan zonder dromen.
 
 &nbsp;
 
