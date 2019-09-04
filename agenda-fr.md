@@ -83,7 +83,7 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### _Grote Markt 1 - Aalst – Belgium_
 
-&nbsp;
+###### <a href="https://www.casaveronica.net/events/opera-gala-between-dream-reality" target="_blank">More info & Tickets</a>
 
 <img style="float: left; padding: 20px" src="/assets/pandora.jpg"> 
 
@@ -99,7 +99,7 @@ RECITAL "AN DIE HOFFNUNG"
 
 ##### _Grote Markt 1 - Aalst – Belgium_
 
-&nbsp;
+###### <a href="https://www.casaveronica.net/events/recital-an-die-hoffnung" target="_blank">More info & Tickets</a>
 
 <img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
