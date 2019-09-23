@@ -13,7 +13,7 @@ ref: video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wCKWewwMEM?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwj-8Ht7Wr0?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 
 
