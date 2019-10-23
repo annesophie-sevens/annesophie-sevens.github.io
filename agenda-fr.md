@@ -5,22 +5,6 @@ menuorder: 60
 ref: agenda
 lang: fr
 ---
-<img style="float: left; padding: 20px" src="/assets/rom.jpg"> 
-
-SERATA ITALIANA
-
-##### Romaticism in Italy: Arias of G. Rossini, G. Verdi, G. Puccini & P. Mascagni
-
-##### 24.4.2020 | 19:30 
-
-##### with soprano Daniela Stoll & pianist Riccardo Bovino
-
-##### _Bülach – Switzerland_
-
-&nbsp;
-
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
