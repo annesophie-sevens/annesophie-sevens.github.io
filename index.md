@@ -5,4 +5,4 @@ ref: home
 lang: en
 ---
 
-![](assets/IX.jpg)
+![](assets/homepage.jpg)
