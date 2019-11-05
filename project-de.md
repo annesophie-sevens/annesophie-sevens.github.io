@@ -11,7 +11,7 @@ ref: project
 ##### AN DIE HOFFNUNG
 
 Elpis (Hope, Hoffnung) appears in ancient Greek mythology with the story of Zeus and Prometheus. Prometheus stole fire from the god Zeus, which infuriated the supreme god. In turn, Zeus created a box that contained all manners of evil, unbeknownst to the receiver of the box. Pandora opened the box after being warned not to, and unleashed a multitude of harmful spirits that inflicted plagues, diseases, and illnesses on mankind. Inside the box, however, there was also an unreleased healing spirit named Hope. From ancient times, people have recognized that a spirit of hope had the power to heal afflictions and helps them bear times of great suffering, illnesses, disasters, loss, and pain. 
-Anne-Sophie Sevens, Bastian Kohl and Julie Delbart tell together a story named “An die Hoffnung” (“Oh hope”). The recital is build around romantic themes such as love, nature, death, existential fear, human quest, desire and hope. Questions and answers constitute the sequence, and many emotions will be expressed and somehow, all chosen works express a notion of hope. Anne-Sophie, Bastian and Julie’s performance at their recital concentrates mainly on works of L.v. Beethoven and F. Schubert. 
+Anne-Sophie Sevens and Julie Delbart tell together a story named “An die Hoffnung” (“Oh hope”). The recital is build around romantic themes such as love, nature, death, existential fear, human quest, desire and hope. Questions and answers constitute the sequence, and many emotions will be expressed and somehow, all chosen works express a notion of hope. Anne-Sophie and Julie’s performance at their recital concentrates mainly on works of L.v. Beethoven, F. Schubert and R. Schumann. 
 
 &nbsp;
 
