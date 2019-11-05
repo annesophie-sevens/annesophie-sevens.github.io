@@ -73,11 +73,11 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 RECITAL "AN DIE HOFFNUNG"
 
-##### Works of L.v. Beethoven, F. Schubert & R. Wagner 
+##### Works of L.v. Beethoven, F. Schubert & R. Schumann 
 
 ##### 23.11.2019 | 20:00 | Doors 19:45
 
-##### with bass Bastian Kohl & pianist Julie Delbart
+##### with pianist Julie Delbart
 
 ##### _Feestzaal Stadhuis_
 
