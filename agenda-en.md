@@ -105,6 +105,8 @@ KONZERT IM ADVENT
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/pandora.jpg"> 
 
 RECITAL "AN DIE HOFFNUNG"
