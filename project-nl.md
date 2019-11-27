@@ -32,7 +32,9 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 ##### BETWEEM DREAM & REALITY 
 
-Een persoon bevindt zich altijd in een dilemma van realiteit en dromen. Hetgene waar iedereen van wegloopt en die soms moeilijk te geloven is, is de realiteit. Mensen houden van dromen. Ze dromen van mooie dingen, mooie plekken, spannende avonturen, maar zodra er iets ergs op hun afkomt, beschouwen ze het als een nachtmerrie. Net zoals een paraplu niet kan worden gebruikt zonder regen en zon, en water niet kan worden vastgehouden zonder een container, zo kan de realiteit niet bestaan zonder dromen.
+De realiteit is de staat van dingen zoals ze zijn, in plaats van zoals ze worden verondersteld te zijn... een bestaan dat absoluut, zelfvoorzienend en objectief is, niet onderworpen aan menselijke beslissingen, wensen of conventies.
+Dromen kunnen daarentegen op veel verschillende manieren worden beschreven: als een reeks gedachten, beelden en emoties die tijdens de slaap optreden... als een staat van abstractie, als iets opmerkelijks voor zijn schoonheid, als een prestatie waarnaar wordt verlangd en zelfs, als een onrealistische hoop.
+Gedurende ons hele leven bevinden we ons vaak in een dilemma over realiteit en dromen, aangezien beide intrinsiek met elkaar verbonden zijn. Deze strijd is een onderdeel van het bestaan van ieder mens en de keuzes die daaruit voortkomen, kunnen onze levenspaden voor altijd veranderen.
 
 &nbsp;
 
