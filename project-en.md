@@ -33,9 +33,7 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 ##### BETWEEM DREAM & REALITY 
 
 Reality is the state of things as they are, rather than as they are imagined to be, an existence that is absolute, self-sufficient and objective, not subject to human decisions, wishes  or conventions.
-
 Dream, on the other hand, can be described in many different ways : as a series of thoughts and emotions occurring during sleep, as a state of abstraction, as something notable for its beauty, as an achievement that is longed for, and even as an unrealistic hope.
-
 Throughout our lives, we often find ourselves in a dilemma over reality and dreams, for both are intrinsically connected. This struggle is a part of every human being’s existence and the choices we make when faced with those situations can change our lives forever.
 
 &nbsp;
