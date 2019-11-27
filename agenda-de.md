@@ -51,7 +51,11 @@ FIDELIO
 
 ##### _Zirndorf – Germany_
 
-&nbsp;<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
 
@@ -98,6 +102,10 @@ KONZERT IM ADVENT
 ##### _St. Rochus-Kirche_
 
 ##### _Zirndorf – Germany_
+
+&nbsp;
+
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/pandora.jpg"> 
 
