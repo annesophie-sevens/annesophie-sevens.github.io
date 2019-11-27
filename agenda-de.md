@@ -33,7 +33,7 @@ RECITAL "WER HAT DIES LIEDLEIN ERDACHT ?"
 
 ##### _Schmiedenhof, Schmiedenzunftsaal_
 
-##### _ 4000 Basel, Rümelinsplatz 4 – Switzerland_
+##### _4000 Basel, Rümelinsplatz 4 – Switzerland_
 
 &nbsp;
 
@@ -49,7 +49,7 @@ FIDELIO
 
 ##### _St. Rochus-Kirche_
 
-##### _ Zirndorf – Germany_
+##### _Zirndorf – Germany_
 
 &nbsp;<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
@@ -75,7 +75,7 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
-##### with bariton Bruno Resende, pianist Julie Delbart
+##### with bariton Bruno Resende, pianist David Miller
 
 ##### _Feestzaal Stadhuis_
 
@@ -97,7 +97,7 @@ KONZERT IM ADVENT
 
 ##### _St. Rochus-Kirche_
 
-##### _ Zirndorf – Germany_
+##### _Zirndorf – Germany_
 
 <img style="float: left; padding: 20px" src="/assets/pandora.jpg"> 
 
