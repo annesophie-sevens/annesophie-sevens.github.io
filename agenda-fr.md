@@ -45,7 +45,7 @@ FIDELIO
 
 ##### 28.1.2020 | 19:00 
 
-##### under the artistic direction of Prof. Siegfried Jerusalem
+##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
 
 ##### _St. Rochus-Kirche_
 
@@ -97,7 +97,7 @@ KONZERT IM ADVENT
 
 ##### 3.12.2019 | 19:00 
 
-##### under the artistic direction of Prof. Siegfried Jerusalem
+##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
 
 ##### _St. Rochus-Kirche_
 
