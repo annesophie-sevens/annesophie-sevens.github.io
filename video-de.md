@@ -7,7 +7,7 @@ ref: video
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ryRgDhy5AQs?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W7xbyEZGYFY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.arte.tv/de/videos/091406-000-A/masterclass-fuer-zukuenftige-opernstars?rel=0" frameborder="O" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPIsNE3ReCM?rel=0" frameborder="0" allowfullscreen></iframe>
 
