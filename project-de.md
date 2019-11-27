@@ -32,8 +32,9 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 ##### BETWEEM DREAM & REALITY 
 
-A person is always in a dilemma of reality and dreams. The one that everyone runs from and considers hard to believe is - the reality. People love to dream. They dream of beautiful things, beautiful places, exciting adventures but once something bad crosses their mind they consider it as a nightmare. 
-Just as an umbrella cannot be used without rain and sun, water cannot be held without a container and clock cannot run without arms, similarly reality cannot exist without dreams. 
+Reality is the state of things as they are, rather than as they are imagined to be, an existence that is absolute, self-sufficient and objective, not subject to human decisions, wishes  or conventions.
+Dream, on the other hand, can be described in many different ways : as a series of thoughts and emotions occurring during sleep, as a state of abstraction, as something notable for its beauty, as an achievement that is longed for, and even as an unrealistic hope.
+Throughout our lives, we often find ourselves in a dilemma over reality and dreams, for both are intrinsically connected. This struggle is a part of every human being’s existence and the choices we make when faced with those situations can change our lives forever.
 
 &nbsp;
 
