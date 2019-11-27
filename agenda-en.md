@@ -123,6 +123,8 @@ RECITAL "AN DIE HOFFNUNG"
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
+
 DUO ANKA IN RECITAL
 
 ##### Private concert
