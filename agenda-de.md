@@ -37,7 +37,21 @@ RECITAL "WER HAT DIES LIEDLEIN ERDACHT ?"
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/Fidelio.jpg">
+
+FIDELIO
+
+##### In the role of Leonore
+
+##### 28.1.2020 | 19:00 
+
+##### under the artistic direction of Prof. Siegfried Jerusalem
+
+##### _St. Rochus-Kirche_
+
+##### _ Zirndorf – Germany_
+
+&nbsp;<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
 
@@ -68,6 +82,22 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 ##### _Grote Markt 1 - Aalst – Belgium_
 
 ###### <a href="https://www.casaveronica.net/events/opera-gala-between-dream-reality" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
+
+KONZERT IM ADVENT
+
+##### In the role of Elsa "Das süsse Lied verhalt", Leonore "O namenlose Freude"
+
+##### 3.12.2019 | 19:00 
+
+##### under the artistic direction of Prof. Siegfried Jerusalem
+
+##### _St. Rochus-Kirche_
+
+##### _ Zirndorf – Germany_
 
 <img style="float: left; padding: 20px" src="/assets/pandora.jpg"> 
 
