@@ -37,7 +37,7 @@ RECITAL "WER HAT DIES LIEDLEIN ERDACHT ?"
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Fidelio.jpg">
+<img style="float: left; padding: 20px" src="/assets/Fidelio.png">
 
 FIDELIO
 
