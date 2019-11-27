@@ -33,7 +33,23 @@ RECITAL "WER HAT DIES LIEDLEIN ERDACHT ?"
 
 ##### _Schmiedenhof, Schmiedenzunftsaal_
 
-##### _ 4000 Basel, Rümelinsplatz 4 – Switzerland_
+##### _4000 Basel, Rümelinsplatz 4 – Switzerland_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Fidelio.png">
+
+FIDELIO
+
+##### In the role of Leonore
+
+##### 28.1.2020 | 19:00 
+
+##### under the artistic direction of Prof. Siegfried Jerusalem
+
+##### _St. Rochus-Kirche_
+
+##### _Zirndorf – Germany_
 
 &nbsp;
 
@@ -53,6 +69,8 @@ DUO ANKA IN RECITAL
 
 ###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
 OPERA GALA "BETWEEN DREAM & REALITY"
@@ -61,7 +79,7 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### 21.12.2019 | 20:00 | Doors 19:45
 
-##### with bariton Bruno Resende, pianist Julie Delbart
+##### with bariton Bruno Resende, pianist David Miller
 
 ##### _Feestzaal Stadhuis_
 
@@ -69,11 +87,29 @@ OPERA GALA "BETWEEN DREAM & REALITY"
 
 ###### <a href="https://www.casaveronica.net/events/opera-gala-between-dream-reality" target="_blank">More info & Tickets</a>
 
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
+
+KONZERT IM ADVENT
+
+##### In the role of Elsa "Das süsse Lied verhalt", Leonore "O namenlose Freude"
+
+##### 3.12.2019 | 19:00 
+
+##### under the artistic direction of Prof. Siegfried Jerusalem
+
+##### _St. Rochus-Kirche_
+
+##### _Zirndorf – Germany_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/pandora.jpg"> 
 
 RECITAL "AN DIE HOFFNUNG"
 
-##### Works of L.v. Beethoven, F. Schubert & R. Schumann
+##### Works of L.v. Beethoven, F. Schubert & R. Schumann 
 
 ##### 23.11.2019 | 20:00 | Doors 19:45
 
@@ -85,7 +121,7 @@ RECITAL "AN DIE HOFFNUNG"
 
 ###### <a href="https://www.casaveronica.net/events/recital-an-die-hoffnung" target="_blank">More info & Tickets</a>
 
-<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
+&nbsp;
 
 DUO ANKA IN RECITAL
 
