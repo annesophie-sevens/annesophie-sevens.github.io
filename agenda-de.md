@@ -69,6 +69,8 @@ DUO ANKA IN RECITAL
 
 ###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
 OPERA GALA "BETWEEN DREAM & REALITY"
@@ -118,6 +120,8 @@ RECITAL "AN DIE HOFFNUNG"
 ##### _Grote Markt 1 - Aalst – Belgium_
 
 ###### <a href="https://www.casaveronica.net/events/recital-an-die-hoffnung" target="_blank">More info & Tickets</a>
+
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
