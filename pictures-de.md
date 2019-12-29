@@ -9,7 +9,7 @@ ref: pictures
 
 | <a href="/assets/I.jpg"> ![]({{ site.baseurl }}/assets/Ic.jpg) </a> | <a href="/assets/IV.jpg"> ![]({{ site.baseurl }}/assets/IVc.jpg) </a> | <a href="/assets/2953.jpg">  ![]({{ site.baseurl }}/assets/2953c.jpg) </a> |
 
-| <a href="/assets/2932.jpg"> ![]({{ site.baseurl }}/assets/2932c.jpg) </a> | <a href="/assets/2673.jpg"> ![]({{ site.baseurl }}/assets/2673c.jpg) </a> | <a href="/assets/VII.jpg">  ![]({{ site.baseurl }}/assets/VIIc.jpg) </a> |
+| <a href="/assets/IX.jpg"> ![]({{ site.baseurl }}/assets/IXc.jpg) </a> | <a href="/assets/2673.jpg"> ![]({{ site.baseurl }}/assets/2673c.jpg) </a> | <a href="/assets/VII.jpg">  ![]({{ site.baseurl }}/assets/VIIc.jpg) </a> |
 
 | <a href="/assets/2788.jpg"> ![]({{ site.baseurl }}/assets/2788c.jpg) </a> | <a href="/assets/a4.jpg"> ![]({{ site.baseurl }}/assets/a4-thumbnail.jpg) </a> | <a href="/assets/IX.jpg"> ![]({{ site.baseurl }}/assets/IXc.jpg) </a> |
 
