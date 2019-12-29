@@ -91,6 +91,20 @@ VIER LETZTE LIEDER
 
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
+PRIVATE CONCERT 
+
+##### Arias of R. Wagner, G. Verdi and G. Puccini 
+
+##### 23.01.2020
+
+##### _Gent, Belgium_
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/R1c.jpg"> 
+
 OPERA GALA "BETWEEN DREAM & REALITY"
 
 ##### Works of G. Verdi, P. Mascagni, R. Wagner and A. Berg
