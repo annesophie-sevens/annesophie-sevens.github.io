@@ -89,7 +89,7 @@ VIER LETZTE LIEDER
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/R7c.jpg"> 
 
 PRIVATE CONCERT 
 
@@ -103,7 +103,7 @@ PRIVATE CONCERT
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/R1c.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
 OPERA GALA "BETWEEN DREAM & REALITY"
 
