@@ -6,4 +6,4 @@ lang: de
 ---
 
 
-![](assets/R6.jpg)
+![](assets/IX.jpg)
