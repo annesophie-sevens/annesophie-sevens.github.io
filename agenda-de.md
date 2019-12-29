@@ -91,7 +91,7 @@ VIER LETZTE LIEDER
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/R7c.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/2673c.jpg"> 
 
 PRIVATE CONCERT 
 
