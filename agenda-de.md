@@ -39,6 +39,8 @@ DUO ANKA IN RECITAL
 
 ###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
