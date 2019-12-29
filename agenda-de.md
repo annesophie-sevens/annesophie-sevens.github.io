@@ -91,7 +91,7 @@ VIER LETZTE LIEDER
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/2673c.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/R6c.jpg"> 
 
 PRIVATE CONCERT 
 
@@ -99,7 +99,7 @@ PRIVATE CONCERT
 
 ##### 23.01.2020
 
-##### _Gent, Belgium_
+##### _Gent - Belgium_
 
 &nbsp;
 
