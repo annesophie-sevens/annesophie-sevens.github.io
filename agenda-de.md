@@ -21,6 +21,8 @@ FIDELIO
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL
@@ -77,7 +79,7 @@ VIER LETZTE LIEDER
 
 ##### 28.1.2020 | 20:00 
 
-##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
+##### Under the artistic direction of Prof. Siegfried Jerusalem 
 
 ##### _Nürnberg – Germany_
 
