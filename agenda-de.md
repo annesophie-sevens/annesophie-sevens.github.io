@@ -87,6 +87,8 @@ VIER LETZTE LIEDER
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
 
 OPERA GALA "BETWEEN DREAM & REALITY"
