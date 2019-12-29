@@ -5,6 +5,44 @@ menuorder: 60
 ref: agenda
 lang: nl 
 ---
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Fidelio.png">
+
+FIDELIO
+
+##### In the role of Leonore
+
+##### Mai 2020  
+
+##### Under the artistic direction of Prof. Siegfried Jerusalem 
+
+##### _Nürnberg – Germany_
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
+
+DUO ANKA IN RECITAL
+
+##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
+
+##### 20.3.2020 | 20:00 | Doors 19:45
+
+##### with harpist Karen Peeters
+
+##### _Avenue Capart 13b_
+
+##### _1090 Bruxelles – Belgium_
+
+###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
@@ -37,37 +75,33 @@ RECITAL "WER HAT DIES LIEDLEIN ERDACHT ?"
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/Fidelio.png">
+<img style="float: left; padding: 20px" src="/assets/VIIc.jpg">
 
-FIDELIO
+VIER LETZTE LIEDER
 
-##### In the role of Leonore
+##### Work of R. Strauss
 
-##### 28.1.2020 | 19:00 
+##### 28.1.2020 | 20:00 
 
-##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
+##### Under the artistic direction of Prof. Siegfried Jerusalem 
 
-##### _St. Rochus-Kirche_
-
-##### _Zirndorf – Germany_
+##### _Nürnberg – Germany_
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
+&nbsp;
 
-DUO ANKA IN RECITAL
+<img style="float: left; padding: 20px" src="/assets/R6c.jpg"> 
 
-##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
+PRIVATE CONCERT 
 
-##### 11.1.2020 | 19:00 | Doors 18:00
+##### Arias of R. Wagner, G. Verdi and G. Puccini 
 
-##### with harpist Karen Peeters
+##### 23.01.2020
 
-##### _Avenue Capart 13b_
+##### _Gent - Belgium_
 
-##### _1090 Bruxelles – Belgium_
-
-###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
+&nbsp;
 
 &nbsp;
 
