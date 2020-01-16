@@ -11,7 +11,7 @@ Anne-Sophie made her professional operatic debut in TOBS (Theatre Orchestra Biel
 
 Anne-Sophie performs regularly as a Recitalist. She performed in Belgium twice at the Festival des Minimes in Brussels where she interpreted «Fünf Lieder» (Alma Mahler) and «Lieder eines fahrenden Gesellen» (Gustav Mahler). She sang in Brussels at the Festival Courants d’Air where she presented «Wesendonck-Lieder» (Wagner) and at the Festival Musiq’3 in Flagey, «Chanson perpétuelle» (Chausson). 
 Beside her Belgian musical education she took regular lessons and participated in several master-classes in Germany, Switzerland and Italy notably with Siegfried Jerusalem, Edda Moser, Vesselina Kasarova, Nadine Secunde and Gerd Uecker. 
-In 2017 she was Prize-winner in the Bellincanto Competition in Bellinzona, Switzerland and in the Ljuba Welitsch Singing Competition in Vienna, where she was invited in 2018 as a jury member. She participated in 2017 and 2019 at the final rounds of the Elizabeth Connell competition and in 2018 at the final rounds of the Belvedere competition in Jurmala. In 2019 she was finalist in the Rita Gorr competition in Ghent and in the BIVC competition in Bologna. She is under contract with Diakov Management Berlin.
+In 2017 she was Prize-winner in the Bellincanto Competition in Bellinzona, Switzerland and in the Ljuba Welitsch Singing Competition in Vienna, where she was invited in 2018 as a jury member. She participated in 2017 and 2019 at the final rounds of the Elizabeth Connell competition and in 2018 at the final rounds of the Belvedere competition in Jurmala. In 2019 she was finalist in the Rita Gorr competition in Ghent and in the BIVC competition in Bologna. 
  
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
