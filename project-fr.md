@@ -17,7 +17,7 @@ Le Duo An-Ka, formé par la soprano Anne-Sophie Sevens et l’harpiste Karen Pee
 &nbsp;
 
 
-Recital La Vie en rose – 20 maart 2020 
+Recital La Vie en rose – le 20 mars 2020 
 
 1. F. Schubert : « Hymne an die Jungfrau » – « Ellenʼs Gesang n° 3 » D839 5ʼ  
 2. F. Schubert : « Der Wanderer an den Mond » D870 2ʼ  
