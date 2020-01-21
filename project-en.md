@@ -15,30 +15,25 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 &nbsp;
 
-&nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/dream.jpg"> 
+Recital La Vie en rose – 20 maart 2020 
 
-##### BETWEEM DREAM & REALITY 
-
-Reality is the state of things as they are, rather than as they are imagined to be, an existence that is absolute, self-sufficient and objective, not subject to human decisions, wishes  or conventions.
-Dream, on the other hand, can be described in many different ways : as a series of thoughts and emotions occurring during sleep, as a state of abstraction, as something notable for its beauty, as an achievement that is longed for, and even as an unrealistic hope.
-Throughout our lives, we often find ourselves in a dilemma over reality and dreams, for both are intrinsically connected. This struggle is a part of every human being’s existence and the choices we make when faced with those situations can change our lives forever.
-
-&nbsp;
-
-&nbsp;
-
-<img style="float: left; padding: 20px" src="/assets/afficheke.jpg"> 
-
-##### AUF FLÜGELN DES GESANGES
-
-The Wesendonck-Lieder of Richard Wagner (1813-83) are composed on poems written by Mathilde Wesendonck and constitute one of the most beautiful expressions of universal love. The artistic skills of the lovers, the composition and the poetry, are unified in one single creation. Mathilde Wesendonck was married and suffered due to her impossible love for Richard Wagner. The same context of an impossible love was the inspiration for the later Tristan und Isolde with the sublime Liebenstod-scene of Isolde in which earthly love evolves in transcendental love. Wesendonck-Lieder no. 3 Im Treibhaus and no. 5 Träume were a musical draft for this opera. I considered it would be interesting to complement the program of the Wesendonck Lieder, with some Lieder from the repertoire. We can find in the additional chosen pieces analogous perspectives as those opened by the poems of Mathilde Wesendonck. Im Treibhaus we notice the negative look on reality. The I-person believes there must be another place where she would be free. Therefore we can consider the Palmenhaus as a metafore for her own ‘Golden Cage’. In Schmerzen the I-person is suffering from the knowledge that what she had positively experienced is gone. At the end of the Wesendonck Lieder cycle she will find peace again. In Träume, no. 5 of the cycle, she can dream and she finds what she was longing for in Im Treibhaus. In that way we can see the last song as an answer on Im Treibhaus:
-
-«Wohl, ich weiß es, arme Pflanze; Ein Geschicke teilen wir, Ob umstrahlt von Licht und Glanze, Unsre Heimat ist nicht hier! » - Im Treibhaus (M. Wesendonck)
-
-«Träume, wie wenn Frühlingssonne Aus dem Schnee die Blüten küßt, Daß zu nie geahnter Wonne Sie der neue Tag begrüßt. » - Träume (M. Wesendonck)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0LKgizd9ac4?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
+1. F. Schubert : « Hymne an die Jungfrau » – « Ellenʼs Gesang n° 3 » D839 5ʼ  
+2. F. Schubert : « Der Wanderer an den Mond » D870 2ʼ  
+3. F. Schubert : Winterreise – « Der Leiermann » D911 4ʼ 
+4. R. Schumann : « Die Lotosblume » – Myrten Op. 25 n°7 2ʼ  
+5. R. Schumann : « In der Fremde » – Liederkreis Op. 39 n°1 2ʼ  
+6. R. Schumann : « Mondnacht » – Liederkreis Op. 39 n°5 4ʼ  
+7. R. Schumann : « Ich grolle nicht » – Op. 48 n°7 2ʼ  
+8. R. Strauss : « Morgen » Op. 27 n°4  4ʼ 
+9. Solo Karen 
+10. H. Berlioz (°1803) : « Villanelle » 2ʼ15 
+11. C. Debussy (°1862): « Beau soir » 3ʼ  
+12. J. Massenet (°1842): « Sérénade dʼAutomne » 3ʼ 
+13. M. Ravel (°1875): Cinq mélodies populaires grecques n°2 « Là-bas, vers lʼéglise » 
+14. n°3 « Quel galant mʼest comparable ? » 
+15. n°5 « Tout gai! » 4ʼ 
+16. V. Bellini (°1801) « Per pietà, bel idol moi » – Sei Ariette n°5  3ʼ30  
+17. « Vaga luna » 4ʼ    
+18. G. Donizetti (°1797) « Mi voglio fa ʻna casa» 2ʼ  
+19. E. Piaf : « La Vie en rose »  3ʼ 
