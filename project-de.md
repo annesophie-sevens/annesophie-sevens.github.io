@@ -14,7 +14,7 @@ Belgian soprano Anne-Sophie Sevens and Belgian harpist Karen Peeters form the DU
 Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version for voice and harp, have a central place in their program. This young Belgian duo has yet in his repertoire works by Bellini, Debussy, Massenet, Ravel, Schubert, Schumann and Strauss. 
 
 
-Recital La Vie en rose – 20 maart 2020 
+Recital La Vie en rose – 20. März 2020 
 
 1. F. Schubert : « Hymne an die Jungfrau » – « Ellenʼs Gesang n° 3 » D839 5ʼ  
 2. F. Schubert : « Der Wanderer an den Mond » D870 2ʼ  
