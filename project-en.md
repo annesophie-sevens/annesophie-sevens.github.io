@@ -38,6 +38,8 @@ Recital La Vie en rose – March 20, 2020
 18. G. Donizetti (°1797) « Mi voglio fa ʻna casa» 2ʼ  
 19. E. Piaf : « La Vie en rose »  3ʼ 
 
+&nbsp;
+
 ###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
 ###### Contact: anka.harpandvoice@gmail.com
