@@ -93,7 +93,7 @@ VIER LETZTE LIEDER
 
 PRIVATE CONCERT 
 
-##### Arias of R. Wagner, G. Verdi and G. Puccini 
+##### Arias of G. Verdi and E. Morricone 
 
 ##### 23.01.2020
 
