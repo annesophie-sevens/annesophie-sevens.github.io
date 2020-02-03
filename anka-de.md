@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projekt
+title: Anka
 menuorder: 55
 lang: de
-ref: project
+ref: anka
 
 ---
 <img style="float: left; padding: 20px" src="/assets/eglise.jpg"> 
