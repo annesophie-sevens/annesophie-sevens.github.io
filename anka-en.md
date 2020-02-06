@@ -46,4 +46,4 @@ Recital La Vie en rose – March 20, 2020
 
 ###### Contact: anka.harpandvoice@gmail.com
 
-###### You can download Anka's repertoire [here]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf).
+###### You can download Duo Anka's repertoire [here]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf).
