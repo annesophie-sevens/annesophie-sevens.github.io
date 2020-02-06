@@ -46,3 +46,5 @@ Recital La Vie en rose – 20 mars 2020
 ###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
 ###### Contact: anka.harpandvoice@gmail.com
+
+###### Vous pouvez télécharger le répertoire de Duo Anka [ici]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf).
