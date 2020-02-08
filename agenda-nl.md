@@ -17,7 +17,7 @@ FIDELIO
 
 ##### Under the artistic direction of Prof. Siegfried Jerusalem
 
-##### _Orchestersaal der Hochschule für Musik Nürnberg_
+##### _Orchestersaal der Hochschule für Musik_
 
 ##### _Nürnberg – Germany_
 
