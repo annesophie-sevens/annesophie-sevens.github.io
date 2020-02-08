@@ -13,9 +13,11 @@ FIDELIO
 
 ##### In the role of Leonore
 
-##### Mai 2020  
+##### 28.6.2020 | 19:30
 
-##### Under the artistic direction of Prof. Siegfried Jerusalem 
+##### Under the artistic direction of Prof. Siegfried Jerusalem
+
+##### _Orchestersaal der Hochschule für Musik Nürnberg_
 
 ##### _Nürnberg – Germany_
 
