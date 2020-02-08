@@ -41,8 +41,6 @@ DUO ANKA IN RECITAL
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
