@@ -13,7 +13,7 @@ FIDELIO
 
 ##### In the role of Leonore
 
-##### 28.6.2020 | 19:30
+##### 28.6.2020 | 15:00
 
 ##### Under the artistic direction of Prof. Siegfried Jerusalem
 
