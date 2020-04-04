@@ -41,6 +41,9 @@ t:
     video:
       name: "Video"
       url: "/video-en.html"
+    press:
+      name: "Press"
+      url: "/press-en.html"
     anka:
       name: "Anka"
       url: "/anka-en.html"
@@ -63,6 +66,9 @@ t:
     video:
       name: "Vidéos"
       url: "/video-fr.html"
+    press:
+      name: "Presse"
+      url: "/press-fr.html"
     anka:
       name: "Anka"
       url: "/anka-fr.html"
@@ -85,6 +91,9 @@ t:
     video:
       name: "Video"
       url: "/video-de.html"
+    press:
+      name: "Presse"
+      url: "/press-de.html"
     anka:
       name: "Anka"
       url: "/anka-de.html"
@@ -107,6 +116,9 @@ t:
     video:
       name: "Video"
       url: "/video-nl.html"
+    press:
+      name: "Pers"
+      url: "/press-nl.html"
     anka:
       name: "Anka"
       url: "/anka-nl.html"
