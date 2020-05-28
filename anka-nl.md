@@ -47,3 +47,5 @@ Recital La Vie en rose – 19 september 2020
 ###### Contact: anka.harpandvoice@gmail.com
 
 ###### U kan [hier]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf) Duo Anka's Repertoire downloaden.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-TRcDCDUyA?rel=0" frameborder="0" allowfullscreen></iframe>
