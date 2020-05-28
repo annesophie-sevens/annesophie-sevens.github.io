@@ -16,7 +16,7 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 &nbsp;
 
 
-Recital La Vie en rose – March 20, 2020 
+Recital La Vie en rose – September 19, 2020 
 
 1. F. Mendelssohn : « Auf Flügeln des Gesanges » 
 2. F. Schubert : « Der Wanderer an den Mond » D870 
