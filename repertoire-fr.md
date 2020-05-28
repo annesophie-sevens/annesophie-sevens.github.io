@@ -6,5 +6,6 @@ lang: fr
 ref: Repertoire
 ---
 
-Vous pouvez télécharger son répertoire [ici]({{ site.baseurl }}/assets/REPERTOIRE.pdf).
+Vous pouvez télécharger son répertoire d'opéra [ici]({{ site.baseurl }}/assets/REPERTOIRE-OPERA.pdf).
 
+Vous pouvez télécharger son répertoire de Lied [ici]({{ site.baseurl }}/assets/REPERTOIRE-LIED.pdf).
