@@ -6,4 +6,4 @@ lang: fr
 ref: press
 ---
 
-Under construction
+Vous pouvez télécharger le document [ici]({{ site.baseurl }}/assets/Presse.pdf).
