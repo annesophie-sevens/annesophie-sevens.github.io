@@ -6,4 +6,4 @@ lang: nl
 ref: press
 ---
 
-Under construction
+U kan [hier]({{ site.baseurl }}/assets/Presse.pdf) het document downloaden.
