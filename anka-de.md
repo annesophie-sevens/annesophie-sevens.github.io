@@ -15,7 +15,7 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 &nbsp;
 
-Recital La Vie en rose – 20. März 2020 
+Recital La Vie en rose – 19. September 2020 
 
 1. F. Mendelssohn : « Auf Flügeln des Gesanges » 
 2. F. Schubert : « Der Wanderer an den Mond » D870 
@@ -46,5 +46,7 @@ Recital La Vie en rose – 20. März 2020
 ###### Contact: anka.harpandvoice@gmail.com
 
 ###### Sie können Duo Ankas Repertoire [hier]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf) herunterladen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-TRcDCDUyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
