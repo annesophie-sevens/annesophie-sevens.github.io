@@ -7,6 +7,24 @@ lang: en
 ---
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
+
+DUO ANKA IN RECITAL
+
+##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
+
+##### 19.9.2020 | 19:00 | Doors 18:45
+
+##### with harpist Karen Peeters
+
+##### _Avenue Capart 13b_
+
+##### _1090 Bruxelles – Belgium_
+
+###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Fidelio.png">
 
 FIDELIO
@@ -20,24 +38,6 @@ FIDELIO
 ##### _Orchestersaal der Hochschule für Musik_
 
 ##### _Nürnberg – Germany_
-
-&nbsp;
-
-<img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
-
-DUO ANKA IN RECITAL
-
-##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
-
-##### 20.3.2020 | 20:00 | Doors 19:45
-
-##### with harpist Karen Peeters
-
-##### _Avenue Capart 13b_
-
-##### _1090 Bruxelles – Belgium_
-
-###### <a href="https://www.casaveronica.net/events/duo-anka" target="_blank">More info & Tickets</a>
 
 &nbsp;
 
