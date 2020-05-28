@@ -17,7 +17,7 @@ Le Duo An-Ka, formé par la soprano Anne-Sophie Sevens et l’harpiste Karen Pee
 &nbsp;
 
 
-Recital La Vie en rose – 20 mars 2020 
+Recital La Vie en rose – 19 septembre 2020 
 
 1. F. Mendelssohn : « Auf Flügeln des Gesanges » 
 2. F. Schubert : « Der Wanderer an den Mond » D870 
