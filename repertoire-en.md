@@ -6,5 +6,6 @@ lang: en
 ref: Repertoire
 ---
 
-You can download her repertoire [here]({{ site.baseurl }}/assets/REPERTOIRE.pdf).
+You can download her opera repertoire [here]({{ site.baseurl }}/assets/REPERTOIRE-OPERA.pdf).
 
+You can download her lied repertoire [here]({{ site.baseurl }}/assets/REPERTOIRE-LIED.pdf).
