@@ -9,7 +9,7 @@ lang: en
 
 OPERA D'ARAN | Gilbert Bécaud
 
-##### in the role of Maureen (Concert)
+##### in the role of Maureen | concert
 
 ##### 11.10.2020 | 15:00 
 
