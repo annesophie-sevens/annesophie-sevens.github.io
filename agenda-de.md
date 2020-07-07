@@ -14,7 +14,7 @@ OPERA D'ARAN | Gilbert Bécaud
 
 ##### 11.10.2020 | 15:00 
 
-##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo | Venue: Lyrica Gent
+##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo 
 
 ##### _Minardschouwburg / Théâtre Minard_
 
