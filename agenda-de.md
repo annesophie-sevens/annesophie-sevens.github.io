@@ -5,6 +5,25 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+OPERA D'ARAN | Gilbert Bécaud
+
+##### in the role of Maureen (Concert)
+
+##### 11.10.2020 | 15:00 
+
+##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo | Venue: Lyrica Gent
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.uitbureau.be" target="_blank">Info & reservation</a>
+
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
