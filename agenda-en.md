@@ -59,8 +59,6 @@ OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
 
 &nbsp;
 
-&nbsp;
-
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL | CANCELLED 
