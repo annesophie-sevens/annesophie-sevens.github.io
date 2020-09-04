@@ -63,6 +63,8 @@ OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
 DUO ANKA IN RECITAL | CANCELLED 
@@ -81,6 +83,8 @@ DUO ANKA IN RECITAL | CANCELLED
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Fidelio.png">
 
 FIDELIO | CANCELLED 
@@ -94,6 +98,8 @@ FIDELIO | CANCELLED
 ##### _Orchestersaal der Hochschule für Musik_
 
 ##### _Nürnberg – Germany_
+
+&nbsp;
 
 &nbsp;
 
