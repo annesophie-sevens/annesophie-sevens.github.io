@@ -21,8 +21,6 @@ OPERA D'ARAN | Gilbert Bécaud
 
 ##### _9000 Ghent – Belgium_
 
-###### <a href="https://www.uitbureau.be" target="_blank">Info & reservation</a>
-
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
@@ -58,8 +56,6 @@ OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
 ##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
 
 ##### _9000 Ghent – Belgium_
-
-###### <a href="https://www.uitbureau.be" target="_blank">Info & reservation</a>
 
 &nbsp;
 
