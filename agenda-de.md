@@ -5,10 +5,47 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+OPERA D'ARAN | Gilbert Bécaud 
+
+##### in the role of Maureen | concert
+
+##### 6.6.2021 | 15:00 
+
+##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo 
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.uitbureau.be" target="_blank">Info & reservation</a>
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
+
+KONZERT IM ADVENT
+
+##### Lieder und Arie
+
+##### 1.12.2020 | 19:00 
+
+##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
+
+##### _St. Rochus-Kirche_
+
+##### _Zirndorf – Germany_
+
+&nbsp;
+
+&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA D'ARAN | Gilbert Bécaud
+OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
 
 ##### in the role of Maureen | concert
 
@@ -28,7 +65,7 @@ OPERA D'ARAN | Gilbert Bécaud
 
 <img style="float: left; padding: 20px" src="/assets/veroni.jpg"> 
 
-DUO ANKA IN RECITAL
+DUO ANKA IN RECITAL | CANCELLED 
 
 ##### Works of F. Schubert, C. Debussy, R. Hahn & M. Ravel
 
@@ -46,7 +83,7 @@ DUO ANKA IN RECITAL
 
 <img style="float: left; padding: 20px" src="/assets/Fidelio.png">
 
-FIDELIO
+FIDELIO | CANCELLED 
 
 ##### In the role of Leonore
 
