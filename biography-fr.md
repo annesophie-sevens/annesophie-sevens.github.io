@@ -39,8 +39,7 @@ Aujourd’hui elle chante régulièrement à Nürnberg sur invitation du ténor 
 pianiste Costin Filipoiu. En 2021 elle débutera en Allemagne, plus particulièrement à Cobourg en
 chantant une des Walkyries dans la chevauchée des Walkyries. En Belgique Anne-Sophie débutera
 avec Maureen dans l’Opéra d’Aran au Théâtre Minard à Gand en juin 2021. Elle est encadrée par trois
-agents : Tscherne Artists (Vienne), Humphries’ Management (Neuchâtel) et Diakov Management
-(Berlin). 
+agents : Tscherne Artists, Humphries’ Management et Diakov Management.
 
 Vous pouvez télécharger son CV [ici]({{ site.baseurl }}/assets/CV.pdf).
 
