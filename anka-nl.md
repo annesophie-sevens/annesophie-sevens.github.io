@@ -21,6 +21,6 @@ Maurice Ravel's Cinq mélodies populaires grecques, in their exceptional version
 
 ###### U kan [hier]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf) Duo Anka's Repertoire downloaden.
 
-###### U kan [hier]({{ site.baseurl }}/assets/DuoAnka.pdf) een recitalvoorbeeld downloaden.
+###### U kan [hier]({{ site.baseurl }}/assets/Duo Anka.pdf) een recitalvoorbeeld downloaden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-TRcDCDUyA?rel=0" frameborder="0" allowfullscreen></iframe>
