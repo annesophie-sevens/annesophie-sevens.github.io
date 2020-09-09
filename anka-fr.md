@@ -24,6 +24,6 @@ Le Duo An-Ka, formé par la soprano Anne-Sophie Sevens et l’harpiste Karen Pee
 
 ###### Vous pouvez télécharger le répertoire de Duo Anka [ici]({{ site.baseurl }}/assets/DuoAnkaEvent.pdf).
 
-###### Vous pouvez télécharger une exemple de récital [ici]({{ site.baseurl }}/assets/DuoAnka.pdf).
+###### Vous pouvez télécharger une exemple de récital [ici]({{ site.baseurl }}/assets/Duo Anka.pdf).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-TRcDCDUyA?rel=0" frameborder="0" allowfullscreen></iframe>
