@@ -41,7 +41,7 @@ OPERA AND PASSION
 
 ###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info</a>
 
-###### <a href="https://www.uitbureau.be" target="_blank">Tickets</a>
+###### <a href="www.uitbureau.be" target="_blank">Tickets</a>
 
 &nbsp;
 
