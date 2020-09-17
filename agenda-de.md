@@ -27,11 +27,11 @@ OPERA D'ARAN | Gilbert Bécaud
 
 OPERA AND PASSION 
 
-##### in the role of Lady Macbeth, Amelia.. | concert
+##### italian & french arias | concert
 
-##### 2.11.2021| 15:00 
+##### 2.11.2020 | 15:00 
 
-##### with Andrei Danilov| Director: François Lefevre 
+##### with Andrei Danilov | Director: François Lefevre 
 
 ##### _Minardschouwburg / Théâtre Minard_
 
