@@ -39,9 +39,7 @@ OPERA AND PASSION
 
 ##### _9000 Ghent – Belgium_
 
-###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info</a>
-
-###### <a href="www.uitbureau.be" target="_blank">Tickets</a>
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
 
 &nbsp;
 
@@ -79,9 +77,7 @@ OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
 
 ##### _9000 Ghent – Belgium_
 
-###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info</a>
-
-###### <a href="https://www.uitbureau.be" target="_blank">Tickets</a>
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
 
 &nbsp;
 
