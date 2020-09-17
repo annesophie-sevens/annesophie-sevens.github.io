@@ -23,6 +23,28 @@ OPERA D'ARAN | Gilbert Bécaud
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+OPERA AND PASSION 
+
+##### in the role of Lady Macbeth, Amelia.. | concert
+
+##### 2.11.2021| 15:00 
+
+##### with Andrei Danilov| Director: François Lefevre 
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info</a>
+
+###### <a href="https://www.uitbureau.be" target="_blank">Tickets</a>
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
 
 KONZERT IM ADVENT
@@ -56,6 +78,10 @@ OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
 ##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
 
 ##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info</a>
+
+###### <a href="https://www.uitbureau.be" target="_blank">Tickets</a>
 
 &nbsp;
 
