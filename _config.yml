@@ -44,9 +44,9 @@ t:
     press:
       name: "Press"
       url: "/press-en.html"
-    anka:
-      name: "Anka"
-      url: "/anka-en.html"
+#    anka:
+#      name: "Anka"
+#      url: "/anka-en.html"
     agenda:
       name: "Agenda"
       url: "/agenda-en.html"
@@ -69,9 +69,9 @@ t:
     press:
       name: "Presse"
       url: "/press-fr.html"
-    anka:
-      name: "Anka"
-      url: "/anka-fr.html"
+#    anka:
+#      name: "Anka"
+#      url: "/anka-fr.html"
     agenda:
       name: "Agenda"
       url: "/agenda-fr.html"
@@ -94,9 +94,9 @@ t:
     press:
       name: "Presse"
       url: "/press-de.html"
-    anka:
-      name: "Anka"
-      url: "/anka-de.html"
+#    anka:
+#      name: "Anka"
+#      url: "/anka-de.html"
     agenda:
       name: "Agenda"
       url: "/agenda-de.html"
@@ -119,9 +119,9 @@ t:
     press:
       name: "Pers"
       url: "/press-nl.html"
-    anka:
-      name: "Anka"
-      url: "/anka-nl.html"
+#    anka:
+#      name: "Anka"
+#      url: "/anka-nl.html"
     agenda:
       name: "Agenda"
       url: "/agenda-nl.html"
