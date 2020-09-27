@@ -35,7 +35,7 @@ RECITAL LISZT, WAGNER & STRAUSS
 
 ##### _Institut Bruno Lussato_
 
-##### _Avenue de la sapinière, 52, _
+##### _Avenue de la sapinière, 52_
 
 ##### _1080 Brussels - Belgium_
 
