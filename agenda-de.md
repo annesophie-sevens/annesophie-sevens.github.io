@@ -31,7 +31,7 @@ RECITAL LISZT, WAGNER & STRAUSS
 
 ##### 27.2.2021 | 20:00
 
-##### with pianist: Costin Filipoiu | Organisation: Cercle belge francophone Richard Wagner
+##### with pianist: Costin Filipoiu | Organisation: Cercle belge Richard Wagner
 
 ##### _Institut Bruno Lussato_
 
