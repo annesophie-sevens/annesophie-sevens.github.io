@@ -23,15 +23,33 @@ OPERA D'ARAN | Gilbert Bécaud
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg"> 
+
+RECITAL LISZT, WAGNER & STRAUSS
+
+##### Strauss’ ‘Vier letzte Lieder’, Wagner’ ‘Tannhäuser’, Mendelssohn’ ‘Lieder ohne Worte’ op. 62 
+
+##### 27.2.2021 | 20:00
+
+##### with pianist: Costin Filipoiu | Organisation: Cercle belge francophone Richard Wagner
+
+##### _Institut Bruno Lussato_
+
+##### _Avenue de la sapinière, 52, _
+
+##### _1080 Brussels - Belgium_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
 OPERA AND PASSION 
 
-##### italian & french arias | concert
+##### Arias & Duo's of Berlioz, Verdi, Puccini, Ponchielli | concert
 
 ##### 2.11.2020 | 15:00 
 
-##### with Andrei Danilov | Director: François Lefevre 
+##### with baryton Michael Terada, pianist Giacomo di Tollo | Director: François Lefevre 
 
 ##### _Minardschouwburg / Théâtre Minard_
 
@@ -45,7 +63,7 @@ OPERA AND PASSION
 
 <img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
 
-KONZERT IM ADVENT
+KONZERT IM ADVENT | CANCELLED 
 
 ##### Lieder und Arie
 
@@ -63,7 +81,7 @@ KONZERT IM ADVENT
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
+OPERA D'ARAN | Gilbert Bécaud | POSTPONED TO 6.6.2021
 
 ##### in the role of Maureen | concert
 
