@@ -25,7 +25,7 @@ OPERA D'ARAN | Gilbert Bécaud
 
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg"> 
 
-RECITAL LISZT, WAGNER & STRAUSS
+DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
 ##### Strauss’ ‘Vier letzte Lieder’, Wagner’ ‘Tannhäuser’, Mendelssohn’ ‘Lieder ohne Worte’ op. 62 
 
@@ -38,6 +38,24 @@ RECITAL LISZT, WAGNER & STRAUSS
 ##### _Avenue de la sapinière, 52_
 
 ##### _1080 Brussels - Belgium_
+
+<img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg"> 
+
+DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
+
+##### Strauss’ ‘Vier letzte Lieder’, Wagner’ ‘Tannhäuser’, Mendelssohn’ ‘Lieder ohne Worte’ op. 62 
+
+##### 7.2.2021 | 15:00
+
+##### with pianist: Costin Filipoiu 
+
+##### _Gemeindehaus St. Bartholomäus_
+
+##### _Weinickepl., 3_
+
+##### _90489 Nürnberg - Germany_
+
+&nbsp;
 
 &nbsp;
 
