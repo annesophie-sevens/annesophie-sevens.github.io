@@ -27,7 +27,7 @@ OPERA D'ARAN | Gilbert Bécaud
 
 DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
-##### Strauss’ ‘Vier letzte Lieder’, Wagner’ ‘Tannhäuser’, Mendelssohn’ ‘Lieder ohne Worte’ op. 62 
+##### Strauss ‘Vier letzte Lieder’, Wagner ‘Tannhäuser’, Mendelssohn ‘Lieder ohne Worte’ op. 62 
 
 ##### 27.2.2021 | 20:00
 
@@ -43,7 +43,7 @@ DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
 DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
-##### Strauss’ ‘Vier letzte Lieder’, Wagner’ ‘Tannhäuser’, Mendelssohn’ ‘Lieder ohne Worte’ op. 62 
+##### Strauss ‘Vier letzte Lieder’, Wagner ‘Tannhäuser’, Mendelssohn ‘Lieder ohne Worte’ op. 62 
 
 ##### 7.2.2021 | 15:00
 
