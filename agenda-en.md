@@ -23,6 +23,26 @@ OPERA D'ARAN | Gilbert Bécaud
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+OPERA AND PASSION 
+
+##### Arias & Duo's of Berlioz, Verdi, Puccini, Ponchielli | concert
+
+##### 5.4.2021 | 15:00 
+
+##### with baryton Michael Terada, pianist Giacomo di Tollo | Director: François Lefevre 
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg"> 
 
 DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
@@ -61,7 +81,7 @@ DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA AND PASSION | CANCELLED 
+OPERA AND PASSION | CANCELLED - POSTPONED TO 5.4.2021
 
 ##### Arias & Duo's of Berlioz, Verdi, Puccini, Ponchielli | concert
 
