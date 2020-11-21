@@ -81,7 +81,7 @@ DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA AND PASSION | CANCELLED - POSTPONED TO 5.4.2021
+OPERA AND PASSION | POSTPONED TO 5.4.2021
 
 ##### Arias & Duo's of Berlioz, Verdi, Puccini, Ponchielli | concert
 
@@ -119,7 +119,7 @@ KONZERT IM ADVENT | CANCELLED
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA D'ARAN | Gilbert Bécaud | CANCELLED - POSTPONED TO 6.6.2021
+OPERA D'ARAN | Gilbert Bécaud | POSTPONED TO 6.6.2021
 
 ##### in the role of Maureen | concert
 
@@ -172,6 +172,7 @@ FIDELIO | CANCELLED
 &nbsp;
 
 &nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Rathaus.jpg">
 
 SCHOLARSCHIP CONCERT
