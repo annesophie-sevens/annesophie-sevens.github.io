@@ -79,6 +79,24 @@ DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
+
+KONZERT IM ADVENT | CANCELLED 
+
+##### Lieder und Arie
+
+##### 1.12.2020 | 19:00 
+
+##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
+
+##### _St. Rochus-Kirche_
+
+##### _Zirndorf – Germany_
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
 OPERA AND PASSION | POSTPONED TO 5.4.2021
@@ -96,24 +114,6 @@ OPERA AND PASSION | POSTPONED TO 5.4.2021
 ##### _9000 Ghent – Belgium_
 
 ###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
-
-&nbsp;
-
-<img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg">
-
-KONZERT IM ADVENT | CANCELLED 
-
-##### Lieder und Arie
-
-##### 1.12.2020 | 19:00 
-
-##### Under the artistic direction of Prof. Siegfried Jerusalem | Venue : Lions Club Zirndorf
-
-##### _St. Rochus-Kirche_
-
-##### _Zirndorf – Germany_
-
-&nbsp;
 
 &nbsp;
 
