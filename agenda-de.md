@@ -25,9 +25,9 @@ OPERA D'ARAN | Gilbert Bécaud
 
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
-SCHOLARSCHIP CONCERT
+SCHOLARSCHIP CONCERT 
 
-##### 22.4.2020 | 17:30
+##### 22.4.2021 | 17:30
 
 ##### _Krypta Peterskirche_
 
