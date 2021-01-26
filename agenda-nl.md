@@ -23,6 +23,22 @@ OPERA D'ARAN | Gilbert Bécaud
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
+
+SCHOLARSCHIP CONCERT 
+
+##### 22.4.2021 | 17:30
+
+##### _Krypta Peterskirche_
+
+##### _1010 Wien, Peterspl. – Austria_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
 OPERA AND PASSION 
@@ -63,7 +79,7 @@ DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
 
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg"> 
 
-DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
+DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS | CANCELLED
 
 ##### Strauss ‘Vier letzte Lieder’, Wagner ‘Tannhäuser’, Mendelssohn ‘Lieder ohne Worte’ op. 62 
 
