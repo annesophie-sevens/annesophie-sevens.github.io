@@ -27,8 +27,6 @@ OPERA D'ARAN | Gilbert Bécaud
 
 HOMMAGE CONCERT RITA GORR 
 
-##### Arias 
-
 ##### 25.4.2021 | 15:00 
 
 ##### with pianist Giacomo di Tollo 
@@ -40,8 +38,6 @@ HOMMAGE CONCERT RITA GORR
 ##### _9000 Ghent – Belgium_
 
 ###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
-
-&nbsp;
 
 &nbsp;
 
