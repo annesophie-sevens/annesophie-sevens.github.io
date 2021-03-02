@@ -23,6 +23,26 @@ OPERA D'ARAN | Gilbert Bécaud
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+HOMMAGE CONCERT RITA GORR 
+
+##### Arias 
+
+##### 25.4.2021 | 15:00 
+
+##### with pianist Giacomo di Tollo 
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
 SCHOLARSCHIP CONCERT 
@@ -41,7 +61,7 @@ SCHOLARSCHIP CONCERT
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA AND PASSION 
+OPERA AND PASSION | POSTPONED 
 
 ##### Arias & Duo's of Berlioz, Verdi, Puccini, Ponchielli | concert
 
