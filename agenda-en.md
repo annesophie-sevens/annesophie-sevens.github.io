@@ -43,6 +43,8 @@ HOMMAGE CONCERT RITA GORR
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
 SCHOLARSCHIP CONCERT 
