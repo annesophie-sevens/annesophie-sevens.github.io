@@ -43,6 +43,26 @@ OPERA AND PASSION
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg"> 
+
+CONCERT
+
+##### Arias & Trio of Puccini, Wagner & Strauss | concert
+
+##### 14.6.2021, Monday | 14:00
+
+##### Artistic director: Siegfried Jerusalem 
+
+##### with pianist: Costin Filipoiu 
+
+##### _Gemeindehaus St. Bartholomäus_
+
+##### _Weinickepl., 3_
+
+##### _90489 Nürnberg - Germany_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
 OPERA D'ARAN | Gilbert Bécaud | POSTPONED 
