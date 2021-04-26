@@ -43,6 +43,22 @@ OPERA AND PASSION
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
+
+SCHOLARSCHIP CONCERT 
+
+##### 21.9.2021 | 19:00
+
+##### _Krypta Peterskirche_
+
+##### _1010 Wien, Peterspl. – Austria_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg"> 
 
 CONCERT
