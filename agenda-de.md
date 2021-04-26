@@ -45,7 +45,7 @@ OPERA AND PASSION
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-OPERA D'ARAN | Gilbert Bécaud 
+OPERA D'ARAN | Gilbert Bécaud | POSTPONED 
 
 ##### in the role of Maureen | concert
 
@@ -63,7 +63,7 @@ OPERA D'ARAN | Gilbert Bécaud
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
-HOMMAGE CONCERT RITA GORR 
+HOMMAGE CONCERT RITA GORR | POSTPONED 
 
 ##### 25.4.2021 | 15:00 
 
@@ -81,7 +81,7 @@ HOMMAGE CONCERT RITA GORR
 
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg">
 
-SCHOLARSCHIP CONCERT 
+SCHOLARSCHIP CONCERT | POSTPONED 
 
 ##### 22.4.2021 | 17:30
 
@@ -117,7 +117,7 @@ OPERA AND PASSION | POSTPONED
 
 <img style="float: left; padding: 20px" src="/assets/b2-thumbnail.jpg"> 
 
-DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS
+DUO ALCOR_ RECITAL LISZT, WAGNER & STRAUSS | POSTPONED 
 
 ##### Strauss ‘Vier letzte Lieder’, Wagner ‘Tannhäuser’, Mendelssohn ‘Lieder ohne Worte’ op. 62 
 
