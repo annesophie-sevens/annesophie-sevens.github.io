@@ -11,6 +11,44 @@ OPERA D'ARAN | Gilbert Bécaud
 
 ##### in the role of Maureen | concert
 
+##### 13.3.2022, Sunday | 15:00
+
+##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo 
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+OPERA AND PASSION 
+
+##### Arias & Duo's of Berlioz, Verdi, Puccini, Ponchielli | concert
+
+##### 17.10.2021, Sunday | 15:00
+
+##### with baryton Michael Terada, pianist Giacomo di Tollo | Director: François Lefevre 
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+OPERA D'ARAN | Gilbert Bécaud 
+
+##### in the role of Maureen | concert
+
 ##### 6.6.2021 | 15:00 
 
 ##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo 
