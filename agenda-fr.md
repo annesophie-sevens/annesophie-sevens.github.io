@@ -59,9 +59,41 @@ SCHOLARSCHIP CONCERT
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/b6-thumbnail.jpg"> 
+
+PRIVATE CONCERT 
+
+##### Italian songs and arias
+
+##### 18.09.2021
+
+##### _Wortegem-Petegem - Belgium_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/b6-thumbnail.jpg"> 
+
+PRIVATE CONCERT 
+
+##### Italian songs and arias
+
+##### 18.08.2021
+
+##### _Sint-Denijs-Westrem - Belgium_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Lohengrin.jpg"> 
 
-CONCERT
+CONCERT | POSTPONED 
 
 ##### Arias & Trio of Puccini, Wagner & Strauss | concert
 
