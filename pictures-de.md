@@ -5,11 +5,11 @@ menuorder: 7
 lang: de
 ref: pictures
 ---
-| <a href="/assets/CQ1.jpeg">![]({{ site.baseurl }}/assets/MCQ1.jpeg) </a>  | <a href="/assets/CQ2.jpg"> ![]({{ site.baseurl }}/assets/MCQ2.jpg) </a> | <a href="/assets/CQ3.jpeg"> ![]({{ site.baseurl }}/assets/MCQ3.jpg) </a> |
+| <a href="/assets/CQ1.jpeg">![]({{ site.baseurl }}/assets/MCQ1.jpeg) </a>  | <a href="/assets/CQ2.jpeg"> ![]({{ site.baseurl }}/assets/MCQ2.jpg) </a> | <a href="/assets/CQ3.jpeg"> ![]({{ site.baseurl }}/assets/MCQ3.jpg) </a> |
 
-| <a href="/assets/CQ4.jpeg">![]({{ site.baseurl }}/assets/MCQ4.jpg) </a>  | <a href="/assets/CQ5.jpg"> ![]({{ site.baseurl }}/assets/MCQ5.jpg) </a> | <a href="/assets/CQ6.jpeg"> ![]({{ site.baseurl }}/assets/MCQ6.jpg) </a> |
+| <a href="/assets/CQ4.jpeg">![]({{ site.baseurl }}/assets/MCQ4.jpg) </a>  | <a href="/assets/CQ5.jpeg"> ![]({{ site.baseurl }}/assets/MCQ5.jpg) </a> | <a href="/assets/CQ6.jpeg"> ![]({{ site.baseurl }}/assets/MCQ6.jpg) </a> |
 
-| <a href="/assets/CQ7.jpeg">![]({{ site.baseurl }}/assets/MCQ7.jpg) </a>  | <a href="/assets/CQ8.jpg"> ![]({{ site.baseurl }}/assets/MCQ8.jpg) </a> | <a href="/assets/CQ9.jpeg"> ![]({{ site.baseurl }}/assets/MCQ9.jpg) </a> |
+| <a href="/assets/CQ7.jpeg">![]({{ site.baseurl }}/assets/MCQ7.jpg) </a>  | <a href="/assets/CQ8.jpeg"> ![]({{ site.baseurl }}/assets/MCQ8.jpg) </a> | <a href="/assets/CQ9.jpeg"> ![]({{ site.baseurl }}/assets/MCQ9.jpg) </a> |
 
 | <a href="/assets/b6.jpeg">![]({{ site.baseurl }}/assets/b6-thumbnail.jpg) </a>  | <a href="/assets/2673.jpg"> ![]({{ site.baseurl }}/assets/2673c.jpg) </a> | <a href="/assets/5540.jpeg"> ![]({{ site.baseurl }}/assets/5540c.jpg) </a> |
 
