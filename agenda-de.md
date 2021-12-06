@@ -5,6 +5,22 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+<img style="float: left; padding: 20px" src="/assets/mCQ4.jpg"> 
+
+DIE WAKÜRE | Richard Wagner
+
+##### in the role of Gerhilde | opera
+
+##### 6.2.2022, Sunday | 19:30
+
+##### _Landestheater Coburg_
+
+##### _Schlossplatz 6_
+
+##### _96450 Coburg – Germany_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
 OPERA D'ARAN | Gilbert Bécaud 
@@ -22,6 +38,8 @@ OPERA D'ARAN | Gilbert Bécaud
 ##### _9000 Ghent – Belgium_
 
 &nbsp;
+
+
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
