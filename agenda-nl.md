@@ -5,7 +5,7 @@ menuorder: 60
 ref: agenda
 lang: nl 
 ---
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
 
@@ -21,7 +21,7 @@ DIE WALKÜRE | Richard Wagner
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
 
@@ -37,7 +37,7 @@ DIE WALKÜRE | Richard Wagner
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
 
@@ -71,7 +71,7 @@ OPERA D'ARAN | Gilbert Bécaud
 
 &nbsp;
 
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
 
