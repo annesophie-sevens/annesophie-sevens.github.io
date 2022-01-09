@@ -5,53 +5,6 @@ menuorder: 60
 ref: agenda
 lang: en
 ---
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
-
-DIE WALKÜRE | Richard Wagner
-
-##### in the role of Gerhilde | opera
-
-##### 06.02.2022, Sunday | 19:30
-
-##### _Landestheater Coburg_
-
-##### _Schlossplatz 6_
-
-##### _96450 Coburg – Germany_
-
-&nbsp;
-
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
-
-DIE WALKÜRE | Richard Wagner
-
-##### in the role of Gerhilde | opera
-
-##### 25.02.2022, Friday | 19:30
-
-##### _Landestheater Coburg_
-
-##### _Schlossplatz 6_
-
-##### _96450 Coburg – Germany_
-
-&nbsp;
-
-<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
-
-DIE WALKÜRE | Richard Wagner
-
-##### in the role of Gerhilde | opera
-
-##### 04.03.2022, Friday | 19:30
-
-##### _Landestheater Coburg_
-
-##### _Schlossplatz 6_
-
-##### _96450 Coburg – Germany_
-
-&nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
 
@@ -77,6 +30,7 @@ DIE WALKÜRE | Richard Wagner
 
 ##### in the role of Gerhilde | opera
 
+##### 27.03.2022, Sunday | 17:00
 ##### 14.04.2022, Thursday | 19:30
 ##### 18.04.2022, Monday | 19:30
 ##### 26.05.2022, Thursday | 19:30
