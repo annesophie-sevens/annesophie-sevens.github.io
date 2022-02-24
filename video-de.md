@@ -22,6 +22,10 @@ ref: video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k8PtBs4kjuk?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSN1I6JI1yY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8e7adE0r8I?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pKSMGTnwyTI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zxpm2V7Mkys?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -31,10 +35,6 @@ ref: video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hErrQmxQGas?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ch_KzVHHDo?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSN1I6JI1yY?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L8e7adE0r8I?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxZmoHUEPwg?rel=0" frameborder="0" allowfullscreen></iframe>
 
