@@ -36,6 +36,7 @@ DIE WALKÜRE | Richard Wagner
 ##### 26.05.2022, Thursday | 19:30
 ##### 05.06.2022, Sunday | 19:30
 ##### 16.06.2022, Thursday | 19:30
+##### 26.06.2022, Sunday | 17:00
 
 ##### _Landestheater Coburg_
 
