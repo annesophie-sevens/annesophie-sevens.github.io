@@ -11,8 +11,6 @@ ref: video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BpTcLvG4Cdg?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IKqgolesVzI?rel=0" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlWX3EJJt1Q?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zxpm2V7Mkys?rel=0" frameborder="0" allowfullscreen></iframe>
