@@ -5,6 +5,22 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+<img style="float: left; padding: 20px" src="/assets/MCQ7.jpg"> 
+
+ELIAS | F. Mendelssohn
+
+##### Sopransolo
+
+##### 22.-25.9.2022
+
+##### _Mainz, Darmstadt - Deutschland_
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/MCQ8.jpg"> 
 
 PRIVATE CONCERT 
