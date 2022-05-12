@@ -5,6 +5,7 @@ menuorder: 10
 lang: fr
 ref: press
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpTcLvG4Cdg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Vous pouvez télécharger le document [ici]({{ site.baseurl }}/assets/Presse.pdf).
 
