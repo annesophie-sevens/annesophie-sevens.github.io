@@ -5,6 +5,7 @@ menuorder: 10
 lang: nl
 ref: press
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpTcLvG4Cdg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 U kan [hier]({{ site.baseurl }}/assets/Presse.pdf) het document downloaden.
 
