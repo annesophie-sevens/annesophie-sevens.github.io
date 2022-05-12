@@ -6,21 +6,19 @@ ref: agenda
 lang: en
 ---
 
-<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ8.jpg"> 
 
-OPERA D'ARAN | Gilbert Bécaud 
+PRIVATE CONCERT 
 
-##### in the role of Maureen | concert
+##### Italian songs and arias
 
-##### 13.3.2022, Sunday | 15:00
+##### 31.07.2022
 
-##### with Laurent Kubla, Philippe Brocard, Kenny Ferreira | Director: Giacomo Di Tollo 
+##### _Belgium_
 
-##### _Minardschouwburg / Théâtre Minard_
+&nbsp;
 
-##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
-
-##### _9000 Ghent – Belgium_
+&nbsp;
 
 &nbsp;
 
@@ -43,6 +41,22 @@ DIE WALKÜRE | Richard Wagner
 ##### _Schlossplatz 6_
 
 ##### _96450 Coburg – Germany_
+
+&nbsp;
+
+<img style="float: left; padding: 20px" src="/assets/MCQ8.jpg"> 
+
+PRIVATE CONCERT 
+
+##### "Ma rendi pur contento" (V. Bellini), "Laudate Dominum" (W.A. Mozart)
+
+##### 28.05.2022
+
+##### _La Spezia - Italy_
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
