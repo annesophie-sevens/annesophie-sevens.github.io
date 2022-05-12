@@ -17,7 +17,8 @@ ses débuts en incarnant Laetitia dans Menotti’s «The Old maid and the thief�
 Solothurn. Anne-Sophie a interprété Lauretta dans «Gianni Schicchi» (Puccini) représenté à
 l’International Belcanto Academy; durant sa formation au Studio Suisse d’Opéra, elle interpréta des
 scènes d’Elettra dans «Idomeneo» (Mozart), Micaela dans «Carmen» (Bizet), Marie dans «Die
-verkaufte Braut» (Smetana) et Agathe dans «Der Freischütz» (Weber).
+verkaufte Braut» (Smetana) et Agathe dans «Der Freischütz» (Weber). En 2022 elle a interpreté Maureen dans 
+«Opéra d'Aran» (Bécaud) au Théatre Minard, Gand. Actuellement elle chante Gerhilde dans «Die Walküre» (Wagner) au Landestheater Coburg.
 
 En 2017, Anne-Sophie fut lauréate des concours Bellincanto à Bellinzona, Suisse et Ljuba Welitsch à
 Vienne. Cette année, elle participa également au concours international Elizabeth Connell à Londres
