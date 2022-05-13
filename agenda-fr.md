@@ -7,7 +7,7 @@ lang: fr
 ---
 <img style="float: left; padding: 20px" src="/assets/MCQ7.jpg"> 
 
-ELIAS | Felix Mendelssohn
+ELIAS | Mendelssohn
 
 ##### Sopransolo
 
