@@ -5,6 +5,24 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+<img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
+
+DIE WALKÜRE | Richard Wagner
+
+##### in the role of Gerhilde | opera
+
+##### 03.10.2022, Monday | 17:00
+##### 06.11.2022, Sunday | 17:00
+##### 29.01.2023, Sunday | 17:00
+
+##### _Landestheater Coburg_
+
+##### _Schlossplatz 6_
+
+##### _96450 Coburg – Germany_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/MCQ7.jpg"> 
 
 ELIAS | Mendelssohn
