@@ -5,8 +5,6 @@ menuorder: 5
 lang: de
 ref: video
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DsgTv-h1wbA?rel=0" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlWX3EJJt1Q?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zxpm2V7Mkys?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -14,8 +12,6 @@ ref: video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pKSMGTnwyTI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7dSeHeD5blg?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSN1I6JI1yY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/op05AunlawY?rel=0" frameborder="0" allowfullscreen></iframe>
 
