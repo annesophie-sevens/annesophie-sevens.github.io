@@ -23,6 +23,26 @@ DIE WALKÜRE | Richard Wagner
 
 &nbsp;
 
+<img style="float: left; padding: 20px" src="/assets/Minard.jpg"> 
+
+EEN WONDERBAARLIJKE REIS DOOR DE WERELD VAN DE OPERA
+
+##### Arias & Duo's of Verdi, Puccini, Wagner, Gounod | concert
+
+##### 02.10.2022, Sunday | 15:00
+
+##### with tenor Ivan Defabiani, pianist Virgil Van Essche
+
+##### _Minardschouwburg / Théâtre Minard_
+
+##### _Romain Deconinckplein (GPS Walpoortstraat 15)_
+
+##### _9000 Ghent – Belgium_
+
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/MCQ7.jpg"> 
 
 ELIAS | Mendelssohn
