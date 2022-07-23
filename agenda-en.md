@@ -39,7 +39,8 @@ EEN WONDERBAARLIJKE REIS DOOR DE WERELD VAN DE OPERA
 
 ##### _9000 Ghent – Belgium_
 
-###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info & Tickets</a>
+###### <a href="https://www.concertorganisatie-lyrica.be" target="_blank">More info</a>
+###### <a href="https://minard.be/voorstelling/lyrica/" target="_blank">Tickets</a>
 
 &nbsp;
 
