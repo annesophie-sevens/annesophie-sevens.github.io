@@ -50,11 +50,11 @@ ELIAS | Mendelssohn
 
 ##### Sopransolo
 
+##### With the Ensemble Chordial Mainz and the Kantorei Selzen
+
 ##### 22.09.2022, Thursday | 19:30 _Martinskirche Nierstein - Deutschland_
 ##### 24.09.2022, Sathurday | 18:00 _Christuskirche Mainz - Deutschland_
 ##### 25.09.2022, Sunday | 18:00 _Pauluskirche Darmstadt - Deutschland_
-
-##### 
 
 &nbsp;
 
