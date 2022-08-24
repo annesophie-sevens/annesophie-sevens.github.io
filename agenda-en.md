@@ -48,7 +48,9 @@ EEN WONDERBAARLIJKE REIS DOOR DE WERELD VAN DE OPERA
 
 ELIAS | Mendelssohn
 
-##### Sopransolo
+##### Sopransol
+
+##### With the Ensemble Chordial Mainz and the Kantorei Selzen
 
 ##### 22.09.2022, Thursday | 19:30 _Martinskirche Nierstein - Deutschland_
 ##### 24.09.2022, Sathurday | 18:00 _Christuskirche Mainz - Deutschland_
