@@ -20,5 +20,5 @@ Het gerenommeerd Richard Wagner Verband Wenen gaf haar in 2019 een beurs voor ee
 
 Ze studeerde aan het Lemmensinstituut (nu Luca School of Arts), het Koninklijk Conservatorium te Brussel en de Schweizer Opernstudio Biel. Ze genoot tevens coaching van Nadine Secunde, Edda Moser en Siegfried Jerusalem. Tijdens een masterclass met deze laatste in Lübbeck had ze het plezier geïnterviewd te worden door ARTE waarbij ze de aria van Ariadne 'Es gibt ein Reich' ("Ariadne auf naxos", R. Strauss) interpreteerde.
 
-You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
+U kan haar CV [hier]({{ site.baseurl }}/assets/CV.pdf) downloaden.
 
