@@ -14,7 +14,7 @@ Als concertopvoering zong Anne-Sophie Alma Mahler's 'Fünf Lieder' in 2012 en bi
 
 In het najaar 2022 zingt ze de sopraanpartij in 'Elias' van F. Mendelssohn. De concerten vinden plaats in Mainz, Darmstadt en Nierstein.  
 
-Anne-Sophie is ontvangster van verschillende beurzen: ze nam hierbij deel aan Opernwerkstatt (2016, 2018) onder de artistieke leiding van Verena Keller, met concerten in Sigriswil, Zürich, Basel en Bern en scènes van Marie (“Wozzeck”, Berg) en Santuzza (“Cavalleria rusticana”, Mascagni) interpreterend.  
+Anne-Sophie is ontvangster van verschillende beurzen: ze nam hierbij deel aan Opernwerkstatt (2016, 2018) onder de artistieke leiding van Verena Keller, met concerten in Sigriswil, Zürich, Basel en Bern, scènes van Marie (“Wozzeck”, Berg) en Santuzza (“Cavalleria rusticana”, Mascagni) interpreterend.  
 
 Het gerenommeerd Richard Wagner Verband Wenen gaf haar in 2019 een beurs voor een bezoek aan de Bayreuther Festspiele.  
 
