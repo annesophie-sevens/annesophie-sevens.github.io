@@ -5,7 +5,7 @@ menuorder: 7
 lang: nl
 ref: pictures
 ---
-| <a href="/assets/CQ1.jpeg">![]({{ site.baseurl }}/assets/MCQ1.jpeg) </a>  | <a href="/assets/CQ2.jpeg"> ![]({{ site.baseurl }}/assets/MCQ2.jpg) </a> | <a href="/assets/CQ3.jpeg"> ![]({{ site.baseurl }}/assets/MCQ3.jpg) </a> |
+| <a href="/assets/CQ1.jpeg">![]({{ site.baseurl }}/assets/MCQ1.jpeg) </a>  | <a href="/assets/2174.jpeg"> ![]({{ site.baseurl }}/assets/2174-m.jpg) </a> | <a href="/assets/2832.jpeg"> ![]({{ site.baseurl }}/assets/2832-m.jpg) </a> |
 
 | <a href="/assets/CQ7.jpeg">![]({{ site.baseurl }}/assets/MCQ7.jpg) </a>  | <a href="/assets/CQ5.jpeg"> ![]({{ site.baseurl }}/assets/MCQ5.jpg) </a> | <a href="/assets/CQ9.jpeg"> ![]({{ site.baseurl }}/assets/MCQ9.jpg) </a> |
 
