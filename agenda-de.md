@@ -5,6 +5,22 @@ menuorder: 60
 ref: agenda
 lang: de
 ---
+<img style="float: left; padding: 20px" src="/assets/nov 2023.jpg"> 
+
+RECITAL | Richard Wagner, Franz Liszt, Claude Debussy
+
+##### Wesendonck-Lieder | Proses lyriques
+
+##### with pianist Daniel Madero
+
+##### 02.11.2023, Thursday | 20:00
+
+##### _Hôtel de ville_
+
+##### _1000 Brussels – Belgium_
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
