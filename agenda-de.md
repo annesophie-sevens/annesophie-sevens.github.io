@@ -19,6 +19,8 @@ RECITAL | Richard Wagner, Franz Liszt, Claude Debussy
 
 ##### _1000 Brussels – Belgium_
 
+###### <a href="https://wagner23.cerclewagner.be/de/prog/offizielle-eroffnung-und-rezital/" target="_blank">More info</a>
+
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
