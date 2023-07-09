@@ -7,7 +7,7 @@ lang: de
 ---
 <img style="float: left; padding: 20px" src="/assets/nov 2023.jpg"> 
 
-RECITAL | Richard Wagner, Franz Liszt, Claude Debussy
+RECITAL | Wagner, Liszt, Debussy
 
 ##### Wesendonck-Lieder | Proses lyriques
 
