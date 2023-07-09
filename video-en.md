@@ -13,15 +13,9 @@ ref: video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CpG3kJ14y9c?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h4Mmv2BGafM?rel=0" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gSN1I6JI1yY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qo_fpSglCKk?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RLehR-uSrEM?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7dSeHeD5blg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/op05AunlawY?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -29,22 +23,12 @@ ref: video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdkvjTWnCJA?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TgLKc1ti5_c?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k8PtBs4kjuk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2vZ1IOwnOYg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKSMGTnwyTI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwj-8Ht7Wr0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ryRgDhy5AQs?rel=0" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGVZJWG6Lfs?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
-
-
