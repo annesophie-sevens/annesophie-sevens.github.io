@@ -5,6 +5,24 @@ menuorder: 60
 ref: agenda
 lang: en
 ---
+<img style="float: left; padding: 20px" src="/assets/nov 2023.jpg"> 
+
+RECITAL | Wagner, Liszt, Debussy
+
+##### Wesendonck-Lieder | Proses lyriques
+
+##### with pianist Daniel Madero
+
+##### 02.11.2023, Thursday | 20:00
+
+##### _Hôtel de ville_
+
+##### _1000 Brussels – Belgium_
+
+###### <a href="https://wagner23.cerclewagner.be/de/prog/offizielle-eroffnung-und-rezital/" target="_blank">More info</a>
+
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
