@@ -18,7 +18,7 @@ Solothurn. Anne-Sophie a interprété Lauretta dans «Gianni Schicchi» (Puccini
 l’International Belcanto Academy; durant sa formation au Studio Suisse d’Opéra, elle interpréta des
 scènes d’Elettra dans «Idomeneo» (Mozart), Micaela dans «Carmen» (Bizet), Marie dans «Die
 verkaufte Braut» (Smetana) et Agathe dans «Der Freischütz» (Weber). En 2022 elle a interpreté Maureen dans 
-«Opéra d'Aran» (Bécaud) avec Lyrica au Théatre Minard, Gand. Actuellement elle chante Gerhilde dans «Die Walküre» (Wagner) au Landestheater Coburg.
+«Opéra d'Aran» (Bécaud) avec Lyrica au Théatre Minard, Gand. Au cours des saisons 2021-2022 et 2022-2023, elle a interprété à nouveau le rôle de Gerhilde (La Walkyrie) au Landestheater de Cobourg.
 
 En 2017, Anne-Sophie fut lauréate des concours Bellincanto à Bellinzona, Suisse et Ljuba Welitsch à
 Vienne. Cette année, elle participa également au concours international Elizabeth Connell à Londres
