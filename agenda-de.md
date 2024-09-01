@@ -31,6 +31,8 @@ RECITAL | Wagner, Liszt, Debussy
 
 &nbsp;
 
+&nbsp;
+
 <img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
 
 DIE WALKÜRE | Richard Wagner
