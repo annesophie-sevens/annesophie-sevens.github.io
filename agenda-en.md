@@ -5,7 +5,7 @@ menuorder: 60
 ref: agenda
 lang: en
 ---
-<img style="float: left; padding: 20px" src="/assets/nov 2023.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ7.jpg"> 
 
 RECITAL | Wagner, Liszt, Debussy
 
