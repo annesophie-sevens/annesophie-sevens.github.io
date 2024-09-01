@@ -21,6 +21,14 @@ RECITAL | Wagner, Liszt, Debussy
 
 ###### <a href="https://wagner23.cerclewagner.be/de/prog/offizielle-eroffnung-und-rezital/" target="_blank">More info</a>
 
+##### 23.11.2023, Thursday | 20:00
+
+##### _Haus Hoffmansthal_
+
+##### _Reisnerstraße 37, Wien_
+
+###### <a href="https://www.richardwagnerverband.at/" target="_blank">More info</a>
+
 &nbsp;
 
 <img style="float: left; padding: 20px" src="/assets/MCQ1.jpeg"> 
