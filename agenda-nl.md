@@ -5,7 +5,7 @@ menuorder: 60
 ref: agenda
 lang: nl 
 ---
-<img style="float: left; padding: 20px" src="/assets/nov 2023.jpg"> 
+<img style="float: left; padding: 20px" src="/assets/MCQ7.jpg"> 
 
 RECITAL | Wagner, Liszt, Debussy
 
@@ -20,6 +20,14 @@ RECITAL | Wagner, Liszt, Debussy
 ##### _1000 Brussels – Belgium_
 
 ###### <a href="https://wagner23.cerclewagner.be/de/prog/offizielle-eroffnung-und-rezital/" target="_blank">More info</a>
+
+##### 23.11.2023, Thursday | 20:00
+
+##### _Haus Hoffmansthal_
+
+##### _Reisnerstraße 37, Wien_
+
+###### <a href="https://www.richardwagnerverband.at/" target="_blank">More info</a>
 
 &nbsp;
 
